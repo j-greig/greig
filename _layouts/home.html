@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include header.html %}
+
+  <body class="{{body_class}} serif Xdebug h-100">
+
+    <div class="min-h-100 w-100 bg-bright-green sans-serif">
+        {% include nav.html %}
+
+        <div class="dt h-100">
+            <div class="dtc v-top pt2 pt4-l cf">
+                {{ content }}
+            </div>
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

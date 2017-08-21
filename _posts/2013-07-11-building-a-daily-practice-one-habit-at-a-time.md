@@ -1,0 +1,12 @@
+---
+id: 99
+title: Building a daily practice, one habit at a time
+date: 2013-07-11T13:45:29+00:00
+author: James Greig
+layout: post
+guid: http://greig.cc/2013/07/11/20136building-a-daily-practice-one-habit-at-a-time/
+permalink: /building-a-daily-practice-one-habit-at-a-time/
+categories:
+  - Uncategorised
+---
+<p>I have a nasty habit of judging fat people.</p><p><span style="line-height: 1.6em;">I look at them and wonder how they got like that, what the hell they are eating, if there was a point where they realised they'd&nbsp;crossed&nbsp;the line into&nbsp;obesity,&nbsp;</span><span style="line-height: 1.6em;">if they're trying to do anything about it.</span></p><p>Maybe I choose fat people because it's easy to feel like I'm better than them.</p><p>It's harder to pass&nbsp;judgement&nbsp;on people you perceive to be better than you. Usually you just get awestruck instead.</p><p><a href="http://sethgodin.typepad.com/seths_blog/2013/06/the-5000th-post.html">Seth Godin recently posted this 5,000th blog post.</a>&nbsp;For the past few years he has written something on his blog on a daily basis. Now that is impressive. He also wrote that his biggest&nbsp;surprise&nbsp;was "<span style="line-height: 1.6em;">That more people aren't doing this."</span></p><p>Why aren't they? Why is it so hard to make habits stick?&nbsp;</p><p>You have to start with small steps.</p><p>Pick one thing habit you want to&nbsp;acquire, and build on top of that. &nbsp;</p><p>My problem in the past has been piling everthing into an uber-wishlist. I wanted to learn to play guitar, and go running, and write short stories and generally make myself a better human being. But I did none of it. Except buy new running shoes and a book about the running tribes of Mexico and then go jogging a couple of times before stopping.</p><p>So, start with just one habit.&nbsp;</p><p>For me it's going to be meditation. &nbsp;</p><p>Most days now I sit with my eyes closed for 10 minutes before I start my day. In fact I've just upped the time to 11 minutes.&nbsp;</p><p>When I've done this 30 days in a row, I'm going to level up. (You can use apps like <a href="http://thinklegend.com/commit/">Commit</a> or <a href="https://lift.do/">Lift</a> to help track your progress on this kind of thing).</p><p>And then aim to write 1,000 words a day, on top of meditating.</p><p>Then (perhaps) build another habit on top of that.</p><p>&nbsp;</p>

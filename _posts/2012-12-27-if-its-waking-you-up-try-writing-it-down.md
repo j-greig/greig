@@ -1,0 +1,12 @@
+---
+id: 119
+title: 'If it&#8217;s waking you up, try writing it down'
+date: 2012-12-27T19:53:27+00:00
+author: James Greig
+layout: post
+guid: http://greig.cc/2012/12/27/201212if-its-waking-you-up-try-writing-it-down/
+permalink: /if-its-waking-you-up-try-writing-it-down/
+categories:
+  - Writing
+---
+<p>If you're losing sleep because you can't stop thinking about something, here's a disarmingly simple tip from <a href="http://chrisguillebeau.com/" data-link-type="external">Chris Guillebeau</a>, author of&nbsp;<a href="http://www.amazon.com/gp/product/0399536108/ref=as_li_ss_tl?ie=UTF8&amp;tag=dead0b-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0399536108" data-link-type="external">The Art of Non-Conformity</a>&nbsp;and&nbsp;<a href="http://100startup.com/" data-link-type="external">The $100 Startup</a>.</p><blockquote>I kept waking up at night with more ideas. If I didn’t write them down, I couldn’t get back to sleep. I learned a while back that when you wake up feeling excited about an idea and can’t shake it, there’s usually a reason for it. It’s a good idea to pay attention to what you’re being told by the universe.</blockquote><p>On a slight tangent, I believe there's an interesting&nbsp;parallel&nbsp;here with lucid dreaming.</p><p>Why?</p><p>In short: because <a href="http://www.world-of-lucid-dreaming.com/dream-journal.html" data-link-type="external">keeping a dream journal</a> is one of the most cited methods of improving your recall of&nbsp;<a href="http://en.wikipedia.org/wiki/Rapid_eye_movement_sleep" data-link-type="external">REM sleep</a>&nbsp;(the still-mysterious&nbsp;phase&nbsp;of&nbsp;reduced consciousness when dreams happen).</p><p>During REM sleep, the activity of your brain's neurons is most similar to that during waking hours, so it follows that anything which is waking you up, might be doing so for a reason.</p><p>Next time something wakes you up, try writing it down... or even drawing it, something I always do after a particularly vivid dream.</p><p></p>

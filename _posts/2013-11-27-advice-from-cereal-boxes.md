@@ -1,0 +1,12 @@
+---
+id: 145
+title: 'Don&#8217;t take advice from the side of cereal boxes'
+date: 2013-11-27T08:23:48+00:00
+author: James Greig
+layout: post
+guid: http://greig.cc/2013/11/27/advice-from-cereal-boxes/
+permalink: /advice-from-cereal-boxes/
+categories:
+  - Uncategorised
+---
+<p>Cereal was much more fun when I was growing up in the 80s. You could collect tokens for a free stunt kite, or find bicarbonate of soda powered submarines buried deep inside the packet, or cut up the box to construct animals masks and airport runways.</p><p>These days the cereal consumption experience is less visceral, but the nutritional claims on the side of the box are still the same old bullshit. Oh yes, Coco Pops are packed full of 50% of your RDA of vitamins and minerals, but they are also 35% sugar. Real healthy stuff you got there Kelloggs.</p><p>Did anyone other than a cereal manufacturer ever tell you that cereal was healthy? Are you sure whole-grains are good for you? Do you really want to turn the milk chocolatey? (Ok, maybe I do agree with that last one). But I try to take this stuff with a pinch of salt.</p><p>If you go see a mortgage advisor, they will try to convince you that borrowing five times your salary over a period of thirty years is good for you too. The guy at the phone shop wants you to upgrade your phone even if you bought a new one yesterday. The snake oil salesman wants you to buy snake oil. The razor brand want you to buy a razor with one more blade than the one you already have.</p><p>STOP.</p><p>You don't have to buy a house. Your old phone is more powerful than most supercomputers from thirty years ago. You don't even have to shave at all if you don't want to. (And I've no idea what snake oil does).</p><p>The point is, advice from other people often comes loaded with other intentions. And that doesn't just apply to advertising and marketing.<span style="line-height:1.6em">&nbsp;Your parents might give you advice that errs to caution because they want you to be safe. Do you want your life to be headed for destination 'safe'? I'm guessing not.</span></p><p>So. Don't read the side of cereal boxes. Don't take advice on face value.&nbsp;(Yup, even this blog post could be bogus. But I hope not.) Don't listen to the critics, the haters, the whiners, the nay-sayers or the status quo.</p><p>Listen to your inner voice.</p><p>You have all the answers you need inside you already.&nbsp;</p>

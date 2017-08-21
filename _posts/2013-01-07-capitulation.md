@@ -1,0 +1,13 @@
+---
+id: 90
+title: 'Why I&#8217;ve capitulated on my &#8220;no resolutions&#8221; resolution'
+date: 2013-01-07T07:06:44+00:00
+author: James Greig
+layout: post
+guid: http://greig.cc/2013/01/07/20131capitulation/
+permalink: /capitulation/
+categories:
+  - Uncategorised
+---
+<p>Last year I didn't set myself any goals, and achieved (almost) everything I put my mind to, so I figured that it's time to up the ante.</p><p>This decision was partly inspired by <a href="http://nathanbarry.com/starting-web-app-challenge/">Nathan Barry's Web App Challenge</a>&nbsp;— and everyone else on the web who is holding themselves accountable in public. I salute your bravery.</p><p><a href="https://twitter.com/howells/status/286419649355190273">Restricting my resolutions to a tweet </a>seemed like a sensible precaution.&nbsp;</p><p>Here's what I ended up with:</p><blockquote class="twitter-tweet"><p>2013 objectives: write <a href="https://twitter.com/search/%23howtostopbeingagraphicdesigner">#howtostopbeingagraphicdesigner</a> book, release @<a href="https://twitter.com/_yakushima">_yakushima</a> EP, blog daily, monetise @<a href="https://twitter.com/cyclelovehq">cyclelovehq</a>. Hold me accountable!</p>— James Greig (@j_greig) <a href="https://twitter.com/j_greig/status/287640604102512640" data-datetime="2013-01-05T19:23:58+00:00">January 5, 2013</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p>To stay updated on my "How to Stop Being A Graphic Designer" book, <a href="http://greig.cc/newsletter/" data-link-type="external">join my mailing list</a>.</p><p>And for some rather more unusual/interesting resolutions, see Brain Pickings'&nbsp;<a href="http://www.brainpickings.org/index.php/2013/01/01/four-famous-new-years-resolution-lists-jonathan-swift-susan-sontag-marilyn-monroe-woody-guthrie/" data-link-type="external">Four Famous New Year's Resolutions</a>&nbsp;. You might also want to&nbsp;<a href="http://www.brainpickings.org/newsletter/" data-link-type="external">sign up for their newsletter</a>, which is possibly the finest in the world.&nbsp;</p>
