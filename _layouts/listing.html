@@ -1,17 +1,8 @@
 ---
-layout: listing
+layout: default
 ---
 {% include style_snippets.html %}
-
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {% include header.html %}
-
-  <body class="{{body_class}} serif Xdebug h-100">
-
-    {% include nav.html %}
-
+LISTING
 <section id="content" class="center">
   <div class="mb5 ph3 ph5-m ph6-l w-100">
     <h1 class="mw7 mb0 f3 f2-m f1-l lh-title normal sans-serif">Articles</h1>
@@ -24,9 +15,9 @@ layout: listing
 
     {% for post in paginator.posts %}
     <article class="mb5 ph3 ph5-m ph6-l">
-        {{ h3_styled }}><a href="{{ post.url }}" class="link">{{ post.title }}</a></h3>
-        {{ pstring_styled }}{{ post.excerpt | strip_html | truncatewords:30 }}</p>
-        <p><small>{{ post.categories }}</small>
+        <h3 class="f3 f3-l mb2 lh-title center normal sans-serif lh-title"><a href="{{ post.url }}" class="link">{{ post.title }}</a></h3>
+        <p class="f4 mt0 measure lh-copy">{{ post.excerpt | strip_html | truncatewords:30 }}</p>
+        <!-- <p><small>{{ post.categories }}</small> -->
         <!-- <small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> -->
         </p>
     </article>
@@ -48,9 +39,3 @@ layout: listing
     </div>
 
   </section>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>

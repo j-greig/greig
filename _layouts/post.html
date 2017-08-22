@@ -1,45 +1,23 @@
 ---
-layout: post
+layout: default
 ---
 {% include style_snippets.html %}
+POST
+<article class="pa3 pa5-m pa6-l pt2-l">
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <h1 class="mw7 f3 f1-m mb4 f1-l lh-title normal sans-serif lh-title">{{page.title}}</h1>
 
-  {% include header.html %}
+  <div class="article-body">
 
-  <body class="{{body_class}} serif Xdebug h-100">
+    {{ content | replace : pstring, pstring_styled | replace : blockquote, blockquote_styled }}
 
-    {% include nav.html %}
+    <hr>
 
-    <article class="pa3 pa5-m pa6-l pt2-l">
+    <p class="mt4">Posted to: {% if post %} {% assign categories = post.categories %} {% else %} {% assign categories = page.categories %} {% endif %} {% for category in categories %}
+      <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a> {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+    </p>
 
-    <h1 class="mw7 f3 f1-m mb4 f1-l lh-title normal sans-serif lh-title">{{page.title}}</h1>
-    <div class="article-body">
+    {% include newsletter-signup.html %}
 
-        {{ content | replace : pstring, pstring_styled | replace : blockquote, blockquote_styled }}
-
-        <hr>
-
-        <p class="mt4">Posted to:
-          {% if post %}
-            {% assign categories = post.categories %}
-          {% else %}
-            {% assign categories = page.categories %}
-          {% endif %}
-          {% for category in categories %}
-          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-          {% unless forloop.last %}&nbsp;{% endunless %}
-          {% endfor %}
-        </p>
-
-        {% include newsletter-signup.html %}
-
-    </div>
+  </div>
 </article>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
