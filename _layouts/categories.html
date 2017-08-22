@@ -11,7 +11,6 @@ title: Categories
     <h1 class="mw7 mb0 f3 f2-m f1-l lh-title normal sans-serif">{{page.title}}</h1>
     {{ pstring_styled }}{{page.description}}</p>
   </div>
-
   <div class="bt b--light-gray mv5">
     {% for post in site.categories[page.category] %} {% if post.url %}
     <article class="mb5 ph3 ph5-m ph6-l">
@@ -20,9 +19,6 @@ title: Categories
     </article>
     {% endif %} {% endfor %}
   </div>
-
 </div>
-
 {% include newsletter-signup.html %}
-
 </section>
