@@ -1,34 +1,20 @@
 ---
-layout: page
+layout: default
 ---
 {% include style_snippets.html %}
+PAGE
+<article class="pa3 pa5-m pa6-l pt2-l">
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <h1 class="mw7 f3 f1-m mb4 f1-l lh-title normal sans-serif lh-title">{{page.title}}</h1>
+  <div class="article-body">
 
-  {% include header.html %}
+      {{ h2 }}
 
-  <body class="{{body_class}} serif Xdebug h-100">
+      {{ content | replace : h2, h2_styled | replace : h3, h3_styled | replace : pstring, pstring_styled |
+                   replace : blockquote, blockquote_styled | replace : cite, cite_styled |
+                   replace : ol, ol_styled | replace : ul, ul_styled | replace : list_item_, list_item_styled }}
 
-    {% include nav.html %}
-
-    <article class="pa3 pa5-m pa6-l pt2-l">
-
-    <h1 class="mw7 f3 f1-m mb4 f1-l lh-title normal sans-serif lh-title">{{page.title}}</h1>
-    <div class="article-body">
-
-        {{ h2 }}
-
-        {{ content | replace : h2, h2_styled | replace : h3, h3_styled | replace : pstring, pstring_styled |
-                     replace : blockquote, blockquote_styled | replace : cite, cite_styled |
-                     replace : ol, ol_styled | replace : ul, ul_styled | replace : list_item_, list_item_styled }}
-
-        <hr>
-    </div>
-  </article>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+      <hr>
+  </div>
+  
+</article>
