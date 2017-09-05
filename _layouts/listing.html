@@ -32,7 +32,7 @@ layout: default
         <a href="/articles/page/{{ paginator.previous_page }}" class="previous">< Previous</a>
       {% endif %}
     {% else %}
-      <span class="previous">unlinkedPrevious</span>
+      <span class="previous">< Previous</span>
     {% endif %}
     <span class="page_number ">Page {{ paginator.page }}/{{ paginator.total_pages }}</span>
     {% if paginator.next_page %}

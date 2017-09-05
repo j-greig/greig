@@ -5,4 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/assets/style.css" type="text/css" media="screen" />
   {% include responsivevideothing.html %}
+
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.name }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:site" content="@j_greig" />
+  <meta name="twitter:creator" content="@j_greig">
+  <meta name="twitter:card" content="summary">
 </head>
