@@ -6,12 +6,11 @@ author: James Greig
 layout: post
 guid: http://greig.cc/?p=1730
 permalink: /why-graphic-design/
-categories:
-  - Graphic Design
+categories: graphic-design
 ---
 It’s hard to pinpoint the exact moment I knew I wanted to be a graphic designer. Like a lot of people, I think the job found me, rather than me finding the job.
 
-But there were certainly a few early signs that designing graphics was something I might be good at. 
+But there were certainly a few early signs that designing graphics was something I might be good at.
 
 Let's see...
 
@@ -20,8 +19,8 @@ Let's see...
 **Age five or six:**
 Entered a poster competition on the back of a packet of Kellogg’s Corn Flakes and won a huge art set full of paint, crayons, brushes etc. Pretty exciting.
 
-**Age seven or eight**: 
-A Christmas card I designed (ok... I painted it, but I think it still counts) was exhibited in London. Considering I lived in the countryside on the opposite side of England at the time, this was a Big Deal. Especially as my Mum took me on a trip to see the exhibition. 
+**Age seven or eight**:
+A Christmas card I designed (ok... I painted it, but I think it still counts) was exhibited in London. Considering I lived in the countryside on the opposite side of England at the time, this was a Big Deal. Especially as my Mum took me on a trip to see the exhibition.
 
 **Age eleven or twelve:**
 My IT teacher accuses me of copying a logo. (I think we'd been asked to design an advert in a desktop publishing package... on a Mac... and my logo was a V that was also a tick)

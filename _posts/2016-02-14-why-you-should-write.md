@@ -3,12 +3,14 @@ id: 386
 title: Why You Should Write
 date: 2016-02-14T14:02:09+00:00
 author: James Greig
-excerpt: "<p>Writing is like flossing:&nbsp;even though we know the health benefits, we make excuses not to do it.</p><p>Here are some tips and tricks to get you started with the writing habit, and some of the benefits you'll experience from getting your thoughts out of your head and into words.</p>"
+excerpt: "Writing is like flossing... even though we know the health benefits, we make excuses not to do it. Here are some tips and tricks to get you started with the writing habit, and some of the benefits you'll experience from getting your thoughts out of your head and into words."
 layout: post
 guid: http://greig.cc/2016/02/14/20162why-you-should-write/
 permalink: /why-you-should-write/
 categories:
-  - Writing
+- writing
+- popular
+- test
 ---
 <iframe src="https://player.vimeo.com/video/144909352?wmode=opaque&amp;api=1" width="1280" height="720" frameborder="0" title="James Greig on Writing" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
@@ -75,7 +77,7 @@ The excuses we make not to write are exactly the same:
 On the subject of pain, you’ll probably know this Ernest Hemingway quote:
 
 <blockquote>
-  “There is nothing to writing. All you do, is sit down at a typewriter, and bleed.” 
+  “There is nothing to writing. All you do, is sit down at a typewriter, and bleed.”
 </blockquote>
 
 I disagree. (And not just because no-one uses typewriters any more).
@@ -214,7 +216,7 @@ Once you've written, you need to edit. Don't try to edit whilst writing though �
 
 <strong>Edit, ruthlessly.</strong> 1. Remove any unnecessary words. 2. Avoid cliches like the plague (oops) 3. Use punchy words instead of exclamation marks!!!
 
-And finally… 
+And finally…
 
 <strong>Write like you talk.</strong> <br>
 One doesn’t use pontificous language and extraneous syllables when one is communicating using the human tongue in person, so why do the same when writing? If you have trouble writing naturally, try recording yourself talking and transcribe the results afterwards.

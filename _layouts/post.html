@@ -13,7 +13,7 @@ layout: default
     <hr>
 
     <p class="mt4">Posted to: {% if post %} {% assign categories = post.categories %} {% else %} {% assign categories = page.categories %} {% endif %} {% for category in categories %}
-      <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a> {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
+      <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
     </p>
 
     {% include newsletter-signup.html %}

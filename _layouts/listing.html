@@ -23,15 +23,20 @@ layout: default
     {% endfor %}
 
     <!-- Pagination links -->
-    <div class="pagination">
+    {% capture currentpage %}{{ paginator.page }}{% endcapture %}
+    <div class="pagination mb5 ph3 ph5-m ph6-l">
     {% if paginator.previous_page %}
-      <a href="/articles/page/{{ paginator.previous_page }}" class="previous">Previous</a>
+      {% if currentpage == "2" %}
+        <a href="/articles" class="previous">< Previous</a>
+      {% else %}
+        <a href="/articles/page/{{ paginator.previous_page }}" class="previous">< Previous</a>
+      {% endif %}
     {% else %}
-      <span class="previous">Previous</span>
+      <span class="previous">unlinkedPrevious</span>
     {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    <span class="page_number ">Page {{ paginator.page }}/{{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <a href="/articles/page/{{ paginator.next_page }}" class="next">Next</a>
+      <a href="/articles/page/{{ paginator.next_page }}" class="next">Next ></a>
     {% else %}
       <span class="next ">Next</span>
     {% endif %}
