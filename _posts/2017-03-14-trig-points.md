@@ -1,23 +1,24 @@
 ---
 id: 1648
 title: Trig points for the soul
+description: What if we could find trig points for our life? The importance of finding waypoints for your soul.
 date: 2017-03-14T18:54:52+00:00
 author: James Greig
 layout: post
 guid: http://greig.cc/?p=1648
 permalink: /trig-points/
 categories:
-  - Life
+  - life
 ---
 When you climb a big hill in the Scottish Highlands, you'll often find a waist-height concrete pillar waiting for you at the top, as well as the more-expected 360 degree view.
 
-They’re called trig points, and in the days before satellites and GPS, they played a vital part in creating accurate maps of the UK. 
+They’re called trig points, and in the days before satellites and GPS, they played a vital part in creating accurate maps of the UK.
 
 (There are still 6,000 or so of them scattered around the highest parts of the country. And people now go around “bagging” trig points for fun, using [nerdy websites](http://trigpointing.uk/trig/845) where you can catalogue all of your efforts. Whatever floats your boat...)
 
 ## What if we could find trig points for our life?
 
-To find one, start with a journey to some place you can hear yourself think. 
+To find one, start with a journey to some place you can hear yourself think.
 
 You need to put some distance on your usual way of thinking.
 
@@ -35,7 +36,7 @@ What's your silent scream saying?
 
 Last week on Eigg I stood howling at the top of the hill, listening to my voice bouncing off the rocks opposite me. (Not because I was having an existential crisis at that moment, but because I hadn't seen anyone for at least four hours, and I felt like it!).
 
-Then, half an hour later, after scrambling around the back of the island onto a huge lump of rock called An Sgùrr, I found a trig point... 
+Then, half an hour later, after scrambling around the back of the island onto a huge lump of rock called An Sgùrr, I found a trig point...
 
 <img src="/media/trigpoint-1.jpg" alt="Trig points for the soul" width="1200" height="800" class="alignnone size-full wp-image-1649" />
 

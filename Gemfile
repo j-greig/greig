@@ -24,4 +24,5 @@ group :jekyll_plugins do
    # Added by James
    gem "jekyll-twitter-plugin"
    gem "jekyll-paginate-v2"
+   gem "jekyll-sitemap"
 end

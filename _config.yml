@@ -2,12 +2,12 @@
 url: http://greig.cc
 name: James Greig
 title: James Greig
-description: 'Refreshingly honest advicee for graphic designers &amp; other creative types'
+description: 'Refreshingly honest advice for graphic designers &amp; other creative types'
 
 ############################################################
 
 # PLUGINS
-gems: [jekyll-paginate-v2]
+gems: [jekyll-paginate-v2,jekyll-sitemap]
 
 ############################################################
 

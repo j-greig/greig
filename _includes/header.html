@@ -8,7 +8,8 @@
 
   <meta name="twitter:card" content="summary_large_image"/>
   <meta name="twitter:title" content="{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.name }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 50 }}{% endif %}">
+  <meta name="twitter:image" content="/media/james_greig_photo_grad.png" />
   <meta name="twitter:site" content="@j_greig" />
   <meta name="twitter:creator" content="@j_greig">
   <meta name="twitter:card" content="summary">
