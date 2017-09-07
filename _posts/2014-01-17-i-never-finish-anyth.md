@@ -1,11 +1,8 @@
 ---
-id: 264
 title: I never finish anyth
 date: 2014-01-17T08:52:41+00:00
-author: James Greig
-excerpt: "<p>Why it's time to wake up and smell the hard work.</p>"
-layout: post
-guid: http://greig.cc/2014/01/17/20141i-never-finish-anyth/
+
+excerpt: "<p>Why it's time to wake up and smell the hard work.</p>"layout: post
 permalink: /i-never-finish-anyth/
 structured_content:
   - '{"oembed":[],"overlay":true}'

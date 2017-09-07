@@ -2,7 +2,7 @@
 id: 1736
 title: Hello LTV Conference!
 date: 2017-04-16T12:49:45+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=1736
 subtitle:

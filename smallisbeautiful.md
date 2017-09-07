@@ -2,7 +2,7 @@
 id: 749
 title: Hello Small is Beautiful attendees!
 date: 2016-10-30T16:53:15+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=749
 subtitle:

@@ -1,14 +1,11 @@
 ---
-id: 185
 title: On not making cool shit for Bjork or working for minimal techno DJs in Berlin
 date: 2013-04-07T16:49:41+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/04/07/20134im-a-chicken/
 permalink: /im-a-chicken/
 categories:
-  - Graphic Design
-  - Life
+  - graphic-design
+  - life
 ---
 When I was fresh out of art school and recovered from the shock that people weren't physically lining up to employ me at my degree show, I went on the prowl for jobs in London.&nbsp;
 

@@ -1,10 +1,7 @@
 ---
-id: 381
 title: 6 Ways to Get Your Funk On in 2016.
 date: 2015-12-20T15:22:18+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2015/12/20/201512get-your-funk-on/
 permalink: /get-your-funk-on/
 structured_content:
   - '{"oembed":[],"overlay":true}'

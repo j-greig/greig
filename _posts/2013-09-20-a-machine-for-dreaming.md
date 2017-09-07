@@ -1,15 +1,10 @@
 ---
-id: 96
 title: A machine for dreaming
 date: 2013-09-20T21:51:39+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/20/20139a-machine-for-dreaming/
 permalink: /a-machine-for-dreaming/
 categories:
-  - Life
-tags:
-  - 30dowxteyk
+  - life
 ---
 <img src="/media/dreams.jpg" alt="" width="1024" height="673" class="alignnone size-large wp-image-1978" />
 

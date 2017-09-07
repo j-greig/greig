@@ -1,10 +1,7 @@
 ---
-id: 394
 title: 'Want to get your head around HTML and CSS? Forget &#8220;learn to code&#8221; and embrace &#8220;code to learn&#8221;'
 date: 2016-03-24T13:36:51+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2016/03/24/20163codetolearn/
 permalink: /codetolearn/
 categories:
   - DevTools for Designers

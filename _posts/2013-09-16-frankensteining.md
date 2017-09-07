@@ -1,15 +1,10 @@
 ---
-id: 64
 title: Frankensteining — when graphic design turns fugly
 date: 2013-09-16T21:19:22+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/16/20139frankensteining/
 permalink: /frankensteining/
 categories:
-  - Graphic Design
-tags:
-  - 30dowxteyk
+  - graphic-design
 ---
 <img src="/media/frankenstein.jpg" alt="" width="994" height="535" class="alignnone size-full wp-image-1988" />
 
@@ -35,7 +30,7 @@ For all his effectiveness as a rudimentary human, Frankenstein wasn't the best l
 
 And because it is the visual that we are concerned with here, I don't think frankensteining is a good process to include in your graphic design workflow.
 
-As one <a href="http://www.usabilityfirst.com/glossary/frankensteining/">usability glossary</a> I found whilst researching this article puts it:&nbsp;</p>
+As one <a href="http://www.usabilityfirst.com/glossary/frankensteining/">usability glossary</a> I found whilst researching this article puts it:&nbsp;
 
 <blockquote>"A typical situation is to present multiple design options to a client who asks for a piecemeal combination of features. While the original designs each conveyed a unified message, the combination is a monstrous hodge-podge.&nbsp;"</blockquote>
 

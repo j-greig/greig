@@ -2,7 +2,7 @@
 id: 633
 title: Galvanise
 date: 2016-09-24T15:46:52+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=633
 subtitle:

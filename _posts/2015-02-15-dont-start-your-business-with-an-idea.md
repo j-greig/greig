@@ -1,11 +1,8 @@
 ---
-id: 336
 title: 'Don&#8217;t start your business with an idea'
 date: 2015-02-15T11:30:05+00:00
-author: James Greig
-excerpt: '<p>Are you the kind of person who’s always getting excited about new ideas for businesses? But then struggling to get them off the ground? Find out why you might have been doing things back to front...</p>'
-layout: post
-guid: http://greig.cc/2015/02/15/20152dont-start-your-business-with-an-idea/
+
+excerpt: '<p>Are you the kind of person who’s always getting excited about new ideas for businesses? But then struggling to get them off the ground? Find out why you might have been doing things back to front...</p>'layout: post
 permalink: /dont-start-your-business-with-an-idea/
 categories:
   - Uncategorised

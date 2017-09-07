@@ -1,18 +1,16 @@
 ---
-id: 1781
 title: Self-care for the Creative Soul
 date: 2017-04-16T14:35:27+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=1781
 permalink: /selfcare-creative-soul/
 categories:
-  - Life
-  - Undesign
+  - life
+  - careers
+  - graphic-design
 ---
-https://youtu.be/sDsxm7Ijqm4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDsxm7Ijqm4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-Last month I was invited to speak at Creative Mornings in Edinburgh on the theme of “taboo”, and decided to talk about mental health and self-care for the creative soul. 
+Last month I was invited to speak at Creative Mornings in Edinburgh on the theme of “taboo”, and decided to talk about mental health and self-care for the creative soul.
 
 You might have see a diagram of the creative process online that includes this list:
 
@@ -44,7 +42,7 @@ It’s was really stressful writing the talk.
 
 Which is pretty ironic considering the subject matter.
 
-In January I moved from London back to Glasgow. The main reason for moving back to Scotland was to improve my lifestyle. 
+In January I moved from London back to Glasgow. The main reason for moving back to Scotland was to improve my lifestyle.
 
 The idea was:
 - Less time commuting.
@@ -124,7 +122,7 @@ Not many people talk about it, but everyone has these feelings at some point or 
 
 I know for sure, because I’ve become an accidental agony aunt for graphic designers.
 
-The year after I started CycleLove, I also started writing about my relationship with the design industry. It started with an angry rant that I published titled ‘[How to stop being a graphic designer](http://greig.cc/how-to-stop-being-a-graphic-designer/)’. 
+The year after I started CycleLove, I also started writing about my relationship with the design industry. It started with an angry rant that I published titled ‘[How to stop being a graphic designer](http://greig.cc/how-to-stop-being-a-graphic-designer/)’.
 
 It got waaaaay more attention than anything else I’d written so far about being a designer.
 
@@ -155,7 +153,7 @@ So I thought I’d paraphrase a few examples of the kind of things that say…
 **Mired: when your work has started to feel meaningless, and you’ve lost sight of  your purpose**
 - "I spend too much time making other people’s ideas… and not enough time making my own".
 - "I still want to design, but for something more fulfilling".
-	 
+
 **Expired - these are the painful ones to hear - when you’re completely burnt out**
 - "I’m afraid I’m losing what’s left of my sanity… I’m looking for a way out".
 - "I feel like there’s nowhere left to go — is there life after graphic design?"
@@ -197,7 +195,7 @@ Google “Love yourself like your life depends on it” and you’ll find a grea
 
 Without giving too much away, his solution is very simple.
 
-You just need to spend a few minutes looking at yourself in the mirror every day, saying over and over again: “I love myself”. 
+You just need to spend a few minutes looking at yourself in the mirror every day, saying over and over again: “I love myself”.
 
 This sounds a bit crazy, but it does work, if you say it like you mean it.
 
@@ -210,14 +208,14 @@ How you treat yourself is one of the few things in the world you have _complete_
 
 That said, I must admit that I struggle with this. I’m too hard on myself a lot of the time, and I beat myself up when stuff goes wrong, instead of practising self-forgiveness.
 
-Would you want the voice inside your head as a friend in real life? 
+Would you want the voice inside your head as a friend in real life?
 
 If not, you need to do something about it. It’s not an easy thing to fix, but I’m working on it…
 
 **Meditation.**
 Meditation is easier than you think, and you don’t have to treat it as a spiritual practice unless you want to.
 
-Just close your eyes, and focus on your breathing for a few minutes. Observe all the thoughts swimming around your head. Let them wash over you, until the waves calm down, and you find a few moments of calm. 
+Just close your eyes, and focus on your breathing for a few minutes. Observe all the thoughts swimming around your head. Let them wash over you, until the waves calm down, and you find a few moments of calm.
 
 (Guided meditation tapes, or apps like [Headspace](https://www.headspace.com) are a really easy way to get started.)
 
@@ -278,8 +276,8 @@ And it’s designed, or undesigned rather, to gives you three things:
 
 2. **Action.** A concrete list of next steps to explore your career options. Or to-dos that you actually can do.  
 
-3. **Support.** A community of likeminded people who will support you, help you figure out what’s next, and offer advice on overcoming barriers you’re facing. 
-	 
+3. **Support.** A community of likeminded people who will support you, help you figure out what’s next, and offer advice on overcoming barriers you’re facing.
+
 You can join the waiting list for the Undesign course on my website at [greig.cc/undesign.](http://greig.cc/undesign)
 
 ## The easiest thing to do is also the hardest
@@ -303,6 +301,6 @@ And I think you can make a tiny ripple in your inner circle of friends and famil
 
 Talking about mental health is the easiest thing to do in theory, but it’s probably the hardest in practice. So we have to keep working at it. If you can be brave enough to take that risk, to open up about some of your darkest and most painful thoughts, we have a chance of turning those ripples into a wave.
 
-I think our mental health is something that deserves to be talked about openly, instead of it being taboo. 
+I think our mental health is something that deserves to be talked about openly, instead of it being taboo.
 
 <img src="/media/james-greig-selfcare-creative-soul-creative-mornings.jpg" alt="Self-care for the Creative Soul - a talk at Creative Mornings" width="512" height="314" class="alignnone size-large wp-image-1811" />

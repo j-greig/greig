@@ -1,13 +1,10 @@
 ---
-id: 197
 title: 'From graphic design to adventure bags: an interview with Trakke founder Alec Farmer'
 date: 2013-08-20T08:19:12+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/08/20/2013trakke-from-graphic-design-to-adventure-bags/
 permalink: /trakke-from-graphic-design-to-adventure-bags/
 categories:
-  - Undesign
+  - careers
 ---
 Rugged utility bag brand <a href="http://www.trakke.co.uk/">Trakke</a> is the creation of former graphic designer Alec Farmer, who studied Visual Communication at <a href="http://www.gsa.ac.uk/">Glasgow School of Art</a>&nbsp;(just like I did in the early noughties).
 
@@ -53,7 +50,7 @@ They were an awesome team, really good people, but they always had so much work 
 
 <span style="line-height: 1.6em;">I’m one of those kinds of people who gets interested in something for a year, obsesses about it and does it all the time, but then doing something else. I do that with my work, and I did that with my work experience, getting as much as I could.</span><br>
 
-And that was kind of great when I was starting a business, because although I’m making it up as I go along, I've had a little bit of experience in lots of different places. And that gives me an insight into how I could do things. 
+And that was kind of great when I was starting a business, because although I’m making it up as I go along, I've had a little bit of experience in lots of different places. And that gives me an insight into how I could do things.
 
 <em>At some point, was making bags a thing you got obsessed about then?</em>
 
@@ -69,7 +66,7 @@ So we just said yes, without really thinking about it.
 
 We had no products...nothing at all... just one sewing machine.
 
-We spent the next month (both of us had full-time jobs) burning out products in the evening. We would get home and stay up all night making stuff using materials that we'd found by cycling around Glasgow and ripping apart old leather sofas, old advertising banners and stuff. 
+We spent the next month (both of us had full-time jobs) burning out products in the evening. We would get home and stay up all night making stuff using materials that we'd found by cycling around Glasgow and ripping apart old leather sofas, old advertising banners and stuff.
 
 <h2>"We spent no money at all on materials for about six months, which was awesome. And this was all happening outside of my normal work."</h2>
 
@@ -77,9 +74,9 @@ We spent the next month (both of us had full-time jobs) burning out products in 
 
 The cool thing at the time was that I was in a good flat, with good people, and we just hung out all the time, in the evenings.
 
-We were all doing design-related degrees, so we were thinking along the same lines. 
+We were all doing design-related degrees, so we were thinking along the same lines.
 
-Making stuff was something that we did for fun, anyway. It didn't really feel like we were doing work, it was just coming home and chilling out. 
+Making stuff was something that we did for fun, anyway. It didn't really feel like we were doing work, it was just coming home and chilling out.
 
 It just progressed from there really. The bit where it got really hard was when, during the winter at the Barras, it was dead, and we felt like we had to be there to make the most of the money we were spending.
 
@@ -102,7 +99,7 @@ So at that point, I rebranded Trakke so that it fitted into a slightly different
 <span></span><em>Did you ever feel that there were things you’d learned as a graphic designer that you need to unlearn?</em><br>
 
 I think graphic design at Uni, particularly on the course that I was on as opposed to other universities, was quite conceptual.&nbsp;<span style="line-height: 1.6em;">It was all about design thinking, abstract ways of getting to an end goal. When you’re at Uni you’re reading all these magazine about guerrilla advertising campaigns, and all this stuff that’s pretty cool... but not the most effective way to actually sell anything.</span>
-  
+
 <img src="/media/og.jpg" alt="" width="1000" height="625" class="alignnone size-full wp-image-2011" />
 
 So I had to learn that it’s not always about doing something crazy different.
@@ -162,7 +159,7 @@ That’s something I totally believe in. What I found with the ‘Made in the UK
 <span style="line-height: 1.6em;">I began looking for British supplies, which was a real challenge. You realise why most people don’t buy anything from British manufacturers: it’s expensive, you can’t get everything that you want, and it’s all quite niche.</span>
 
 But what I found doing it is, that the cool thing is that those companies have much more interesting stories, and are using materials and products which have a good story behind them too.
-  
+
 <img src="/media/Trakke10.jpg" alt="" width="1000" height="667" class="alignnone size-full wp-image-2013" />  
 
 So when I sell someone a bag, I can say that it’s made in Glasgow and there’s a story about us, but also this webbing is made in the Midlands, that the factory used to be water powered and it’s been there since 1866 doing the same thing, and the zips are made by the last zip manufacturer in the UK... being able to spin a tale about every component gives people a real sense of where it’s from and all the work that goes into it.
@@ -170,7 +167,7 @@ So when I sell someone a bag, I can say that it’s made in Glasgow and there’
 <em>Could you see yourself going back to graphic design? How much do you do on a daily basis?</em>
 
 <em></em>I do stuff for Trakke all the time — the bonus is that you don’t have to employ someone to do that, you can just make it all yourself. I’m not really sure. It’s not something that I’d ever want to do freelance again. There are lots of things I’d rather do than graphic design. If I’d had my time again, I would have studied product design... but of course that comes with it’s own limitations.
-  
+
 <img src="/media/trakke_first_bag.jpg" alt="" width="500" height="750" class="alignnone size-full wp-image-2014" />
 <small>Trakke's very first bag</small>
 
@@ -205,7 +202,7 @@ Retailers want to take 50% of what your sale price is, and you think “Well... 
 So it’s hard to see the balance. But these places are set up for a totally different kind of product. Basically the whole retail industry in the UK is set up for companies that are getting stuff made overseas at ridiculously low prices and adding their margins on.
 
 I almost feel like it requires a different system to work, but it’s hard to find out what that should be.
-  
+
 We got taken out to &nbsp;<a href="http://www.ispo.com/">ISPO</a>&nbsp; which is a huge outdoor exhibition in Germany, and I sat on a panel for a lunchtime talk thing, with a guy from <a href="http://www.oneill.com/">O’Neill</a>, one of the founders of Patagonia&nbsp; (who I really admire anyway), and a company called &nbsp;<a href="http://www.finisterreuk.com/">Finisterre</a> who make really nice surf stuff down in Devon, and a German company called <a href="http://heimplanet.com/">Heimplanet</a> &nbsp;who make amazing inflatable tents and bags.
 
 <span style="line-height: 1.6em;">So I was sat with this amazing range of people, and it was the first point that I felt that despite being a ridiculously small company creating stuff with three people in a workshop, people respected what we’re doing.</span>
@@ -216,7 +213,7 @@ We got taken out to &nbsp;<a href="http://www.ispo.com/">ISPO</a>&nbsp; which is
 
 It’s funny the companies you get inspired by.
 
-<a href="http://www.howies.co.uk/">Howies</a> always had that lifestyle thing, Hiut have the quality thing that I really like. 
+<a href="http://www.howies.co.uk/">Howies</a> always had that lifestyle thing, Hiut have the quality thing that I really like.
 
 There’s a company called&nbsp;<a href="http://www.alpkit.com/">Alpkit</a>&nbsp;that I like, and they make products in China, really low cost outdoor kit that is really well designed and made. When we designed our website, I was looking to them a lot, because the stuff they sell is a lot cheaper than other competitors, but you buy it, you don’t pay any postage, and it arrives the next day, with a handwritten note — their customer service is unreal!
 

@@ -1,11 +1,8 @@
 ---
-id: 303
 title: Hate being a graphic designer? Don’t. Your job is an escape route, not a trap.
 date: 2014-09-14T12:00:37+00:00
-author: James Greig
-excerpt: '<p>Your work is never a trap, unless you see it as one.</p>'
-layout: post
-guid: http://greig.cc/2014/09/14/20149hate-being-a-graphic-designer/
+
+excerpt: '<p>Your work is never a trap, unless you see it as one.</p>'layout: post
 permalink: /hate-being-a-graphic-designer/
 categories:
   - Freelancing

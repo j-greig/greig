@@ -2,7 +2,7 @@
 id: 28
 title: Books/Courses
 date: 2016-05-18T21:20:45+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/books/
 ---

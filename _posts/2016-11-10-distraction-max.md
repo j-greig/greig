@@ -1,10 +1,7 @@
 ---
-id: 440
 title: Remember when the internet was more useful than it was addictive?
 date: 2016-11-10T13:55:24+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/distraction-max/
 permalink: /distraction-max/
 categories:
   - Life

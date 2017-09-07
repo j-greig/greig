@@ -2,7 +2,7 @@
 id: 681
 title: Newsletter
 date: 2016-10-18T12:21:35+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=681
 subtitle:

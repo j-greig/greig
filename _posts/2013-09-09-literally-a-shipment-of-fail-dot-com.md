@@ -1,13 +1,10 @@
 ---
-id: 232
 title: Literally a shipment of fail dot com — how not to monetise a popular blog
 date: 2013-09-09T19:07:00+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/09/20139literally-a-shipment-of-fail-dot-com/
 permalink: /literally-a-shipment-of-fail-dot-com/
 categories:
-  - Uncategorised
+  - life
 ---
 <img src="/media/your_shipment_of_fail.jpg" alt="" width="640" height="480" class="alignnone size-full wp-image-1779" />
 
@@ -60,7 +57,7 @@ Then I looked at my stats.&nbsp;
 
 Traffic was going up. Fast.&nbsp;
 
-At the peak of its popularity, SOF had an Alexa rank of around 77,000. 
+At the peak of its popularity, SOF had an Alexa rank of around 77,000.
 
 Which meant it was amongst the top 100,000 most popular websites on the internet, with around 5,000 people visiting a day.&nbsp;
 
@@ -76,7 +73,7 @@ The worst designed website I'd ever created was the most popular. &nbsp;
 
 Everything I thought I knew about the importance of design had been blown out of the water.&nbsp;
 
-I didn't do anything to promote my site after the initial few forum postings that I made. 
+I didn't do anything to promote my site after the initial few forum postings that I made.
 
 There was no email marketing strategy.
 
@@ -84,7 +81,7 @@ But the content marketed itself of course... it was perfect for posting in forum
 
 Without much thought I stuck some Google Adverts into the SOF sidebar and waited to see what advertising revenue I could earn.
 
- On a good day I would make £6 or £7. 
+ On a good day I would make £6 or £7.
 
 Which was enough to buy myself a couple of beers at that time.
 

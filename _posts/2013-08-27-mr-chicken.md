@@ -1,15 +1,10 @@
 ---
-id: 217
 title: Mr. Chicken
 date: 2013-08-27T18:58:06+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/08/27/20138mr-chicken/
 permalink: /mr-chicken/
 categories:
-  - Life
-tags:
-  - 30dowxteyk
+  - life
 ---
 Almost as soon as I tweeted a link to an article entitled "<a href="http://www.nytimes.com/2013/08/25/opinion/sunday/im-thinking-please-be-quiet.html?pagewanted=all">I'm Thinking. Please. Be. Quiet</a>" yesterday, the security alarm in my house started beeping loudly every sixty seconds.&nbsp;
 

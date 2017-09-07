@@ -1,10 +1,7 @@
 ---
-id: 413
 title: Use your introversion as a superpower, not an excuse
 date: 2016-07-24T14:19:04+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/20167introvert/
 permalink: /introvert/
 categories:
   - Life

@@ -1,10 +1,7 @@
 ---
-id: 1274
 title: What are you working on?
 date: 2014-12-14T13:13:20+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/what-are-you-working-on-2/
 permalink: /what-are-you-working-on-2/
 categories:
   - Uncategorised

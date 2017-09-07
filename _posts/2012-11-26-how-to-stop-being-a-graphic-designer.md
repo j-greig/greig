@@ -1,22 +1,12 @@
 ---
-id: 311
 title: How to stop being a graphic designer
 date: 2012-11-26T09:16:55+00:00
-author: James Greig
-excerpt: "<p>If you're a designer and love your job, stop reading now. This article is not for you.&nbsp;</p>"
-layout: post
-guid: http://greig.cc/2012/11/26/20121126how-to-stop-being-a-graphic-designer/
+excerpt: "If you're a designer and love your job, stop reading now. This article is not for you. But if being a graphic designer is getting you down, you need to do something about it."layout: post
 permalink: /how-to-stop-being-a-graphic-designer/
-structured_content:
-  - '{"oembed":[],"overlay":true}'
 categories:
-  - Graphic Design
-  - Popular
-  - Undesign
-tags:
-  - design
-  - graphicdesign
+  - graphic-design
   - popular
+  - careers
 ---
 If you're a designer and love your job, stop reading now. This article is not for you. Graphic design can be a noble profession and I can count many of my heroes amongst its members.
 

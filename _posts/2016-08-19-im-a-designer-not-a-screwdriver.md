@@ -1,10 +1,7 @@
 ---
-id: 415
 title: The three traits that define meaningful work
 date: 2016-08-19T09:43:46+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/20168im-a-designer-not-a-screwdriver/
 permalink: /im-a-designer-not-a-screwdriver/
 categories:
   - Undesign

@@ -1,10 +1,7 @@
 ---
-id: 2124
 title: 'DevTools For Designers: Grabbing HTML By The Scruff Of The Neck'
 date: 2016-04-13T14:27:30+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=2124
 permalink: /devtools-grabbing-html-scruff-neck/
 categories:
   - DevTools for Designers

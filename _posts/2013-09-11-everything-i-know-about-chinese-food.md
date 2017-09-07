@@ -1,15 +1,10 @@
 ---
-id: 236
 title: Everything I know about Chinese food
 date: 2013-09-11T23:07:16+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/11/20139everything-i-know-about-chinese-food/
 permalink: /everything-i-know-about-chinese-food/
 categories:
-  - Life
-tags:
-  - 30dowxteyk
+  - life
 ---
 <span>I was sitting eating pot stickers in Chinatown on Sunday and suddenly realised I'd rather eat them over a traditional British roast dinner on any day of the week.</span>
 

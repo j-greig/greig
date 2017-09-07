@@ -1,11 +1,8 @@
 ---
-id: 400
 title: Finding your flow
 date: 2016-04-23T13:22:03+00:00
-author: James Greig
-excerpt: '<p>When’s the last time you were so engrossed by something that hours passed by without you realising it?&nbsp;</p>'
-layout: post
-guid: http://greig.cc/2016/04/23/20164finding-your-flow/
+
+excerpt: '<p>When’s the last time you were so engrossed by something that hours passed by without you realising it?&nbsp;</p>'layout: post
 permalink: /finding-your-flow/
 categories:
   - Life

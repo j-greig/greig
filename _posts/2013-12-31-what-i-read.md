@@ -1,13 +1,10 @@
 ---
-id: 175
 title: 'Left to right and repeat: what I read in 2013'
 date: 2013-12-31T09:37:22+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/12/31/2013what-i-read/
 permalink: /what-i-read/
 categories:
-  - Life
+  - life
 ---
 When I was a kid we'd make regular trips to the library during school holidays and I'd pick up a stack of new reading material each time. Sometimes I would get through six or seven books in a week, and although I have no idea what they were (other than every Hardy Boys adventure ever written, and a good chunk of Terry Pratchett's Discworld series), I've no doubt that reading expanded my mind in a way that no other medium can.&nbsp;
 

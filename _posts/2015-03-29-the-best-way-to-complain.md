@@ -1,11 +1,8 @@
 ---
-id: 352
 title: The best way to complain
 date: 2015-03-29T10:58:02+00:00
-author: James Greig
-excerpt: '<p>When you have an itch, you have a simple choice: ignore it, or give it a good scratch. What would happen if you applied the same principle to your life?</p>'
-layout: post
-guid: http://greig.cc/2015/03/29/20153the-best-way-to-complain/
+
+excerpt: '<p>When you have an itch, you have a simple choice: ignore it, or give it a good scratch. What would happen if you applied the same principle to your life?</p>'layout: post
 permalink: /the-best-way-to-complain/
 categories:
   - Uncategorised

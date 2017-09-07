@@ -1,15 +1,11 @@
 ---
-id: 292
 title: How to stop being a graphic designer — redux
 date: 2013-08-28T15:15:28+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/08/28/20138how-to-stop-being-a-graphic-designer-redux/
 permalink: /how-to-stop-being-a-graphic-designer-redux/
 categories:
-  - Undesign
-tags:
-  - 30dowxteyk
+  - careers
+  - graphic-design
 ---
 Towards the end of last year I let forth <a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">an angry rant about being a graphic designer</a>&nbsp; onto the internet with little expectation of a response.
 

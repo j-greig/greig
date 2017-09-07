@@ -1,10 +1,7 @@
 ---
-id: 380
 title: 'Undesign: a manifesto for makers.'
 date: 2015-12-13T15:28:01+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2015/12/13/201512undesign-manifesto/
 permalink: /undesign-manifesto/
 categories:
   - Uncategorised

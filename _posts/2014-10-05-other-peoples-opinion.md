@@ -1,11 +1,8 @@
 ---
-id: 321
 title: 'Other people&#8217;s opinion of you are none of your business'
 date: 2014-10-05T08:09:31+00:00
-author: James Greig
-excerpt: '<p><span style="font-size:15px">Push at the edges, until something breaks and you have to fix it into a new shape.</span></p>'
-layout: post
-guid: http://greig.cc/2014/10/05/201410other-peoples-opinion/
+
+excerpt: '<p><span style="font-size:15px">Push at the edges, until something breaks and you have to fix it into a new shape.</span></p>'layout: post
 permalink: /other-peoples-opinion/
 structured_content:
   - '{"oembed":[],"overlay":true}'

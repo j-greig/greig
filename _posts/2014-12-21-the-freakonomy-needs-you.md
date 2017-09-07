@@ -1,11 +1,8 @@
 ---
-id: 39
 title: The freakonomy needs you
 date: 2014-12-21T11:39:12+00:00
-author: James Greig
-excerpt: '<p style="margin-left:0px; margin-right:0px">Imagine that you found something you desperately wanted to be a part of, but it was happening on the other side of the world.&nbsp;Would you sit at home getting in a funk, or head to where the action was happening?</p>'
-layout: post
-guid: http://greig.cc/2014/12/21/201412the-freakonomy-needs-you/
+
+excerpt: '<p style="margin-left:0px; margin-right:0px">Imagine that you found something you desperately wanted to be a part of, but it was happening on the other side of the world.&nbsp;Would you sit at home getting in a funk, or head to where the action was happening?</p>'layout: post
 permalink: /the-freakonomy-needs-you/
 structured_content:
   - '{"oembed":[],"overlay":true}'

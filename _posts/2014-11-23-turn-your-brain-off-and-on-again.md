@@ -1,12 +1,9 @@
 ---
-id: 304
 title: Have you tried turning your brain off and on again?
 date: 2014-11-23T12:47:27+00:00
-author: James Greig
+
 excerpt: |
-  <p style="margin-left:0px; margin-right:0px">When programmers need to fix problems in their software, they release patches to fix the bug in question without compromising the integrity of what's already in place. Find out what's possible by&nbsp;applying the same process to upgrade your internal operating system...</p>
-layout: post
-guid: http://greig.cc/2014/11/23/201411turn-your-brain-off-and-on-again/
+  <p style="margin-left:0px; margin-right:0px">When programmers need to fix problems in their software, they release patches to fix the bug in question without compromising the integrity of what's already in place. Find out what's possible by&nbsp;applying the same process to upgrade your internal operating system...</p>layout: post
 permalink: /turn-your-brain-off-and-on-again/
 categories:
   - Uncategorised

@@ -1,13 +1,10 @@
 ---
-id: 110
 title: Why I skipped Christmas this year
 date: 2013-12-29T08:56:39+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/12/29/201312why-i-skipped-christmas-this-year/
 permalink: /why-i-skipped-christmas-this-year/
 categories:
-  - Life
+  - life
 ---
 <img src="/media/fucking_christmas_jumpers.jpg" alt="" width="1000" height="667" class="alignnone size-full wp-image-1974" />
 
@@ -22,7 +19,7 @@ The less Christmas-y things I did this month, the more I noticed how people arou
 <h2>Christmas Jumpers: from ironic to moronic</h2>
 
 Perhaps it's just me, but they seem to have they <a href="http://www.myuglychristmassweater.com/">reached a new low</a> this year. With everyone wearing one, they don't seem so funny any more. Looking at Google Trends, Christmas Jumpers <a href="http://nymag.com/thecut/2012/12/enough-with-the-ugly-christmas-sweaters.html">haven't been funny</a> for at least A FEW YEARS now. Ok I admit it, this is the one bit of Christmas I am hating on...
-  
+
 <img src="/media/google_trends_christmas_jumpers-1.png" alt="" width="814" height="219" class="alignnone size-full wp-image-1976" />
 
 <h2><span>It's Christmas, can't we all just get along?</span></h2><span>Although I love them very much, my family as a collective unit can be hard work to spend time with. And the pressure for everyone to "just get along" on Christmas Day tends to make things even worse. If I had my own family it wouldn't be a problem if I wanted to spend it with them — so why should that change because I'm single?</span>

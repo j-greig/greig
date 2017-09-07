@@ -1,15 +1,10 @@
 ---
-id: 226
 title: 10 simple ways to improve your graphic design
 date: 2013-09-06T00:34:49+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/06/2013910-simple-ways-to-improve-your-graphic-design/
 permalink: /10-simple-ways-to-improve-your-graphic-design/
 categories:
-  - Uncategorised
-tags:
-  - 30dowxteyk
+  - graphic-design
 ---
 <h2><span style="line-height: 1.6em;">1. Look outside of graphic design for inspiration.</span><br></h2>
 

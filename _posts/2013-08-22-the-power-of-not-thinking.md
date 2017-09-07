@@ -1,13 +1,10 @@
 ---
-id: 207
 title: The power of not thinking
 date: 2013-08-22T12:23:44+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/08/22/20137the-power-of-not-thinking/
 permalink: /the-power-of-not-thinking/
 categories:
-  - Life
+  - life
 ---
 Wake up. Roll over. Grab phone. Check emails. Check a load of other crap. Get up. Shower. Eat breakfast watching iPad. Cycle to work mulling over said emails. Stare at screen for eight hours... interrupted by brief period of eating whilst staring at screen by way of variation. Cycle home. Cook whilst listening to music. Eat whilst watching screen. Read (from a screen). Sleep. Repeat.
 
@@ -47,7 +44,7 @@ Sometimes I have a sudden sensation that my life is a computer game.
 
 <span style="line-height: 1.6em;"></span><span style="line-height: 1.6em;">People forget that character is assumed. Your feelings and desires and behaviours are self-selected, not presets. You wake up in the morning and slip back into your body, pull on those old familiar character traits and habits as you do your clothes, and carry on being the person you've always been.&nbsp;</span>
 
-Without sounding overly simplistic: what if you didn't? 
+Without sounding overly simplistic: what if you didn't?
 
 <span style="line-height: 1.6em;">I'm asking because I've just started reading Eckhart Tolle's&nbsp;</span><a href="http://www.amazon.co.uk/gp/product/0340733500/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0340733500&amp;linkCode=as2&amp;tag=sneageek-21" style="line-height: 1.6em;">The Power of Now</a>, a book which asserts the benefits of c<span style="line-height: 1.6em;">reating a gap in your mind-stream, and taking a break from who you think you are.&nbsp;</span>
 

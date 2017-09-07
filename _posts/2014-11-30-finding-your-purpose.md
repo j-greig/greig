@@ -1,11 +1,8 @@
 ---
-id: 163
 title: Why, the three letter word that could change your life
 date: 2014-11-30T12:32:47+00:00
-author: James Greig
-excerpt: '<p><span>Feeling a little lost, lacking in direction, or unsure of what to do next with your career? Here are some ideas for finding your purpose.</span></p>'
-layout: post
-guid: http://greig.cc/2014/11/30/201411finding-your-purpose/
+
+excerpt: '<p><span>Feeling a little lost, lacking in direction, or unsure of what to do next with your career? Here are some ideas for finding your purpose.</span></p>'layout: post
 permalink: /finding-your-purpose/
 categories:
   - Popular

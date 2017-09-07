@@ -1,11 +1,8 @@
 ---
-id: 317
 title: The unspoken D word that eats you from the inside.
 date: 2014-10-19T10:01:47+00:00
-author: James Greig
-excerpt: "<p>What happened the day that I realised I couldn't go to work any more.</p>"
-layout: post
-guid: http://greig.cc/2014/10/19/201410the-unspoken-d-word-depression/
+
+excerpt: "<p>What happened the day that I realised I couldn't go to work any more.</p>"layout: post
 permalink: /the-unspoken-d-word-depression/
 categories:
   - Popular

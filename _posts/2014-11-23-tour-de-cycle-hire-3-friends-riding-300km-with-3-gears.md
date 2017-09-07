@@ -1,10 +1,7 @@
 ---
-id: 1277
 title: Tour de Cycle Hire — 3 friends riding 300km with 3 gears
 date: 2014-11-23T12:08:58+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/tour-de-cycle-hire-3-friends-riding-300km-with-3-gears/
 permalink: /tour-de-cycle-hire-3-friends-riding-300km-with-3-gears/
 categories:
   - CycleLove

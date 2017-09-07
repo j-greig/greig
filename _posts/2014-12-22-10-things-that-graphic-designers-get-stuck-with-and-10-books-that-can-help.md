@@ -1,10 +1,7 @@
 ---
-id: 1263
 title: 10 things that graphic designers get stuck with, and 10 books that can help
 date: 2014-12-22T14:32:09+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/10-things-that-graphic-designers-get-stuck-with-and-10-books-that-can-help/
 permalink: /10-things-that-graphic-designers-get-stuck-with-and-10-books-that-can-help/
 categories:
   - Graphic Design

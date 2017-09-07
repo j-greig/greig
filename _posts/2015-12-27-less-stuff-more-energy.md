@@ -1,10 +1,7 @@
 ---
-id: 384
 title: Less stuff, more energy
 date: 2015-12-27T15:30:33+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2015/12/27/201512less-stuff-more-energy/
 permalink: /less-stuff-more-energy/
 structured_content:
   - '{"oembed":[],"overlay":true}'

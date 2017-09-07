@@ -1,11 +1,8 @@
 ---
-id: 393
 title: A rough framework for figuring out what the hell to do with you life
 date: 2016-03-22T13:21:47+00:00
-author: James Greig
-excerpt: "<p>What do you want from life? What's good for you in the long run? Are you helping other people, or just yourself? Big questions which can help you find your way in the new world of work.</p>"
-layout: post
-guid: http://greig.cc/2016/03/22/20163lifeframework/
+
+excerpt: "<p>What do you want from life? What's good for you in the long run? Are you helping other people, or just yourself? Big questions which can help you find your way in the new world of work.</p>"layout: post
 permalink: /lifeframework/
 categories:
   - Graphic Design

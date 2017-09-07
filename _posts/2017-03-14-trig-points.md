@@ -1,11 +1,8 @@
 ---
-id: 1648
 title: Trig points for the soul
 description: What if we could find trig points for our life? The importance of finding waypoints for your soul.
 date: 2017-03-14T18:54:52+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=1648
 permalink: /trig-points/
 categories:
   - life

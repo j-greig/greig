@@ -2,28 +2,24 @@
 id: 16
 title: Your business, made better
 date: 2016-05-18T21:20:44+00:00
-author: James Greig
+
 layout: page
-guid: http://greig.cc/design-and-strategy/
 ---
 If you're not getting the results you want online, I can help...
 
-<em>• Show your work (and build an engaged audience)</em>
-<em>• Optimise the design &amp; copy for your sales/landing page
-• Create a strong, professional image for your startup</em>
+• Show your work (and build an engaged audience)  
+• Optimise the design &amp; copy for your sales/landing page  
+• Create a strong, professional image for your startup  
 
 With over a decade's experience in graphic design, plus hands-on knowledge of writing, marketing and social media, I'm uniquely placed to create good-looking websites that deliver real results.
 
-<section class="cf">
-<div class="w-100 w-50-ns fl pa2"><img src="" alt="Salt" /></div>
-<div class="w-100 w-50-ns fl pa2"><img src="" alt="Vulpine" /></div>
-<div class="w-100 w-50-ns fl pa2"><a href="/work/paulcalver"><img src="" alt="Paul Calver" /></a></div>
-<div class="w-100 w-50-ns fl pa2"><a href="/work/visit"><img src="" alt="Visit App" /></a></div>
-<!--
-<div class="w-100 w-50-ns fl pa2"><a href="/work/cyclelove" ><img src="" alt="CycleLove"/></a></div>
--->
-
+<section class="cf w-70-l">
+<div class="w-100 w-50-ns fl pa2"><img src="/media/portfolio_google.png" alt=""></div>
+<div class="w-100 w-50-ns fl pa2"><img src="/media/portfolio_salt.png"></div>
+<div class="w-100 w-50-ns fl pa2"><a href="http://www.paulcalver.cc/"><img src="/media/portfolio_paulcalver.png" alt=""></a></div>
+<div class="w-100 w-50-ns fl pa2"><img src="/media/portfolio_visit.png" alt=""></div>
 </section>
+
 <blockquote>“<em>James is one of those rare but wonderful creative polymaths who is as comfortable setting beautiful typography as he is making music and writing code. His design shows a deep understanding of technology while holding its own with the pedants of the graphic design world</em>”
 
 — Hoss Gifford, Director of Technology for OneMethod</blockquote>
@@ -64,24 +60,24 @@ Need a new website? I'll design and build a custom Wordpress-powered website whi
 <section class="cf">
 <div class="w-50 fl pa2">
 
-Vulpine
-RBS
-British Council
-Mackintosh
-The Royal Institution
-Orange.ch
-Paul Calver
+<p>Vulpine<br>  
+RBS<br>  
+British Council<br>  
+Mackintosh <br>
+The Royal Institution  <br>
+Orange.ch  <br>
+Paul Calver</p>
 
 </div>
 <div class="w-50 fl pa2">
 
-Skylight
-Topshop
-Google
-Tate
-BMW/Guggenheim
-Whistles
-NOMOI
+<p>Skylight  <br>
+Topshop <br>
+Google  <br>
+Tate  <br>
+BMW/Guggenheim  <br>
+Whistles  <br>
+NOMOI</p>
 
 </div>
 </section>&nbsp;
@@ -107,4 +103,4 @@ Curious about how I got here?
 
 I trained at Glasgow School of Art in Scotland, then worked for <em>Marque Creative</em> in Glasgow as a digital designer for five years, before moving to London to work at a studio called <em>Bureau for Visual Affairs</em> (who I consider to be among the very best in the business).
 
-Along the way I created a popular lifestyle blog called <a href="http://www.cyclelove.cc/" target="_blank">CycleLove</a>, fell back in love with writing again, and fell off my bike a few times too.
+Along the way I created a popular lifestyle blog called CycleLove, fell back in love with writing again, and fell off my bike a few times too.

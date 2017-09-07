@@ -1,10 +1,7 @@
 ---
-id: 807
 title: Don’t start your personal brand by designing a fancy website or logo
 date: 2016-06-12T12:06:48+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/20166personal-branding/
 permalink: /personal-branding/
 categories:
   - Graphic Design

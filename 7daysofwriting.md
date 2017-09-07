@@ -2,7 +2,7 @@
 id: 675
 title: 7 Days of Writing
 date: 2016-10-17T17:58:39+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=675
 landingpage_image:

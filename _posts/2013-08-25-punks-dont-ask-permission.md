@@ -1,15 +1,10 @@
 ---
-id: 212
 title: 'Punks don&#8217;t ask permission. Neither should you.'
 date: 2013-08-25T19:56:27+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/08/25/20138punks-dont-ask-permission/
 permalink: /punks-dont-ask-permission/
 categories:
-  - Uncategorised
-tags:
-  - 30dowxteyk
+  - life
 ---
 For punks, gobbing on the band who were currently on stage <a href="http://www.punk77.co.uk/groups/gobonyou.htm">was considered the ultimate form of respect</a>:
 
@@ -46,8 +41,7 @@ There's something about the fiercely independent spirit of punk which could serv
 
 <strong>You only need 3 chords to write a song<br></strong>Anyone can start a punk band. You just need a guitar and a handful of chords to get going. And skill was less important than attitude. <em>My translation: a&nbsp;re</em><em>stricted palette can be a creativity enhancer. If you want to create something new, having less options means less dithering about your point of entry. There are less reasons not to start. And less things to learn how to use. Pick your power chords and go make some noise.</em>
 
-<strong>Do it differently<br></strong>Don't do what your parents tell you. Don't be the person that society expects you to be. <em>Just be yourself. Everyone else is already taken. As another famous purveyor of punk said:</em>
-
+<strong>Do it differently<br></strong>Don't do what your parents tell you. Don't be the person that society expects you to be. <em>Just be yourself. Everyone else is already taken. As another famous purveyor of punk sa
 <blockquote>"Once something becomes easy to copy, it loses its power"<br>Siouxsie Sioux</blockquote>
 
 <em>What's the best way to be different? Celebrate your individuality. Be confident in your opinions and feelings. Be comfortable in your own skin.&nbsp;</em>
@@ -70,8 +64,7 @@ There's something about the fiercely independent spirit of punk which could serv
 
 <strong>Build your own tribe<br></strong>There wasn't much to celebrate about Britain for young people in the late 70s. The economy was in recession. Industry was collapsing. Those kids were alienated man. So they built their own culture, something which made sense of the world around them. It was shocking to their parents, but it gave them an identity.&nbsp;<em>By making a stand it is inevitable that you will push people away. <a href="https://www.amazon.co.uk/dp/0749939753/ref=as_li_ss_til?tag=sneageek-21&amp;camp=2902&amp;creative=19466&amp;linkCode=as4&amp;creativeASIN=0749939753&amp;adid=18Q2FYVD06C6DXH4AGPD&amp;">But you will also pull those who are aligned to your principles even closer to you</a>. To build your tribe you have to explore outside of the centre, and outside of normal.</em>
 
-<strong>Question and then disrupt the mainstream</strong><br>Everything about punk flew in the face of what was considered normal in 70s Britain. They had big hair before the advent of the big hair of the 80s. Their clothes had torn fabrics, frayed edges and defaced prints at a time when pristine clothes were the norm. Doing things differently brings down barriers and opens up new avenues of exploration.&nbsp;<span style="line-height: 1.6em;">Without punk there would be no post-punk, no Joy Division or Gang of Four, no post post-punk (whatever that is).&nbsp;</span><em style="line-height: 1.6em;">Just because everyone else is doing it, doesn't mean you should too.&nbsp;As Oscar Wilde said: "Everything popular is wrong".&nbsp;The successful business startups are those which do things differently from before. They're the ones that are disrupting established patterns of behaviour. The same applies to art. The&nbsp;</em><em style="line-height: 1.6em;">Impressionists were considered radicals, far too dangerous to be included in mainstream exhibitions, because they violated all the principles of 'academic' painting at the time. Fast-forward a few hundred years and their art is amongst the most highly valued in the world. But that value only exists now because of their radicalism and refusal to conform. So...</em>
-
+<strong>Question and then disrupt the mainstream</strong><br>Everything about punk flew in the face of what was considered normal in 70s Britain. They had big hair before the advent of the big hair of the 80s. Their clothes had torn fabrics, frayed edges and defaced prints at a time when pristine clothes were the norm. Doing things differently brings down barriers and opens up new avenues of exploration.&nbsp;<span style="line-height: 1.6em;">Without punk there would be no post-punk, no Joy Division or Gang of Four, no post post-punk (whatever that is).&nbsp;</span><em style="line-height: 1.6em;">Just because everyone else is doing it, doesn't mean you should too.&nbsp;As Oscar Wilde sa
 <strong>Above all else: rebel<br></strong>Question the establishment. <em>Take a stance on life.&nbsp;<i>Find your own path. Do your own thing.</i></em><i></i>
 
 

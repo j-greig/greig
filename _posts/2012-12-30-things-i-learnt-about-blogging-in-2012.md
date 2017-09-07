@@ -1,13 +1,10 @@
 ---
-id: 179
 title: 23 things I learnt about blogging in 2012
 date: 2012-12-30T13:10:40+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2012/12/30/1223-things-i-learnt-about-blogging-in-2012/
 permalink: /things-i-learnt-about-blogging-in-2012/
 categories:
-  - Uncategorised
+  - writing
 ---
 With <a href="http://www.cyclelove.cc/" data-link-type="external">CycleLove</a> approaching its first birthday (and no doubt some teething pains and temper tantrums imminent), it seemed like a sensible time to recap on lessons learned over the course of this year.
 

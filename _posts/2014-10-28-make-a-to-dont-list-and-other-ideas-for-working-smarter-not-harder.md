@@ -1,10 +1,7 @@
 ---
-id: 1284
 title: Make a “to don’t” list, and other ideas for working smarter not harder
 date: 2014-10-28T08:27:48+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/make-a-to-dont-list-and-other-ideas-for-working-smarter-not-harder/
 permalink: /make-a-to-dont-list-and-other-ideas-for-working-smarter-not-harder/
 categories:
   - Uncategorised

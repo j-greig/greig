@@ -1,10 +1,7 @@
 ---
-id: 114
 title: How to fix Mondays
 date: 2014-05-19T11:12:03+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/05/19/20145how-to-fix-mondays/
 permalink: /how-to-fix-mondays/
 categories:
   - Uncategorised

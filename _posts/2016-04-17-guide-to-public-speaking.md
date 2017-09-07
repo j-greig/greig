@@ -1,10 +1,7 @@
 ---
-id: 398
 title: 'A normal person’s guide to public speaking (Or: How to give a talk without losing your marbles)'
 date: 2016-04-17T14:10:14+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2016/04/17/20164guide-to-public-speaking/
 permalink: /guide-to-public-speaking/
 categories:
   - Uncategorised

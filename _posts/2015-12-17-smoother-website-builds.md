@@ -1,10 +1,7 @@
 ---
-id: 2097
 title: What should I ask my client in advance to make their website build go more smoothly?
 date: 2015-12-17T13:48:20+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=2097
 permalink: /smoother-website-builds/
 categories:
   - Graphic Design

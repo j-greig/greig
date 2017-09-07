@@ -1,13 +1,10 @@
 ---
-id: 220
 title: 'The art of authenticity: meet the brands using storydoing to plug directly into their customer&#8217;s hearts'
 date: 2013-09-02T23:02:37+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/02/20139the-art-of-authenticity-storydoing/
 permalink: /the-art-of-authenticity-storydoing/
 categories:
-  - Uncategorised
+  - writing
 ---
 First things first: I'm in a hurry to get this article online before the concept of "storydoing" gets picked up by marketeers and bludgeoned to within an inch of its life as has been done to its older sibling "storytelling".
 
@@ -51,7 +48,7 @@ I chewed this concept over and realised&nbsp;I already knew of several relativel
 What's the best way to promote your skills as a maker of customer bikes? I'm not sure, but building a bike capable of reaching 100mph and then filming your attempt to reach that speed, the method chosen by framebuilder Tom Donhou to promote himself, seems like a pretty solid way to start.
 
 ### <a href="http://www.toms.co.uk/">TOMS Shoes</a> — giving away a pair of shoes to a poor child for every pair sold
-I'll admit it — I'm not really sure what TOMS Shoes look like. I haven't bought any, not do I know anyone who has. But the concept behind the brand has been firmly lodged in my brain since the first time I heard it. <a href="http://www.fastcompany.com/3015209/leadership-now/the-rise-of-storydoing-inside-the-staggering-success-of-toms-shoes">Read Fast Company's feature on "the staggering success" of Tom's Shoes</a>. 
+I'll admit it — I'm not really sure what TOMS Shoes look like. I haven't bought any, not do I know anyone who has. But the concept behind the brand has been firmly lodged in my brain since the first time I heard it. <a href="http://www.fastcompany.com/3015209/leadership-now/the-rise-of-storydoing-inside-the-staggering-success-of-toms-shoes">Read Fast Company's feature on "the staggering success" of Tom's Shoes</a>.
 
 The thing that I love about this example of storydoing is that TOMS Shoes founder&nbsp;Blake Mycoski&nbsp;has hit on a refreshingly atypical model for a non non-profit:&nbsp;
 
@@ -72,10 +69,10 @@ As a result, I've remained engaged with the company since discovering them and k
 Most business are pretty secretive about what happens behind the scenes. Not so with the makers of social media management tool Buffer, who share every detail of their startup on their blog. (Its employers even know their colleague's salaries and equity stakes).&nbsp;<a href="http://www.inc.com/jeff-haden/inside-buffer-company-complete-transparency.html" style="line-height: 1.6em;">Read Inc's interview with Buffer co-founder Theo Widrich</a>&nbsp;and then&nbsp;<a href="http://blog.bufferapp.com/">their own blog</a>which offers up a constant stream of productivity tips and lifestyle hacks to a now-huge audience. For me there is no single "storydoing" element to Buffer — the entire company is an exercise in storydoing.
 
 <img src="/media/vulpine.jpg" alt="" width="750" height="369" class="alignnone size-full wp-image-1757" />
-  
+
 ### <a href="http://www.vulpine.cc/">Vulpine</a> — stylish cycling, from the heart
 When I went to <a href="http://www.cyclelove.cc/2012/12/at-home-with-vulpines-nick-hussey/">interview Vulpine's founder Nick Hussey</a> and he regaled me a story about he had a gun put to his head whilst working in a club in Manchester, I realised that his cycling clothing company was going to be a bit different. Vulpine have been one of <em>the</em> success stories in the resurgence of British cycle style, with demand for their sharply tailored products always outpacing supply.By putting emotion at the heart of their social media output — by&nbsp;<a href="http://www.metia.com/london/mark-pinsent/2013/05/the-rise-of-the-socially-native-business">being socially native</a>&nbsp;—&nbsp;Vulpine have formed an unusually strong bond with their customers: <blockquote>"Socially native businesses don’t sit down and devise a strategy for the use of social media. It’s just what they do. They share the ups and downs of starting a new business, their frustrations and accomplishments, successes and failures. In doing so they involve their customers, employees, partners and even their competitors in the story. We become active participants in their success (or otherwise).&nbsp;"</blockquote>When you read <a href="http://www.vulpine.cc/Blog">the Vulpine blog</a>, you are not just punted their products. Instead you find out what makes them tick, why they are so mad about bikes, in short, what makes them human.
-  
+
 <img src="/media/100miles.jpg" alt="" width="750" height="497" class="alignnone size-full wp-image-1758" />
 
 ### CycleLove — <a href="http://www.cyclelove.cc/2012/11/why-i-cycled-a-hundred-miles-to-meet-my-first-customer/">Why I cycled 100 miles to meet my first customer</a>

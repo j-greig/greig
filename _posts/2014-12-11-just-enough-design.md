@@ -1,10 +1,7 @@
 ---
-id: 1275
 title: Just enough design
 date: 2014-12-11T17:57:45+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/just-enough-design/
 permalink: /just-enough-design/
 categories:
   - Uncategorised

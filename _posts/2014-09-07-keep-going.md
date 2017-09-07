@@ -1,12 +1,9 @@
 ---
-id: 87
 title: Keep going.
 date: 2014-09-07T14:11:40+00:00
-author: James Greig
+
 excerpt: |
-  <p><span style="font-size:15px">Humans don't come with an instruction manual, and our lives don't come with a map. How then can we find our way in life?</span></p>
-layout: post
-guid: http://greig.cc/2014/09/07/20149keep-going/
+  <p><span style="font-size:15px">Humans don't come with an instruction manual, and our lives don't come with a map. How then can we find our way in life?</span></p>layout: post
 permalink: /keep-going/
 categories:
   - Life

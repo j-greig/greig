@@ -1,10 +1,7 @@
 ---
-id: 417
 title: The freelancer’s guide to having a Monday morning meeting with yourself
 date: 2016-09-04T17:37:34+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/20169freelancers-guide-monday-morning-meeting/
 permalink: /freelancers-guide-monday-morning-meeting/
 categories:
   - Uncategorised

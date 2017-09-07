@@ -1,13 +1,10 @@
 ---
-id: 1909
 title: Eating the menu instead of the dinner
 date: 2017-05-15T09:28:04+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=1909
 permalink: /eating-the-menu/
 categories:
-  - Life
+  - life
 ---
 I’m increasingly glad that the internet and social media wasn’t really a thing when I was growing up.
 

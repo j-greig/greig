@@ -1,13 +1,10 @@
 ---
-id: 180
 title: My first website
 date: 2013-03-27T09:56:52+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/03/27/my-first-website/
 permalink: /my-first-website/
 categories:
-  - Graphic Design
+  - graphic-design
 ---
 Remember the dulcet, gurgling tones of a 56K modem connecting over your phone line?
 
@@ -63,6 +60,7 @@ But I didn't own a computer.&nbsp;So I borrowed my flatmate's beige PC and once 
 I stopped updating Headscan, and began cold-emailing businesses in the phone book that didn't have a website, offering to build one for £100. A car-hire company was the first to take up my offer. But that's a story for another day.&nbsp;
 
 <img src="/media/headscan.jpg" alt="" width="115" height="128" class="alignnone size-full wp-image-2025" />
+
 <small>The only Headscan I can find online. I have a hunch this guy was from the Netherlands.</small>
 
 What did I learn from building my first website?&nbsp;

@@ -1,16 +1,10 @@
 ---
-id: 326
 title: Cycling infrastructure is not just for cyclists
 date: 2014-12-04T09:01:15+00:00
-author: James Greig
-excerpt: '<p style="margin-left:0px; margin-right:0px">Looking at the arguments for and against protected space for cycling in our cities. What if everyone felt safe to cycle in our cities, not just existing cyclists?</p>'
 layout: post
-guid: http://greig.cc/2014/12/04/201412cycling-infrastructure-is-not-for-cyclists/
 permalink: /cycling-infrastructure-is-not-for-cyclists/
-structured_content:
-  - '{"oembed":[],"overlay":true}'
 categories:
-  - Uncategorised
+  - life
 ---
  <img src="/media/cycling-antwerp-1.jpg" alt="" width="1000" height="667" class="alignnone size-full wp-image-1937" />
 

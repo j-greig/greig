@@ -1,15 +1,10 @@
 ---
-id: 242
 title: Itching the scratch
 date: 2013-09-22T21:34:51+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/22/20139itching-the-scratch/
 permalink: /itching-the-scratch/
 categories:
-  - Life
-tags:
-  - 30dowxteyk
+  - life
 ---
 <img src="/media/itching-the-scratch.png" alt="" width="927" height="667" class="alignnone size-full wp-image-1986" />
 

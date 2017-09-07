@@ -2,7 +2,7 @@
 id: 743
 title: 'Hello Design*Sponge Reader!'
 date: 2016-10-30T16:48:52+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=743
 subtitle:

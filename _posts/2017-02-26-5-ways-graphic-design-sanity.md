@@ -1,14 +1,11 @@
 ---
-id: 1637
 title: 5 ways to be a graphic designer without losing your sanity
 date: 2017-02-26T15:06:54+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=1637
 permalink: /5-ways-graphic-design-sanity/
 categories:
-  - Freelancing
-  - Graphic Design
+  - freelancing
+  - graphic-design
 ---
 Recently I’ve stumbled into a rich seam of freelance work… one of those sweet projects thats grows into three or four with the same client, and a healthy working relationship blossoms.
 
@@ -16,11 +13,11 @@ Recently I’ve stumbled into a rich seam of freelance work… one of those swee
 
 This is great news financially of course, and one of the reasons that moving from London to Glasgow was a no-brainer. I’m sorted for work for the next 3 months at least, and have plenty of time to establish myself north of the border before finding my next client.
 
-But instead of working on one project at a time as a solo unit—which is how I prefer to work when possible—I’m now split across multiple work streams, all with shifting scopes and deadlines, and with a team based in three cities. 
+But instead of working on one project at a time as a solo unit—which is how I prefer to work when possible—I’m now split across multiple work streams, all with shifting scopes and deadlines, and with a team based in three cities.
 
 The delicious irony is that as a result, I’ve had little time or headspace for the book I’m writing… working title “*How to be a Graphic Designer Without Losing Your Sanity*”.
 
-Ha! 
+Ha!
 
 So today, I wanted to share some tips and tricks I’ve been using to stop myself feeling swamped by work.
 
@@ -34,11 +31,11 @@ Then something struck me… but not in a painful way thankfully…
 
 I’d never actually hired a consultant myself.
 
-How could I sell myself as one without having been on the receiving end of some consultancy myself? 
+How could I sell myself as one without having been on the receiving end of some consultancy myself?
 
 This has lead to a change of mindset for me.
 
-You don’t _spend_ time and money improving your skillset, you _invest_ it. 
+You don’t _spend_ time and money improving your skillset, you _invest_ it.
 
 So in the past year I’ve started hiring consultants to advise me on SEO, on business strategy, and project management and fee structure too. (Ian Sanders was generous enough to do one of his “[walk and talk](http://iansanders.com/coaching)” sessions with me for free, and I’ve also been working with [Paul Boag](https://boagworld.com/boagworks/advice/) amongst others).
 
@@ -94,13 +91,13 @@ Which has meant my friend and awesome digital designer [Guy Moorhouse](https://f
 
 Enough about tools.
 
-When work feels like it’s taking over your life, there’s one thing that you can always do to put things in perspective. 
+When work feels like it’s taking over your life, there’s one thing that you can always do to put things in perspective.
 
 And it’s the simplest thing of all…
 
 ## Take a deep breath
 
-If you’re feeling swamped by work, stop everything and focus on your breathing for a few minutes. 
+If you’re feeling swamped by work, stop everything and focus on your breathing for a few minutes.
 
 Take a deep breath in, all the way.
 

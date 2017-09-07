@@ -1,10 +1,7 @@
 ---
-id: 428
 title: Riding the creative rollercoaster
 date: 2016-10-09T12:09:37+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/201610creative-rollercoaster/
 permalink: /creative-rollercoaster/
 categories:
   - Uncategorised

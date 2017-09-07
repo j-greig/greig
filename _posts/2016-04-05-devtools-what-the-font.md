@@ -1,10 +1,7 @@
 ---
-id: 2111
 title: 'DevTools For Designers: What The Font?'
 date: 2016-04-05T14:14:46+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=2111
 permalink: /devtools-what-the-font/
 categories:
   - DevTools for Designers

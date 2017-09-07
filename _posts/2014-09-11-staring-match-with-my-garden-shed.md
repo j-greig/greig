@@ -1,11 +1,8 @@
 ---
-id: 84
 title: 'I&#8217;ve been having a staring match with my garden shed'
 date: 2014-09-11T12:25:54+00:00
-author: James Greig
-excerpt: "<p>Every time I've looked out of my bedroom window for the past few weeks, my shed has been there, unblinkingly transmitting a single thought into my mind...</p>"
-layout: post
-guid: http://greig.cc/2014/09/11/20149staring-match-with-my-garden-shed/
+
+excerpt: "<p>Every time I've looked out of my bedroom window for the past few weeks, my shed has been there, unblinkingly transmitting a single thought into my mind...</p>"layout: post
 permalink: /staring-match-with-my-garden-shed/
 categories:
   - Undesign

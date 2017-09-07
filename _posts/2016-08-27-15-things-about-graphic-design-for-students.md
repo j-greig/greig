@@ -1,11 +1,8 @@
 ---
-id: 416
 title: 15 things they might not teach you about graphic design when you’re a student
 date: 2016-08-27T11:55:42+00:00
-author: James Greig
-excerpt: '<p><span style="font-size:20px">Tips for graphic design students on getting the most out of internships, and on taking the first exciting few steps in their professional design career. (And a refresher for all of us who are already further down the line.)</span></p>'
-layout: post
-guid: http://greig.cc/2016815-things-about-graphic-design-for-students/
+
+excerpt: '<p><span style="font-size:20px">Tips for graphic design students on getting the most out of internships, and on taking the first exciting few steps in their professional design career. (And a refresher for all of us who are already further down the line.)</span></p>'layout: post
 permalink: /15-things-about-graphic-design-for-students/
 categories:
   - Graphic Design

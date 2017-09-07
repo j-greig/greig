@@ -1,14 +1,11 @@
 ---
-id: 330
 title: We’re all kind of weird and twisted and drowning
 date: 2015-01-25T14:10:36+00:00
-author: James Greig
-excerpt: "<p>You know all those thoughts and feelings you have, that you're not sure are normal?&nbsp;Here's the thing.&nbsp;Everyone else has them too...</p>"
-layout: post
-guid: http://greig.cc/2015/01/25/20151weird-and-twisted-and-drowning/
+
+excerpt: "<p>You know all those thoughts and feelings you have, that you're not sure are normal?&nbsp;Here's the thing.&nbsp;Everyone else has them too...</p>"layout: post
 permalink: /weird-and-twisted-and-drowning/
 categories:
-  - Uncategorised
+  - life
 ---
 You know all those thoughts and feelings you have, that you're not sure are normal?
 

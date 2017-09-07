@@ -1,10 +1,7 @@
 ---
-id: 288
 title: The thought experiment that changes the molecular composition of your body
 date: 2014-01-13T21:55:47+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/01/13/20141thought-experiment-molecular-composition-meditation/
 permalink: /thought-experiment-molecular-composition-meditation/
 categories:
   - Uncategorised

@@ -2,7 +2,7 @@
 id: 426
 title: Before Going Freelance
 date: 2016-05-18T21:21:17+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/beforegoingfreelance/
 subtitle:

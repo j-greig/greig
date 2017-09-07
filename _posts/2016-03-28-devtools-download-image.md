@@ -1,10 +1,7 @@
 ---
-id: 2099
 title: 'DevTools For Designers: Download Any Image From A Website'
 date: 2016-03-28T13:52:32+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=2099
 permalink: /devtools-download-image/
 categories:
   - DevTools for Designers

@@ -1,10 +1,7 @@
 ---
-id: 75
 title: Why names rarely match up with faces on movie posters
 date: 2014-01-05T20:04:52+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/01/05/20141why-names-rarely-match-up-with-faces-on-movie-posters/
 permalink: /why-names-rarely-match-up-with-faces-on-movie-posters/
 categories:
   - Graphic Design

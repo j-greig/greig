@@ -1,11 +1,8 @@
 ---
-id: 397
 title: Be fear-fuelled, not fearless
 date: 2016-04-10T18:51:50+00:00
-author: James Greig
-excerpt: '<p>How to rechannel fear to your advantage.</p>'
-layout: post
-guid: http://greig.cc/2016/04/10/20164fear-fuelled-not-fearless/
+
+excerpt: '<p>How to rechannel fear to your advantage.</p>'layout: post
 permalink: /fear-fuelled-not-fearless/
 categories:
   - Uncategorised

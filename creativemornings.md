@@ -2,7 +2,7 @@
 id: 1679
 title: Hello via Creative Mornings!
 date: 2017-03-30T12:18:24+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=1679
 subtitle:

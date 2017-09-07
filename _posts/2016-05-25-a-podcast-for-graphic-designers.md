@@ -1,10 +1,7 @@
 ---
-id: 804
 title: I’m starting a podcast about graphic designers forging alternative career paths
 date: 2016-05-25T20:49:12+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/20165a-podcast-for-graphic-designers/
 permalink: /a-podcast-for-graphic-designers/
 categories:
   - Graphic Design

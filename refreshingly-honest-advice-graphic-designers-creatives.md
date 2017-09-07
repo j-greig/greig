@@ -2,7 +2,7 @@
 id: 513
 title: Refreshingly honest advice for graphic designers and creatives
 date: 2016-08-28T18:28:56+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=513
 subtitle:

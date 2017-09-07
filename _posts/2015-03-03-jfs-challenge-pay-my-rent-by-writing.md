@@ -1,12 +1,9 @@
 ---
-id: 341
 title: Can I pay my rent by writing this month, instead of doing graphic design?
 date: 2015-03-03T15:04:05+00:00
-author: James Greig
+
 excerpt: |
-  <p>I don't feel ready.&nbsp;And if I'm honest, I feel a bit scared to be writing this. But I know that there won't ever be a "right time" to do this. So here goes nothing...</p>
-layout: post
-guid: http://greig.cc/2015/03/03/20153jfs-challenge-pay-my-rent-by-writing/
+  <p>I don't feel ready.&nbsp;And if I'm honest, I feel a bit scared to be writing this. But I know that there won't ever be a "right time" to do this. So here goes nothing...</p>layout: post
 permalink: /jfs-challenge-pay-my-rent-by-writing/
 categories:
   - Writing

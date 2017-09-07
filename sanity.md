@@ -2,7 +2,7 @@
 id: 757
 title: How to be a Graphic Designer Without Losing Your Sanity
 date: 2016-10-30T18:28:57+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=757
 subtitle:

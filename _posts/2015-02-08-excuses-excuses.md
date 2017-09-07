@@ -1,11 +1,8 @@
 ---
-id: 335
 title: Excuses, excuses
 date: 2015-02-08T13:11:56+00:00
-author: James Greig
-excerpt: '<p>Four shitty excuses that are stopping you getting stuff done, and how to zap them from your life&nbsp;</p>'
-layout: post
-guid: http://greig.cc/2015/02/08/20152excuses-excuses/
+
+excerpt: '<p>Four shitty excuses that are stopping you getting stuff done, and how to zap them from your life&nbsp;</p>'layout: post
 permalink: /excuses-excuses/
 structured_content:
   - '{"oembed":[],"overlay":true}'

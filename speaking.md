@@ -2,7 +2,7 @@
 id: 1792
 title: Speaking
 date: 2017-04-18T12:41:16+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=1792
 subtitle:

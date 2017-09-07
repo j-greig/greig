@@ -1,15 +1,10 @@
 ---
-id: 224
 title: Removing the possibility of stopping
 date: 2013-09-04T20:05:17+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/04/20139removing-the-possibility-of-stopping/
 permalink: /removing-the-possibility-of-stopping/
 categories:
-  - Uncategorised
-tags:
-  - 30dowxteyk
+  - life
 ---
 <img src="/media/scroll.jpg" alt="" width="620" height="387" class="alignnone size-full wp-image-1762" />
 
@@ -67,7 +62,7 @@ I'm also writing this standing up.
 
 I've done a full day's worth of pushing pixels around to make websites and all I want to do now is lie down on my bed and read something.
 
-So the usual distractions of email and the internet have far less appeal than usual. 
+So the usual distractions of email and the internet have far less appeal than usual.
 
 Finishing this article is much much more appealing.&nbsp;
 

@@ -1,12 +1,9 @@
 ---
-id: 313
 title: How to sidestep creative perfectionism by acting like a startup
 date: 2014-09-21T15:56:21+00:00
-author: James Greig
+
 excerpt: |
-  <p><span style="font-size:15px">Creative people, myself included, often get hung up on how things look. Here's how to stop polishing, and start shipping instead.</span></p>
-layout: post
-guid: http://greig.cc/2014/09/21/20149creative-perfectionism-mvp/
+  <p><span style="font-size:15px">Creative people, myself included, often get hung up on how things look. Here's how to stop polishing, and start shipping instead.</span></p>layout: post
 permalink: /creative-perfectionism-mvp/
 categories:
   - Uncategorised

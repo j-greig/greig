@@ -1,10 +1,7 @@
 ---
-id: 92
 title: If it sounds like writing, rewrite it.
 date: 2014-06-15T12:22:36+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/06/15/20145if-it-sounds-like-writing-rewrite-it/
 permalink: /if-it-sounds-like-writing-rewrite-it/
 categories:
   - Writing

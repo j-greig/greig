@@ -1,13 +1,10 @@
 ---
-id: 191
 title: What I learnt about moving forwards by going on retreat
 date: 2013-08-17T11:05:30+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/08/17/2013going-on-retreat/
 permalink: /going-on-retreat/
 categories:
-  - Uncategorised
+  - life
 ---
 I switched <a href="https://www.airbnb.com/tell-a-friend?airef=bccuze63c9zz5">Airbnb</a> to map view, maxed the price at £50 per night, and panned hopefully right from London.&nbsp;
 
@@ -43,9 +40,9 @@ I don't know why I abandoned my usual "pack light" principles. I guess I didn't 
 There wasn't much to do.
 
 I took long walks into the surrounding countryside.
-  
+
       <img src="" alt=""/>
-  
+
 
 I drank lots of tea out of a tin mug which was always threatening to burn me.
 
@@ -64,19 +61,19 @@ I started to work&nbsp;<span style="line-height: 1.6em;">systematically&nbsp;</s
 <span>I realised what had been wrong with my previous attempts at writing.&nbsp;</span><span style="line-height: 1.6em;">I hadn't been honest: with myself, or about myself. I needed to write stories, not "blog posts".</span>
 
 <span style="line-height: 1.6em;">Armed with these thoughts, I sat down beside the warmth of the stove with a mug of tea, and scanned back through my life for something to write about it. Words flowed out of my head and into sentences. I even began to enjoy the writing process.</span>
-  
+
       <img src="" alt=""/>
-  
 
 
-  
+
+
       <img src="" alt=""/>
-  
 
 
-  
+
+
       <img src="" alt=""/>
-  
+
 
 <span>The seed of a writing habit that was born on my retreat has since germinated. Looking back, this has been&nbsp;<em>the</em>&nbsp;lasting benefit of my time out.&nbsp;</span><span>I wrote half of this article early this morning before breakfast, bashing out 500 words without realising it. Last Saturday I wrote close to 1500.&nbsp;</span><a href="https://docs.google.com/spreadsheet/ccc?key=0ApVIaxxsdjCBdDduOVV1d0N3aktqc1ZGMHZaSzljM1E&amp;usp=sharing">I've started logging my daily word count to a public spreadsheet</a><span>, for accountability's sake. (Yesterday's tally was 0, in case you're wondering).</span>
 

@@ -1,11 +1,8 @@
 ---
-id: 803
 title: '8,991 emails later: everything I learnt creating my first email course in Mailchimp'
 date: 2016-10-02T10:59:35+00:00
-author: James Greig
-excerpt: '<p>What I learnt creating my first email course. How to choose an audience and a topic, sequence your lessons, then build and promote your email course.</p>'
-layout: post
-guid: http://greig.cc/first-email-course/
+
+excerpt: '<p>What I learnt creating my first email course. How to choose an audience and a topic, sequence your lessons, then build and promote your email course.</p>'layout: post
 permalink: /first-email-course/
 categories:
   - Meta

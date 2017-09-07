@@ -1,10 +1,7 @@
 ---
-id: 812
 title: How To Take It Easy (on Yourself)
 date: 2016-09-25T13:33:59+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/20169how-to-take-it-easy-on-yourself/
 permalink: /how-to-take-it-easy-on-yourself/
 categories:
   - Life

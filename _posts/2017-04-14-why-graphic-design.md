@@ -1,12 +1,11 @@
 ---
-id: 1730
 title: How did you know you wanted to be a graphic designer?
 date: 2017-04-14T12:12:26+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=1730
 permalink: /why-graphic-design/
-categories: graphic-design
+categories:
+  - graphic-design
+
 ---
 It’s hard to pinpoint the exact moment I knew I wanted to be a graphic designer. Like a lot of people, I think the job found me, rather than me finding the job.
 

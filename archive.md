@@ -2,7 +2,7 @@
 id: 3
 title: Archive
 date: 2017-02-13T15:57:58+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/archive/
 ---

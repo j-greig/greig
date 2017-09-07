@@ -1,10 +1,7 @@
 ---
-id: 1258
 title: How I Write (Part 1)
 date: 2015-02-18T11:57:10+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/how-i-write-part-1/
 permalink: /how-i-write-part-1/
 categories:
   - Writing

@@ -6,9 +6,6 @@ layout: default
 
   <h1 class="mw7 f3 f1-m mb4 f1-l lh-title normal sans-serif lh-title">{{page.title}}</h1>
   <div class="article-body">
-
-      {{ h2 }}
-
       {{ content | replace : h2, h2_styled | replace : h3, h3_styled | replace : pstring, pstring_styled |
                    replace : blockquote, blockquote_styled | replace : cite, cite_styled |
                    replace : ol, ol_styled | replace : ul, ul_styled | replace : list_item_, list_item_styled }}

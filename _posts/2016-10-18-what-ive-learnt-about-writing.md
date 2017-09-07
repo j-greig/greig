@@ -1,10 +1,7 @@
 ---
-id: 813
 title: These are the things I’ve learnt about writing so far.
 date: 2016-10-18T15:54:51+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=813
 permalink: /what-ive-learnt-about-writing/
 categories:
   - Writing

@@ -1,11 +1,8 @@
 ---
-id: 806
 title: 'It&#8217;s inside you.'
 date: 2016-06-05T18:52:51+00:00
-author: James Greig
-excerpt: '<p>When everything turns to shit and you want to crawl up into a ball and admit defeat, it’s not because you’ve reached the end of the road. It’s because you’ve forgotten what fuels your fire.</p>'
-layout: post
-guid: http://greig.cc/20166insideyou/
+
+excerpt: '<p>When everything turns to shit and you want to crawl up into a ball and admit defeat, it’s not because you’ve reached the end of the road. It’s because you’ve forgotten what fuels your fire.</p>'layout: post
 permalink: /insideyou/
 categories:
   - Uncategorised

@@ -1,13 +1,10 @@
 ---
-id: 1109
 title: 'Alternative careers for graphic designers: the complete guide'
 date: 2017-02-13T16:01:59+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=1109
 permalink: /alternative-careers-graphic-designers/
 categories:
-  - Graphic Design
+  - graphic-design
 ---
 <img src="/media/alternative-careers-for-graphic-designers.jpg" alt="Alternative careers for graphic designers" width="750" height="375" class="alignnone size-full wp-image-1115" />
 
@@ -19,7 +16,7 @@ Being a graphic designer is tough: clients are demanding, bosses want pixel perf
 
 So it’s only natural to question your chosen career path from time to time.
 
-But before you quit your design job, you need to be sure <em>exactly</em> what is currently causing you dissatisfaction about your career — otherwise you could find yourself feeling exactly the same about your new bob. 
+But before you quit your design job, you need to be sure <em>exactly</em> what is currently causing you dissatisfaction about your career — otherwise you could find yourself feeling exactly the same about your new bob.
 &nbsp;
 
 <h2>Questions to ask yourself if you’re thinking about quitting your design job</h2>

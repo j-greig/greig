@@ -1,10 +1,7 @@
 ---
-id: 108
 title: The false economy of boxes
 date: 2014-06-13T10:09:25+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/06/13/20146false-economy-of-boxes/
 permalink: /false-economy-of-boxes/
 categories:
   - Life

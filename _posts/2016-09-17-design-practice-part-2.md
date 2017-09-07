@@ -1,11 +1,8 @@
 ---
-id: 811
 title: 'Rebooting My Design Practice. Part 2: Qualifying Clients, and Baby Steps Towards Productized Consulting'
 date: 2016-09-17T09:33:03+00:00
-author: James Greig
-excerpt: '<p>Guidance for freelancers on qualifying new clients, developing your productized consulting offer, and trusting your gut.</p>'
-layout: post
-guid: http://greig.cc/20169design-practice-part-2/
+
+excerpt: '<p>Guidance for freelancers on qualifying new clients, developing your productized consulting offer, and trusting your gut.</p>'layout: post
 permalink: /design-practice-part-2/
 categories:
   - Freelancing

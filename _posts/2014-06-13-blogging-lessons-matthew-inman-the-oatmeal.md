@@ -1,10 +1,7 @@
 ---
-id: 160
 title: '7 lessons about blogging you can learn from The Oatmeal&#8217;s Matthew Inman'
 date: 2014-06-13T17:21:54+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/06/13/20139blogging-lessons-matthew-inman-the-oatmeal/
 permalink: /blogging-lessons-matthew-inman-the-oatmeal/
 categories:
   - Undesign

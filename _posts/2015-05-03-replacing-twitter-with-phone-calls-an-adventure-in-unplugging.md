@@ -1,10 +1,7 @@
 ---
-id: 1256
 title: 'Replacing Twitter with Phone Calls: An Adventure in Unplugging'
 date: 2015-05-03T12:35:33+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/replacing-twitter-with-phone-calls-an-adventure-in-unplugging/
 permalink: /replacing-twitter-with-phone-calls-an-adventure-in-unplugging/
 categories:
   - Uncategorised

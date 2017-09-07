@@ -1,11 +1,8 @@
 ---
-id: 319
 title: 'Getting unstuck when you&#8217;re working on your own projects'
 date: 2014-09-29T19:06:55+00:00
-author: James Greig
-excerpt: '<p><span style="font-size:15px">When it comes to making your own art (instead of working for other people), it can be tough to keep things moving...</span></p>'
-layout: post
-guid: http://greig.cc/2014/09/29/20149getting-unstuck/
+
+excerpt: '<p><span style="font-size:15px">When it comes to making your own art (instead of working for other people), it can be tough to keep things moving...</span></p>'layout: post
 permalink: /getting-unstuck/
 categories:
   - Life

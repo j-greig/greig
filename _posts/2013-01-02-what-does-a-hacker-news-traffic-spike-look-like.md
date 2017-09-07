@@ -1,13 +1,11 @@
 ---
-id: 94
 title: What does a Hacker News traffic spike look like?
 date: 2013-01-02T16:44:08+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/01/02/20131what-does-a-hacker-news-traffic-spike-look-like/
 permalink: /what-does-a-hacker-news-traffic-spike-look-like/
 categories:
-  - CycleLove
+  - meta
+  - writing
 ---
 It's only recently that I've discovered the wealth of articles and discussions on <a href="http://news.ycombinator.com/" data-link-type="external">Hacker News</a>, the social news forum of the&nbsp;Silicon Valley&nbsp;startup&nbsp;incubator&nbsp;<a href="http://ycombinator.com/" data-link-type="external">Y Combinator</a>.</p><p>So when I posted my "<a href="http://www.cyclelove.cc/2012/11/why-i-cycled-a-hundred-miles-to-meet-my-first-customer/" data-link-type="external">100 mile bike courier</a>" story <a href="http://news.ycombinator.com/item?id=4796755" data-link-type="external">to the site</a>&nbsp;back in November, I&nbsp;didn't give it much thought.&nbsp;</p><p>Looking at the stats again now, I'm so glad that I took the decision to upgrade my hosting from Dreamhost (cheap, slow, slightly ropey) to <a href="http://www.shareasale.com/r.cfm?B=394686&amp;U=671335&amp;M=41388&amp;urllink=" data-link-type="external">WP-Engine</a> (moderately priced, fast, reliable), whose managed Wordpress hosting performed flawlessly.</p><p>Granted — 7,000 uniques in a day isn't a huge number for an established site, but for <a href="http://www.cyclelove.cc/" data-link-type="external">CycleLove</a> it represented a quantum leap in traffic — of almost 7,000%.</p>
 

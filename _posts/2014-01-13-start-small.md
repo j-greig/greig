@@ -1,10 +1,7 @@
 ---
-id: 154
 title: Start small.
 date: 2014-01-13T07:53:46+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/01/13/20141start-small/
 permalink: /start-small/
 categories:
   - Uncategorised

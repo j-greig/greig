@@ -1,10 +1,7 @@
 ---
-id: 1278
 title: 'Reflections on the past, present and future of Glasgow&#8217;s art scene'
 date: 2014-11-19T11:57:00+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/reflections-on-the-past-present-and-future-of-glasgows-art-scene/
 permalink: /reflections-on-the-past-present-and-future-of-glasgows-art-scene/
 categories:
   - Uncategorised

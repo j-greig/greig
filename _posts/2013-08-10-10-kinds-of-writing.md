@@ -1,13 +1,10 @@
 ---
-id: 188
 title: 10 kinds of writing to experiment with on a daily basis
 date: 2013-08-10T12:38:43+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/08/10/2013810-kinds-of-writing/
 permalink: /10-kinds-of-writing/
 categories:
-  - Writing
+  - writing
 ---
 Ok, I know what you're thinking: does this guy really do ten different kinds of writing&nbsp;<em>every</em> day?
 
@@ -69,7 +66,7 @@ The funny thing is that life usually does work out fine. All those things you we
 Make a permanent home for a notebook and pen by your bed.
 
 As soon as you wake up, run through any dream fragments in your head, and then write them down. If you're a visual person, you might try sketching them too. Either way, be quick because you only have a few minutes before that dream disappears forever.
-  
+
 <img src="/media/lizard_armada.jpg" alt="" width="500" height="513" class="alignnone size-full wp-image-2020" />
 <small>A dream I had about an armada of floating lizards the size of cities. Um, yeah... I don't know what it was about either.</small>  
 

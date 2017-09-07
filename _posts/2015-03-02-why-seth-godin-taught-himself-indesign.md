@@ -1,10 +1,7 @@
 ---
-id: 1257
 title: Why Seth Godin taught himself InDesign
 date: 2015-03-02T16:43:48+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/why-seth-godin-taught-himself-indesign/
 permalink: /why-seth-godin-taught-himself-indesign/
 categories:
   - Uncategorised

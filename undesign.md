@@ -2,7 +2,7 @@
 id: 1671
 title: Undesign
 date: 2017-03-30T13:26:26+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/?page_id=1671
 subtitle:

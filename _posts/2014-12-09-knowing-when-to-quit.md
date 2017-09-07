@@ -1,11 +1,8 @@
 ---
-id: 325
 title: Knowing when to quit
 date: 2014-12-09T09:37:35+00:00
-author: James Greig
-excerpt: "<p>Three clues that it might be time to move onto something new (and why quitting doesn't make you a quitter).</p>"
-layout: post
-guid: http://greig.cc/2014/12/09/201412knowing-when-to-quit/
+
+excerpt: "<p>Three clues that it might be time to move onto something new (and why quitting doesn't make you a quitter).</p>"layout: post
 permalink: /knowing-when-to-quit/
 categories:
   - Uncategorised

@@ -1,16 +1,10 @@
 ---
-id: 89
 title: You will never be ready
 date: 2013-07-24T08:53:27+00:00
-author: James Greig
-excerpt: "<p>If you don't start, there's no risk of failure, and no chance of<span>&nbsp;being proved wrong.&nbsp;</span></p>"
 layout: post
-guid: http://greig.cc/2013/07/24/20136you-will-never-be-ready/
 permalink: /you-will-never-be-ready/
 categories:
-  - Life
-  - Popular
-tags:
+  - life
   - popular
 ---
 <p>"I don't know enough about business to start my own company yet" my friend confessed to me over a beer.&nbsp;<span style="line-height: 1.6em;">And then the conversation slid on to something else.</span></p><p>Looking back, I wish I hadn't let him off the hook so easily.</p><p>I should have asked how he intended to learn the skills he thought he needed by proxy.&nbsp;</p><h2>Safety is dangerous</h2><p><span style="line-height: 1.6em;">If you don't start, there's no risk of failure, and no chance of</span><span style="line-height: 1.6em;">&nbsp;being proved wrong. </span></p><p><span style="line-height: 1.6em;">This perceived safety net is your worst enemy right now.</span></p><p>I know because I've been stalling myself.</p><p><span style="line-height: 1.6em;">I've done so much reading about startups that if I had put all of the time into actually starting one, I might have a fledgling business by now.</span></p><p><span style="line-height: 1.6em;">Instead I've become a window shopper in the mall of entrepreneurship.</span></p><p><span style="line-height: 1.6em;">I read <a href="https://twitter.com/joelgascoigne">the tweets</a> and <a href="http://paulgraham.com/articles.html">the articles</a>&nbsp;and <a href="http://www.amazon.co.uk/gp/product/0670921602/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0670921602&amp;linkCode=as2&amp;tag=sneageek-21">the books</a>. But I don't follow through with real action.</span></p><p></p><p>So I am writing this as much for myself as for you.&nbsp;</p><p></p><h2>There will never be a "good" time</h2><p>Distractions and excuses will always be lurking in the periphery of your life.&nbsp;</p><p>And there will always be another article or book you feel like you have to read before you begin.</p><p>But that's the problem.&nbsp;</p><p>Because learning by doing — by pushing beyond your comfort zone, by making mistakes — always trumps learning by reading.&nbsp;</p><p><span style="line-height: 1.6em;">No-one really cares what you are doing, or if you fuck up.&nbsp;</span><span style="line-height: 1.6em;">People are already wrapped up in their own problems, so you shouldn't pay any attention to what they might be thinking. Trust me, they are already returning the compliment.</span></p><h2>Ideas, particularly the ones rattling around your skull, are worthless.&nbsp;</h2><p><span style="line-height: 1.3;"></span></p><p><span style="line-height: 1.6em;"></span><a href="http://www.bakadesuyo.com/2013/07/strokes-of-genius/"><span style="line-height: 1.6em;">Take any step which can propel an idea out from</span><span style="line-height: 1.6em;">&nbsp;your brain and into the world.</span></a><span style="line-height: 1.6em;"></span><br></p><p style="letter-spacing: normal;"><span>Write a draft. Draw a sketch. Record a memo.</span></p><p>You will never feel ready.&nbsp;<span>But don't let that stop you.</span><br></p><p><span>Make a start, <em>today</em>.</span></p>

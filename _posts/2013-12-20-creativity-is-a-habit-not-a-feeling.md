@@ -1,13 +1,10 @@
 ---
-id: 147
 title: Creativity is a habit, not a feeling
 date: 2013-12-20T09:08:16+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/12/20/201311creativity-is-a-habit-not-a-feeling/
 permalink: /creativity-is-a-habit-not-a-feeling/
 categories:
-  - Life
+  - life
 ---
 <img src="/media/creativity-habit-chuck-close.jpg" alt="" width="493" height="600" class="alignnone size-full wp-image-1972" />
 <small>Chuck Close, Self-Portrait, 2004-2005</small>

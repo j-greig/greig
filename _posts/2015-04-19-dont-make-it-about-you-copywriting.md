@@ -1,11 +1,8 @@
 ---
-id: 30
 title: Don’t make it about you (an introduction to copywriting for the web)
 date: 2015-04-19T10:51:32+00:00
-author: James Greig
-excerpt: '<p>Warning: I’m about to bruise your ego.</p><p>It’s going to hurt a little.</p><p>But it’s for the best, I promise.</p><p>Here goes...</p>'
-layout: post
-guid: http://greig.cc/2015/04/19/20154dont-make-it-about-you-copywriting/
+
+excerpt: '<p>Warning: I’m about to bruise your ego.</p><p>It’s going to hurt a little.</p><p>But it’s for the best, I promise.</p><p>Here goes...</p>'layout: post
 permalink: /dont-make-it-about-you-copywriting/
 categories:
   - Writing

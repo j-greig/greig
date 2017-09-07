@@ -1,15 +1,12 @@
 ---
-id: 403
 title: Emails that get designers fired
 date: 2016-04-29T09:51:18+00:00
-author: James Greig
-excerpt: Simple rules to help designers write better emails. And why you should never email in anger.
-layout: post
-guid: http://greig.cc/2016/04/29/20164emails-that-get-designers-fired/
+
+excerpt: Simple rules to help designers write better emails. And why you should never email in anger.layout: post
 permalink: /emails-that-get-designers-fired/
 categories:
-  - Graphic Design
-  - Writing
+  - graphic-design
+  - writing
 ---
 Last week I reminded myself of a simple lesson.
 

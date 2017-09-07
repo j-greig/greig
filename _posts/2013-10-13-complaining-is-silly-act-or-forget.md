@@ -1,13 +1,10 @@
 ---
-id: 52
 title: Complaining is silly. Act or forget.
 date: 2013-10-13T12:15:05+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/10/13/201310complaining-is-silly-act-or-forget/
 permalink: /complaining-is-silly-act-or-forget/
 categories:
-  - Life
+  - life
 ---
 <img src="/media/BikeNeonSign.jpg" alt="" width="1000" height="619" class="alignnone size-full wp-image-1984" />
 

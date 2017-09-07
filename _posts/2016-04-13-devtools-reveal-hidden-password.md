@@ -1,10 +1,7 @@
 ---
-id: 2117
 title: 'DevTools for Designers: Reveal a hidden password'
 date: 2016-04-13T14:21:48+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=2117
 permalink: /devtools-reveal-hidden-password/
 categories:
   - DevTools for Designers

@@ -1,13 +1,10 @@
 ---
-id: 238
 title: 'WordPress theming: tips and tricks for designers'
 date: 2013-09-13T23:10:51+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/09/13/20139wordpress-theming-tips-and-tricks-for-designers/
 permalink: /wordpress-theming-tips-and-tricks-for-designers/
 categories:
-  - Graphic Design
+  - graphic-design
 ---
 <img src="/media/wordpress.png" alt="" width="1000" height="645" class="alignnone size-full wp-image-1990" />
 

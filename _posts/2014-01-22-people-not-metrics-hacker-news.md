@@ -1,10 +1,7 @@
 ---
-id: 290
 title: 'Why the 25,000 views my last article got in 24 hours isn&#8217;t the metric I care about'
 date: 2014-01-22T13:34:27+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/01/22/20141people-not-metrics-hacker-news/
 permalink: /people-not-metrics-hacker-news/
 categories:
   - Writing

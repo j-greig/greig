@@ -1,11 +1,8 @@
 ---
-id: 43
 title: A second-hand bicycle saved my life
 date: 2014-12-01T09:23:34+00:00
-author: James Greig
-excerpt: '<p>What inspired me to start CycleLove? Why and how do we become so attached to our bikes? Does cycling have an image problem? All topics touched on in a short talk I made in 2013.</p>'
-layout: post
-guid: http://greig.cc/2014/12/01/201412a-second-hand-bicycle-saved-my-life/
+
+excerpt: '<p>What inspired me to start CycleLove? Why and how do we become so attached to our bikes? Does cycling have an image problem? All topics touched on in a short talk I made in 2013.</p>'layout: post
 permalink: /a-second-hand-bicycle-saved-my-life/
 categories:
   - CycleLove

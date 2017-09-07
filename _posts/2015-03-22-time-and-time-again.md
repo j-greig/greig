@@ -1,11 +1,8 @@
 ---
-id: 346
 title: 'Time and time again: why it always takes longer than you expect'
 date: 2015-03-22T11:53:04+00:00
-author: James Greig
-excerpt: '<p>Meandering thoughts on the passage of time, and some techniques for beating imposter syndrome.</p>'
-layout: post
-guid: http://greig.cc/2015/03/22/20153time-and-time-again/
+
+excerpt: '<p>Meandering thoughts on the passage of time, and some techniques for beating imposter syndrome.</p>'layout: post
 permalink: /time-and-time-again/
 categories:
   - Life

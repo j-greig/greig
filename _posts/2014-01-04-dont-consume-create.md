@@ -1,10 +1,7 @@
 ---
-id: 146
 title: 'Don&#8217;t consume, create.'
 date: 2014-01-04T13:36:37+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/01/04/20141dont-consume-create/
 permalink: /dont-consume-create/
 categories:
   - Uncategorised

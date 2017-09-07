@@ -1,11 +1,8 @@
 ---
-id: 386
 title: Why You Should Write
 date: 2016-02-14T14:02:09+00:00
-author: James Greig
 excerpt: "Writing is like flossing... even though we know the health benefits, we make excuses not to do it. Here are some tips and tricks to get you started with the writing habit, and some of the benefits you'll experience from getting your thoughts out of your head and into words."
 layout: post
-guid: http://greig.cc/2016/02/14/20162why-you-should-write/
 permalink: /why-you-should-write/
 categories:
 - writing

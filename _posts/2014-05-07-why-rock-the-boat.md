@@ -1,10 +1,7 @@
 ---
-id: 98
 title: Why rock the boat?
 date: 2014-05-07T06:39:43+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2014/05/07/20145why-rock-the-boat/
 permalink: /why-rock-the-boat/
 categories:
   - Uncategorised

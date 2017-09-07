@@ -1,15 +1,12 @@
 ---
-id: 132
 title: You should probably send more email than you do
 date: 2013-01-09T19:32:10+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/01/09/20131you-should-probably-send-more-email-than-you-do/
 permalink: /you-should-probably-send-more-email-than-you-do/
 passthrough_url:
   - You Should Probably Send More Email Than You Do
 categories:
-  - Uncategorised
+  - life
 ---
 Patrick McKenzie on why "<a href="http://www.kalzumeus.com/2012/05/31/can-i-get-your-email/" data-link-type="external">email is the best broadcast channel ever invented for business purposes</a>".
 

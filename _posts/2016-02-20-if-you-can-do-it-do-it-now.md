@@ -1,11 +1,8 @@
 ---
-id: 391
 title: If you can do it, do it now
 date: 2016-02-20T13:39:16+00:00
-author: James Greig
-excerpt: '<p>On the dangers of deferring things until the “right” time.</p>'
-layout: post
-guid: http://greig.cc/2016/02/20/20162if-you-can-do-it-do-it-now/
+
+excerpt: '<p>On the dangers of deferring things until the “right” time.</p>'layout: post
 permalink: /if-you-can-do-it-do-it-now/
 structured_content:
   - '{"oembed":[],"overlay":true}'

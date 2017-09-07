@@ -1,11 +1,8 @@
 ---
-id: 414
 title: 'You aren&#8217;t gonna need it'
 date: 2016-08-14T08:10:07+00:00
-author: James Greig
-excerpt: '<p>Why and how to strip things back to the core.</p>'
-layout: post
-guid: http://greig.cc/20168you-arent-gonna-need-it/
+
+excerpt: '<p>Why and how to strip things back to the core.</p>'layout: post
 permalink: /you-arent-gonna-need-it/
 categories:
   - Life

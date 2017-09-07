@@ -1,23 +1,20 @@
 ---
-id: 72
 title: I keep falling off the edge of conversations
 date: 2013-04-14T08:58:43+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/04/14/falling-off-the-edge-of-conversations/
 permalink: /falling-off-the-edge-of-conversations/
 categories:
-  - Popular
-  - Uncategorised
+  - popular
+  - life
 ---
 <p>The people on my right are having one, as are the people on my left.</p><p>I'm not involved in either.<br></p><p>I fell off the edge of them both a few minutes back and lay there at the bottom of a pit of silence wondering if I could find anything interesting to say.&nbsp;</p><p>Then I scuttled away from the party without saying goodbye.</p><p>And now I'm sitting here at 7.13am the next day writing a fucking blog post about it.</p><p>It's kind of stupid because this was a room full of people I know pretty well. I hadn't seem some of them for a while. I LIKE THESE PEOPLE A LOT. There should have been plenty to talk about.</p><p>In the past, carefully calculated quantities of alcohol have been my crutch. You know... enough to loosen your tongue, but not so much that you wake up the next morning with a blank. I should drink less. I'm toying with the idea of giving up drink completely for a while until I work out this not-talking thing. Maybe I should stop going to parties. Maybe my friends will stop inviting me when they read this.</p><p>What happens when I zone out from conversations?</p><p>Sometimes small details which beg to go&nbsp;unnoticed&nbsp;captivate me instead.</p><p>I will look at the cracks in a wall and wonder how they got there.</p><p>Or count things.</p><p>Yeah, Rain Man shit.</p><p>I count the rivets in the windows of train doors quite a lot. I used to do that on the way to work and could never seem to end up at the same number. But I try not to read too much into that kind of stuff. That would be really problematic.</p><p>Sometimes in my silence I just sit there and stew in jealousy at the people telling funny stories around me.&nbsp;Definitely kind of stupid.</p><p>If you want to slap the "<a href="http://www.amazon.co.uk/gp/product/0670916765/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0670916765&amp;linkCode=as2&amp;tag=cyclelove-21">introvert</a>" label on me, go ahead.</p><p>Case closed.&nbsp;</p><p>How can you spot an&nbsp;extrovert?</p>
-  
+
       <img src="" alt=""/>
-  
+
 
 <p>Extroverts are the kind of people who have never noticed that <a href="http://en.wikipedia.org/wiki/Floater">there are tiny things floating on your eyeballs</a> which look like worms. Yeah, the ones that are really hard to look at because they are always gliding to the periphery of your vision like asteroids in the game Asteroids.</p><p><a href="http://www.davidicke.com/forum/showthread.php?t=86781">If you go on the David Icke forum</a> you'll find people who think these 'floaters' really ARE worms.&nbsp;Which seems to be a fairly tame theory coming from a bunch of people who think the world is controlled by&nbsp;reptilian humanoids.</p><p>Scrub that, I just read the last post on the forum thread, which&nbsp;<a href="http://www.eye-floaters.info/news/news-march2009.htm">relates floaters to altered states of consciousness</a> and the visions of a mystical&nbsp;Benedictine&nbsp;abbess&nbsp;called Hildegard of Bingen. Hmm. I'm guessing the person who came up with that is a little um, introverted. It's an interesting theory though.</p><p></p><p>The scientific theory is that floaters are just tiny imperfections in the gel that fills the space between the lens and the retina of your eyeball.&nbsp;</p><p></p><p>How else can you spot an extrovert?</p><p>Extroverts are the kind of people you walk down the street with and have to point out that they're about to step in dog turd because they are too busy talking to notice.</p><p>That makes it sound like I'm hating on extroverts though. I'm not. Introverts need extroverts to even things out. We should set up a buddy system. We'll help you navigate dog turds and in return you can do the talking for us.</p><p><em></em>I woke up an hour ago and lay in bed squirming about last night. My friends are leaving London and I couldn't even wish them a fond farewell. I felt pathetic about it. Sorry guys. I'm going to miss you.&nbsp;</p><p>But then I took the cardboard boxes off my bedoom window (I haven't got round to buying curtains yet) and smiled because the sun was just easing over the roof of the houses opposite. I closed my eyes for ten minutes and tried to concentrate on my breathing. I'm not going to use the "m" word because it doesn't feel like that yet. I guess that's why they call it practice.&nbsp;</p>
-  
+
       <img src="" alt=""/>
-  
+
 
 <p>What is it about group conversations that freaks me out?</p><p>Maybe I'm just plain embarrassed by my conversational inability and have to leave the scene of the crime.<br></p><p>Like when you trip walking along the pavement and look back accusingly at the offending crack, as if to deflect from the shame of your clumsiness.</p><p>I don't really know.&nbsp;</p><p>Does it happen to you?</p>

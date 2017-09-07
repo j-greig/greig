@@ -2,7 +2,7 @@
 id: 427
 title: 7 Things Book
 date: 2016-05-18T21:21:17+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/7thingsbook/
 ---

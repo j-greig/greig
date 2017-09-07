@@ -1,10 +1,7 @@
 ---
-id: 1281
 title: Dictating, Writing, Hiking.
 date: 2014-11-05T10:03:23+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/dictating-writing-hiking/
 permalink: /dictating-writing-hiking/
 categories:
   - Uncategorised

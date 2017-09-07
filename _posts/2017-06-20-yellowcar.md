@@ -1,13 +1,10 @@
 ---
-id: 2379
 title: The only yellow car in the village.
 date: 2017-06-20T11:52:33+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=2379
 permalink: /yellowcar/
 categories:
-  - Life
+  - life
 ---
 When I was a kid we lived in a patch of quintessentially English countryside known as the Cotswolds.
 

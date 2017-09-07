@@ -1,11 +1,8 @@
 ---
-id: 357
 title: 'Rebooting My Design Practice. Part 1: Positioning, Pricing and Networking'
 date: 2015-06-14T11:33:04+00:00
-author: James Greig
-excerpt: '<p>After 3 years of freelancing, and 12 years in the design business, I took a step back from my work to consider not just what I do, but how and why I do it.</p>'
-layout: post
-guid: http://greig.cc/2015/06/14/20156rebooting-my-design-practice-part-1/
+
+excerpt: '<p>After 3 years of freelancing, and 12 years in the design business, I took a step back from my work to consider not just what I do, but how and why I do it.</p>'layout: post
 permalink: /rebooting-my-design-practice-part-1/
 structured_content:
   - '{"oembed":[],"overlay":true}'

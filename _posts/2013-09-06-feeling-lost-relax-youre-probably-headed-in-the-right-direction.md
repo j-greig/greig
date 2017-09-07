@@ -1,18 +1,11 @@
 ---
-id: 307
 title: 'Feeling lost? Relax. You&#8217;re probably headed in the right direction'
 date: 2013-09-06T16:43:40+00:00
-author: James Greig
-excerpt: |
-  <p><span style="font-size:15px">Following the signposts which had been set in place before you isn't the only way.</span></p>
 layout: post
-guid: http://greig.cc/2013/09/06/20138feeling-lost-relax-youre-probably-headed-in-the-right-direction/
 permalink: /feeling-lost-relax-youre-probably-headed-in-the-right-direction/
 categories:
-  - Uncategorised
-tags:
-  - 30dowxteyk
-  - popular
+  - life
+  - careers
 ---
 <img src="/media/jet-sky.jpg" alt="Feeling lost?" width="1000" height="750" class="alignnone size-full wp-image-1772" />
 

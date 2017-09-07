@@ -1,10 +1,7 @@
 ---
-id: 411
 title: 'On thinking you&#8217;ve missed the train (and restarting CycleLove)'
 date: 2016-07-11T15:41:09+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/20167restarting-cyclelove/
 permalink: /restarting-cyclelove/
 categories:
   - CycleLove
@@ -77,8 +74,7 @@ You can't. So you just have to wait it out.
 
 And remember this: everyone is making it up as they go along, and everyone has days where they feel like a failure, and everyone does things they wish they could undo.
 
-But as Saul Steinberg said:
-
+But as Saul Steinberg sa
 <blockquote>
 "Life is the art of drawing without an eraser"
 </blockquote>

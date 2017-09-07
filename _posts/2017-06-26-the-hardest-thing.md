@@ -1,13 +1,10 @@
 ---
-id: 2386
 title: 'Maybe it&#8217;s the hardest thing'
 date: 2017-06-26T10:40:17+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/?p=2386
 permalink: /the-hardest-thing/
 categories:
-  - Life
+  - life
 ---
 *I almost didn’t publish this article, because so far I’ve completely failed to follow the advice at the end of it. But that’s a pretty good reflection of where my head has been at this week, and maybe it will help someone feel better about where they’re at too. So here goes…*
 

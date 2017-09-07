@@ -2,7 +2,7 @@
 id: 7
 title: About
 date: 2016-05-18T21:20:44+00:00
-author: James Greig
+
 layout: page
 guid: http://greig.cc/about/
 subtitle:

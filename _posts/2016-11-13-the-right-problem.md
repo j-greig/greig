@@ -1,10 +1,7 @@
 ---
-id: 441
 title: Are you solving the right problem?
 date: 2016-11-13T11:25:05+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/201611the-right-problem/
 permalink: /the-right-problem/
 categories:
   - Uncategorised

@@ -1,11 +1,8 @@
 ---
-id: 371
 title: How to untangle a guilty procrastination clusterfuck
 date: 2015-11-01T11:00:20+00:00
-author: James Greig
-excerpt: '<p>Been beating yourself up about not doing something? Here are four things to help you get unstuck.</p>'
-layout: post
-guid: http://greig.cc/2015/11/01/201511clusterfuck/
+
+excerpt: '<p>Been beating yourself up about not doing something? Here are four things to help you get unstuck.</p>'layout: post
 permalink: /clusterfuck/
 categories:
   - Uncategorised

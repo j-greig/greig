@@ -1,10 +1,7 @@
 ---
-id: 1282
 title: How to fire a client
 date: 2014-11-01T10:11:39+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/how-to-fire-a-client/
 permalink: /how-to-fire-a-client/
 categories:
   - Graphic Design

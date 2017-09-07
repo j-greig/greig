@@ -1,13 +1,10 @@
 ---
-id: 56
 title: 'Take your rubber duck debugging up a notch: use it on someone you admire'
 date: 2012-12-29T09:52:16+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2012/12/29/201212take-your-rubber-duck-debugging-up-a-notch/
 permalink: /take-your-rubber-duck-debugging-up-a-notch/
 categories:
-  - Life
+  - life
 ---
 <img src="/media/bigrubberduckie.jpg" alt="" width="1000" height="666" class="alignnone size-full wp-image-2040" />
 

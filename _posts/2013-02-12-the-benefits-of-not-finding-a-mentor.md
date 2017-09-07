@@ -1,13 +1,10 @@
 ---
-id: 35
 title: 'The benefits of (not) finding a mentor&#8230;'
 date: 2013-02-12T19:00:27+00:00
-author: James Greig
 layout: post
-guid: http://greig.cc/2013/02/12/20132the-benefits-of-not-finding-a-mentor/
 permalink: /the-benefits-of-not-finding-a-mentor/
 categories:
-  - Uncategorised
+  - life, careers
 ---
 <p>Reading <a href="http://www.toiletpaperentrepreneur.com/the-right-actions/44-ways-how-to-find-a-mentor/">this insanely long article on how to find a mentor</a>, I felt bamboozled by the variety of possible ways to reach out to people.</p><p></p><p>So instead, I decided to email the expert team of bloggers at&nbsp;<a href="http://fizzle.co/">Fizzle</a>&nbsp;(<a href="http://www.pocketchanged.com/">Caleb Wojcik</a>,&nbsp;<a href="http://thinktraffic.net/">Corbett Barr</a>&nbsp;and&nbsp;<a href="http://icetothebrim.com/">Chase Reeves</a>) for their thoughts on finding "the one".</p><p>Here's what they came back with:</p><figure>
   <blockquote>
