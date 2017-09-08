@@ -48,7 +48,7 @@ Let’s pause for a moment to consider what ‘epic’ means. I like this take o
 
 Here’s an example from my archives that demonstrates this nicely.
 
-<a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">I Never Finish Anyth—</a> is only 600 words long, but also hit the top of Hacker News, accumulating 26,000 page views in 24 hours. It also benefitted from a catch title, and careful timing (I wrote it in late January, just as the euphoric high of New Year's resolutions starts to wear off...)
+<a href="http://greig.cc/i-never-finish-anyth">I Never Finish Anyth—</a> is only 600 words long, but also hit the top of Hacker News, accumulating 26,000 page views in 24 hours. It also benefitted from a catch title, and careful timing (I wrote it in late January, just as the euphoric high of New Year's resolutions starts to wear off...)
 
 <em>WARNING: in the pursuit of a bigger audience, don’t get caught up in vanity metrics, like registered users, downloads, and raw pageviews. It’s engagement that matters most…</em>
 
@@ -62,7 +62,7 @@ Instead of wasting time on SEO, think about your audience, and the problems they
 
 Now go write something to help those specific people.
 
-Use a story from your own life, or from someone else’s. Be vulnerable. Talk about your emotions, not just your actions. <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">Write something that you’re a little bit scared to hit 'Publish' on</a>.
+Use a story from your own life, or from someone else’s. Be vulnerable. Talk about your emotions, not just your actions. <a href="http://greig.cc/the-unspoken-d-word-depression">Write something that you’re a little bit scared to hit 'Publish' on</a>.
 
 <h2>Give your story a shape</h2>
 

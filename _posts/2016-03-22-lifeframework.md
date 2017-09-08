@@ -37,7 +37,7 @@ When it's used right, design <em>can</em> make the world a better place.
 
 It's just that a lot of the time the improvements that designers go unnoticed by the general public. “Good design is invisible” etc.
 
-Which might help explain why after a long stint in the industry, design wasn’t making me feel good anymore. In fact, <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">it contributed to me feeling truly terrible for a while</a>.
+Which might help explain why after a long stint in the industry, design wasn’t making me feel good anymore. In fact, <a href="http://greig.cc/the-unspoken-d-word-depression">it contributed to me feeling truly terrible for a while</a>.
 
 There were a lot of factors contributing to my burnout/depression, and not all of them were job-related.
 
@@ -106,7 +106,7 @@ Useful is also good because people pay money for useful things.
 
 Building stuff that people (a) want (b) will pay money for is an excellent way to start a business.
 
-So go ahead. You can pursue purpose AND profit at the same time without feeling like a slimy salesperson. (I’m still working on this, I must admit.) <a href="http://greig.cc/journal/2015/2/excuses-excuses">Imposter syndrome is almost a given for any sane person — but you don’t have to be crippled by it</a>.
+So go ahead. You can pursue purpose AND profit at the same time without feeling like a slimy salesperson. (I’m still working on this, I must admit.) <a href="http://greig.cc/excuses-excuses">Imposter syndrome is almost a given for any sane person — but you don’t have to be crippled by it</a>.
 <h2 id="further-reading-on-figuring-out-your-career-path">Further reading on figuring out your career path</h2>
 Career advice requires deep thought and much scratching of heads and/or facial hair, and I'm not claiming to be an expert.
 
@@ -122,4 +122,4 @@ And one of the biggest stumbling blocks of all:
 
 If you’re feeling stuck with your career/purpose, <a href="http://greig.us6.list-manage.com/track/click?u=906a49eea090b21690d7c7375&amp;id=88eb3e02d8&amp;e=8a0e1b025d">I’d urge you to read Cal Newport’s “So Good They Can’t Ignore You”</a>, which does an incredible job of debunking the "follow your passion" myth.
 
-And if you feel trapped by your (design) job, <a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">read this article I wrote about defining your why</a>.
+And if you feel trapped by your (design) job, <a href="http://greig.cc/hate-being-a-graphic-designer">read this article I wrote about defining your why</a>.

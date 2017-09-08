@@ -29,7 +29,7 @@ categories:
 
 <p><a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&amp;text=Don%E2%80%99t%20wait%20until%20you%20have%20a%20%E2%80%9CFuck%20this!%E2%80%9D%20moment%2C%20because%20the%20worst%20way%20to%20go%20freelance%20is%20in%20haste.&amp;tw_p=tweetbutton&amp;url=http%3A%2F%2Fgreig.cc%2Fjournal%2F2015%2F3%2Fbefore-you-go-freelance"><sup data-preserve-html-node="true">⬆ Click to tweet this</sup></a></p>
 
-<p>I’d been working so long without pausing for air that my body didn’t give me a choice. I physically <em>had</em> to stop work, and it took many painful months to recover <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">from my depression</a>.</p>
+<p>I’d been working so long without pausing for air that my body didn’t give me a choice. I physically <em>had</em> to stop work, and it took many painful months to recover <a href="http://greig.cc/the-unspoken-d-word-depression">from my depression</a>.</p>
 
 <p>At first I blamed the design profession for what happened, but now I realise the problem was within me all along.</p>
 

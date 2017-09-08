@@ -30,11 +30,11 @@ categories:
 
 <h2 id="3itsoktofeellost">3. It’s ok to feel lost.</h2>
 
-<p>In fact it’s quite normal if you’re forging your own path. <a href="http://greig.cc/journal/2013/8/feeling-lost-relax-youre-probably-headed-in-the-right-direction">Read more</a></p>
+<p>In fact it’s quite normal if you’re forging your own path. <a href="http://greig.cc/feeling-lost-relax-youre-probably-headed-in-the-right-direction">Read more</a></p>
 
 <h2 id="4youwillneverbeready">4. You will never be ready.</h2>
 
-<p>And there will never be a ‘right’ time to start. Take a leap of faith. <a href="http://greig.cc/journal/2013/6/you-will-never-be-ready">Read more</a></p>
+<p>And there will never be a ‘right’ time to start. Take a leap of faith. <a href="http://greig.cc/you-will-never-be-ready">Read more</a></p>
 
 <h2 id="5tobemagneticyoumustbewillingtorepelasmanypeopleasyouattract">5. To be magnetic, you must be willing to repel as many people as you attract.</h2>
 
@@ -42,7 +42,7 @@ categories:
 
 <h2 id="6sometimesyouhavetosayfuckitanddosomethingforyourselfnomatterwhateveryoneelsethinks">6. Sometimes you have to say ‘fuck it’ and do something for yourself, no matter what everyone else thinks.</h2>
 
-<p>If in doubt, trust your gut. You don't need permission. <a href="http://greig.cc/journal/2015/4/on-giving-yourself-permission">Read more</a></p>
+<p>If in doubt, trust your gut. You don't need permission. <a href="http://greig.cc/on-giving-yourself-permission">Read more</a></p>
 
 <h2 id="7dontmakeitperfectjustmakeitnow">7. Don’t make it perfect, just make it, now!</h2>
 

@@ -17,7 +17,7 @@ categories:
 <p>Eventually I had more friends living in London than I had left in Scotland, and couldn't go through the motions at work any more. It was time to make my move.
 Here's the thing: deep down, I knew I was ready to make changes a lot earlier than I actually did.</p>
 
-<p>But I was scared to quit Glasgow, <a href="http://greig.cc/journal/2013/4/im-a-chicken">and not bold enough to jump ship for Berlin</a>, the other option I'd been eying up. I'd bought a flat, put down roots, acclimatised myself to the endless days of rain that roll over the city from the Atlantic.</p>
+<p>But I was scared to quit Glasgow, <a href="http://greig.cc/im-a-chicken">and not bold enough to jump ship for Berlin</a>, the other option I'd been eying up. I'd bought a flat, put down roots, acclimatised myself to the endless days of rain that roll over the city from the Atlantic.</p>
 
 <blockquote>
   <p>I have looked in the mirror every morning and asked myself "If today were the last day of my life, would I want to do want I'm about to do today?" And whenever the answer has been "No" for too many days in a row, I know I need to change something
@@ -30,7 +30,7 @@ Here's the thing: deep down, I knew I was ready to make changes a lot earlier th
 
 <p><strong>1) You hate Mondays</strong></p>
 
-<p>Does the start of the week gives you "back to school" vibes? Try to be honest with yourself, like Steve was. What do you really want to do with your life? (One thing to remember though: <a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">your job is not a trap</a>)</p>
+<p>Does the start of the week gives you "back to school" vibes? Try to be honest with yourself, like Steve was. What do you really want to do with your life? (One thing to remember though: <a href="http://greig.cc/hate-being-a-graphic-designer">your job is not a trap</a>)</p>
 
 <p><strong>2) You're living someone else's life</strong></p>
 

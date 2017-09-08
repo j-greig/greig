@@ -15,11 +15,11 @@ subtitle:
 <div class="sqs-block-content">
 <h2>Writing resources</h2>
 <ul>
- 	<li><a href="http://greig.cc/journal/2014/10/writing-1000-words-daily-accountability-hack">The accountability hacks I used to blog 30,000 words in 30 days, and what it taught me about writing</a></li>
- 	<li><a href="http://greig.cc/journal/2013/8/10-kinds-of-writing">10 kinds of writing to experiment with on a daily basis</a></li>
- 	<li><a href="http://greig.cc/journal/2014/10/fewer-shorter-better-emails">Fewer, better, shorter emails</a></li>
- 	<li><a href="http://greig.cc/journal/2015/4/dont-make-it-about-you-copywriting">Don’t make it about you (an introduction to copywriting for the web)</a></li>
- 	<li><a href="http://greig.cc/journal/2013/9/if-you-want-to-be-a-writer-writing-is-not-a-choice">If you want to be a writer, writing is not a choice</a></li>
+ 	<li><a href="http://greig.cc/writing-1000-words-daily-accountability-hack">The accountability hacks I used to blog 30,000 words in 30 days, and what it taught me about writing</a></li>
+ 	<li><a href="http://greig.cc/10-kinds-of-writing">10 kinds of writing to experiment with on a daily basis</a></li>
+ 	<li><a href="http://greig.cc/fewer-shorter-better-emails">Fewer, better, shorter emails</a></li>
+ 	<li><a href="http://greig.cc/dont-make-it-about-you-copywriting">Don’t make it about you (an introduction to copywriting for the web)</a></li>
+ 	<li><a href="http://greig.cc/if-you-want-to-be-a-writer-writing-is-not-a-choice">If you want to be a writer, writing is not a choice</a></li>
 </ul>
 </div>
 </div>

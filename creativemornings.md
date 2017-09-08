@@ -26,7 +26,7 @@ If you're at a crossroads in your creative career, and wish you knew which path 
 - [A freelance graphic designer’s survival guide](http://greig.cc/a-freelance-graphic-designers-survival-guide/)
 - [Your job is an escape route, not a trap.](http://greig.cc/hate-being-a-graphic-designer/)
 - [I never finish anyth-](http://greig.cc/i-never-finish-anyth/)
-- [Don’t make it about you (an intro to copywriting for the web)](http://greig.cc/journal/2015/4/dont-make-it-about-you-copywriting)
+- [Don’t make it about you (an intro to copywriting for the web)](http://greig.cc/dont-make-it-about-you-copywriting)
 
 ----
 

@@ -139,9 +139,9 @@ Earlier in this article I suggested thinking about the advice you'd give yoursel
 
 Guess what... writing this imaginary letter to your younger self is also a great way to introduce your email course.
 
-In my case, this meant writing a blog post called <a href="http://greig.cc/journal/2015/3/before-you-go-freelance">What I Wish I'd Known 3 Years Ago About Becoming a Graphic Designer</a>, which I could then share on places like Designer News and Hey Designer.
+In my case, this meant writing a blog post called <a href="http://greig.cc/before-you-go-freelance">What I Wish I'd Known 3 Years Ago About Becoming a Graphic Designer</a>, which I could then share on places like Designer News and Hey Designer.
 
-Another obvious option for promoting your course is turning one of your lessons into a blog post. In my case this resulted in <a href="http://greig.cc/journal/2015/3/freelancing-the-biggest-mistake">The Biggest Mistake A Freelancer Can Make</a>.(Hint: it’s related to money).
+Another obvious option for promoting your course is turning one of your lessons into a blog post. In my case this resulted in <a href="http://greig.cc/freelancing-the-biggest-mistake">The Biggest Mistake A Freelancer Can Make</a>.(Hint: it’s related to money).
 
 Usually, I’m against obsessing over metrics, but it’s worth comparing how these two articles performed. <em>What I Wish I’d Known 3 Years Ago</em> has been viewed 5,428 times in 18 months, making it one of my top five most popular articles in that period.
 
@@ -192,7 +192,7 @@ Meanwhile <em>The Freelancer’s Field Manual</em> received almost $1,000 in pre
 
 Another problem with the book is that I chose such a huge topic, hence my current focus <a href="http://greig.cc/sanity">on a much smaller topic, and for a single audience (of people like me)</a> rather than ALL THE FREELANCERS.
 
-<strong>Solution: don’t tell people about things until you’ve finished them.</strong> Accountability can be a powerful tool if used correctly, but a “tell people about nascent projects to motivate yourself” approach has repeatedly tripped me up in the past. (If I was harsh I’d say that I was a chronic non-finisher, but I know <a href="http://greig.cc/journal/2016/9/how-to-take-it-easy-on-yourself">the importance of taking it easy on yourself</a>, so I’m just flagging this as something I intend to get better at).
+<strong>Solution: don’t tell people about things until you’ve finished them.</strong> Accountability can be a powerful tool if used correctly, but a “tell people about nascent projects to motivate yourself” approach has repeatedly tripped me up in the past. (If I was harsh I’d say that I was a chronic non-finisher, but I know <a href="http://greig.cc/how-to-take-it-easy-on-yourself">the importance of taking it easy on yourself</a>, so I’m just flagging this as something I intend to get better at).
 
 <h2 id="recap-what-to-consider-before-building-your-first-email-course">Recap: what to consider before building your first email course</h2>
 
@@ -202,7 +202,7 @@ I'm a huge fan of the "Learn/Teach/Repeat" maxim — and email courses are one o
 
 But email courses do require a large commitment  in terms of energy and time, so there are a few things to be sure of before diving in…
 
-<strong>Choose a topic that gives people a superpower.</strong> This superpower becomes the hook that attracts people to your course. (Because <a href="http://greig.cc/journal/2015/4/dont-make-it-about-you-copywriting">people don't buy products; they buy a better version of themselves</a>).
+<strong>Choose a topic that gives people a superpower.</strong> This superpower becomes the hook that attracts people to your course. (Because <a href="http://greig.cc/dont-make-it-about-you-copywriting">people don't buy products; they buy a better version of themselves</a>).
 
 <strong>Don’t waste time choosing an audience</strong> For your first course, your audience should simply be “people like you” — in a professional sense at least :)
 

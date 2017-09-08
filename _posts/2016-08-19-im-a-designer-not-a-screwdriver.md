@@ -32,7 +32,7 @@ tags:
 <hr>
 <p>Related reading:</p>
 <ul>
-<li><a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">Hate being a graphic designer? Don’t. Your job is an escape route, not a trap.</a></li>
-<li><a href="http://greig.cc/journal/2016/3/lifeframework">A rough framework for figuring out what the hell to do with you life</a></li>
-<li><a href="http://greig.cc/journal/2016/3/lifeframework">These are the thigns you can always control, no matter how tough life gets</a></li>
+<li><a href="http://greig.cc/hate-being-a-graphic-designer">Hate being a graphic designer? Don’t. Your job is an escape route, not a trap.</a></li>
+<li><a href="http://greig.cc/lifeframework">A rough framework for figuring out what the hell to do with you life</a></li>
+<li><a href="http://greig.cc/lifeframework">These are the thigns you can always control, no matter how tough life gets</a></li>
 </ul>

@@ -43,7 +43,7 @@ The worst they can say is no. But they probably won’t, because you’re the be
 **Go freelance**  
 Being a freelance graphic designer can be great. You’ll get to choose when and where you work, and enjoy more flexible hours and higher pay.
 
-[Read my freelance graphic designer’s survival guide](http://greig.cc/journal/2013/9/a-freelance-graphic-designers-survival-guide), which pulls together everything I learnt during my first year freelancing in London. Yes, there were a couple of times when I wasn’t sure how I was going to pay my rent, but I was never homeless, and I never went to sleep with an empty stomach.
+[Read my freelance graphic designer’s survival guide](http://greig.cc/a-freelance-graphic-designers-survival-guide), which pulls together everything I learnt during my first year freelancing in London. Yes, there were a couple of times when I wasn’t sure how I was going to pay my rent, but I was never homeless, and I never went to sleep with an empty stomach.
 
 It will feel like a roller-coaster to begin with, but once you’ve learnt how to enjoy the ride, you won’t ever want a full-time job again.
 

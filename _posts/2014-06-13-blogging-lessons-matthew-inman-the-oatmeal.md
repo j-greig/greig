@@ -29,7 +29,7 @@ So in the meantime, I've <a href="http://archive.today/1LFkm">scoured</a> <a hre
 
 “I will come up with an idea that I want to write about, say unicorns or ctl+z, and then, I’ll think about it, and think about it. Now, when I sit down and think about it, I usually don’t come up with anything I can use, but if I go running or while I’m in the shower or something all the pieces just click together.”
 
-Why does this work? Probably because <a href="http://greig.cc/journal/2013/7/the-power-of-not-thinking">your brain works best when it's relaxed</a>.
+Why does this work? Probably because <a href="http://greig.cc/the-power-of-not-thinking">your brain works best when it's relaxed</a>.
 
 <h2>2. Don't sell out</h2>
 

@@ -20,7 +20,7 @@ It turns out the beeping was quite loud, even from my bedroom upstairs.
 
 So I didn't get much sleep last night.
 
-And&nbsp;<a href="http://greig.cc/journal/2013/8/30-days-of-writing-x-teach-everything-you-know">I really don't feel like writing a thousand words today</a>.
+And&nbsp;<a href="http://greig.cc/30-days-of-writing-x-teach-everything-you-know">I really don't feel like writing a thousand words today</a>.
 
 But I'm going to write for twenty minutes and see what comes out.
 
@@ -56,7 +56,7 @@ I keep some cheap headphones and an old iPod by my bed for just such emergencies
 
 Then my mind switches back to the bullshit du jour.&nbsp;
 
-<a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">How am I going to stop being a graphic designer?</a>
+<a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">How am I going to stop being a graphic designer?</a>
 
 Do I even want to stop?&nbsp;
 
@@ -126,7 +126,7 @@ I don't want to be afraid of expressing myself any more.
 
 I don't want to be Mr. Chicken.&nbsp;
 
-I've played my life safe. <a href="http://greig.cc/journal/2013/4/im-a-chicken">Taken less&nbsp;<span style="line-height: 1.6em;">c</span><span style="line-height: 1.6em;">hances than I could have done</span></a><span style="line-height: 1.6em;">. Cha</span><span style="line-height: 1.6em;">sed only a couple of my dreams. &nbsp;</span>
+I've played my life safe. <a href="http://greig.cc/im-a-chicken">Taken less&nbsp;<span style="line-height: 1.6em;">c</span><span style="line-height: 1.6em;">hances than I could have done</span></a><span style="line-height: 1.6em;">. Cha</span><span style="line-height: 1.6em;">sed only a couple of my dreams. &nbsp;</span>
 
 I've laid in bed at the dead of night, headphones on, eyes wide open, thinking about could-have-beens for too long.
 
@@ -138,4 +138,4 @@ But at least I have a start now.
 
 <hr />
 
-Day 5 of of <a href="http://greig.cc/journal/2013/8/30-days-of-writing-x-teach-everything-you-know" style="line-height: 1.6em;">30 days of writing x Teach everything you know.</a><br><span style="line-height: 1.6em;">Words written: 1042<br></span><span style="line-height: 1.6em;">Time taken: 1.5 hours</span>
+Day 5 of of <a href="http://greig.cc/30-days-of-writing-x-teach-everything-you-know" style="line-height: 1.6em;">30 days of writing x Teach everything you know.</a><br><span style="line-height: 1.6em;">Words written: 1042<br></span><span style="line-height: 1.6em;">Time taken: 1.5 hours</span>

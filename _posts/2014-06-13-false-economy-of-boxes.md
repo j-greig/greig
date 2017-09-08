@@ -34,7 +34,7 @@ When I sit with food beside me at my computer and try to multi-task, I actually 
 
 Everything is to hand.
 
-Life <a href="http://greig.cc/journal/2013/6/you-will-never-be-ready">feels safer</a>, more convenient, more predictable.
+Life <a href="http://greig.cc/you-will-never-be-ready">feels safer</a>, more convenient, more predictable.
 
 But by staying inside your box you're not really saving time or energy.
 

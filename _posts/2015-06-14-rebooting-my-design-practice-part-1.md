@@ -12,7 +12,7 @@ categories:
 ---
 <p>Over the past few months, I've taken a step back from writing to spend time thinking about how I operate as a graphic designer. Not just what I do in my day-to-day working life, but how and why I do it in the first place.</p>
 
-<p>If you’ve been reading this journal for any length of time, you’ll know that it is already a record of my personal feelings about graphic design as a profession. From naively and angrily <a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">wanting to quit completely</a>, to more realistically <a href="http://greig.cc/journal/2013/8/how-to-stop-being-a-graphic-designer-redux">seeking a career evolution</a>, to being grateful for having <a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">a full-time job which I can use as  stepping stone to self-employment and entrepreneurship</a>.</p>
+<p>If you’ve been reading this journal for any length of time, you’ll know that it is already a record of my personal feelings about graphic design as a profession. From naively and angrily <a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">wanting to quit completely</a>, to more realistically <a href="http://greig.cc/how-to-stop-being-a-graphic-designer-redux">seeking a career evolution</a>, to being grateful for having <a href="http://greig.cc/hate-being-a-graphic-designer">a full-time job which I can use as  stepping stone to self-employment and entrepreneurship</a>.</p>
 
 <p>Along the way, I’ve unintentionally become a kind of agony aunt for graphic designers feeling lost or confused by their careers. I never expected that my ramblings about design would be helpful to other people, but my web stats and email inbox tells me otherwise, and I’m still quite humbled by this fact. </p>
 
@@ -90,7 +90,7 @@ categories:
 
 <img src="/media/freelance-earnings.png" alt="" width="697" height="327" class="alignnone size-full wp-image-1859" />
 
-<p>In my first year of freelancing, I wasn’t working flat out, and necessarily so, because I was wrestling with the dark slippery pig that is <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">depression</a>. I also took two months off to go travelling. So my earnings in 2012-13 were tiny. It was only in my second year of freelancing that I hit my stride, and in my third year that I came close to matching my old salary.</p>
+<p>In my first year of freelancing, I wasn’t working flat out, and necessarily so, because I was wrestling with the dark slippery pig that is <a href="http://greig.cc/the-unspoken-d-word-depression">depression</a>. I also took two months off to go travelling. So my earnings in 2012-13 were tiny. It was only in my second year of freelancing that I hit my stride, and in my third year that I came close to matching my old salary.</p>
 
 <p>But I’m ok with all of this, because my goal with self-employment was not to earn more money, but to have more freedom. </p>
 

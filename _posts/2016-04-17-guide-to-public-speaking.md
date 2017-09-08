@@ -38,7 +38,7 @@ categories:
 <p>Instead of telling yourself that you’re afraid, tell yourself that you’re excited. </p>
 <p>After all, giving a talk is a privilege, and not everyone gets the opportunity.</p>
 <p>(This tip came from <a href="http://scottberkun.com/">Scott Berkun</a>, who has a great book on public speaking which I’ve read a couple of times now).</p>
-<p><a href="http://greig.cc/journal/2016/4/fear-fuelled-not-fearless">The fear won’t ever go away, but you can train yourself to use it</a>. </p>
+<p><a href="http://greig.cc/fear-fuelled-not-fearless">The fear won’t ever go away, but you can train yourself to use it</a>. </p>
 <p>I know there’s probably a bunch of other things you’re worried about:</p>
 <p>You might be afraid that you won’t be interesting…</p>
 <p>You might be afraid that you won’t be able to remember your talk…</p>
@@ -53,17 +53,17 @@ categories:
 <p>The simplest thing to do is talk on a subject that you’re expert about.</p>
 <p>By “expert” I don’t necessarily mean in the literal sense of the word. It doesn’t have to be something that you’ve done for decades or have formal qualifications in.</p>
 <p>But it is easier to talk about things you have personal experience of. Just knowing that you’re the most qualified person to talk on a subject <em>will</em> give you confidence. </p>
-<p><a href="http://greig.cc/journal/2014/12/a-second-hand-bicycle-saved-my-life">When I gave my talk about CycleLove</a>, the story was mostly about myself. I knew there wasn’t anyone more expert on the subject than me. The audience was going to be graphic designers though, so I made sure that the story spoke to their worldview… hence the section about the design process near the start, and the slides of CycleLove logos and posters later on).</p>
+<p><a href="http://greig.cc/a-second-hand-bicycle-saved-my-life">When I gave my talk about CycleLove</a>, the story was mostly about myself. I knew there wasn’t anyone more expert on the subject than me. The audience was going to be graphic designers though, so I made sure that the story spoke to their worldview… hence the section about the design process near the start, and the slides of CycleLove logos and posters later on).</p>
 <h2 id="writing-your-talk">Writing your talk</h2>
 <p>Choose a broad topic. Then think about an angle on it.</p>
 <p>The stronger your opinion, or the more remarkable it is, the better. </p>
 <p>Grab a piece of paper, and write down everything that comes to mind. Get it all down, without stopping to worry if it’s any good.</p>
-<p>(The title of my design/cycling talk was “<a href="http://greig.cc/journal/2014/12/a-second-hand-bicycle-saved-my-life">A second-hand bicycle saved my life</a>” which I hoped was intriguing. It also got a laugh from the audience when I pondered what could be so wrong with my life that I needed a bike to fix it).</p>
+<p>(The title of my design/cycling talk was “<a href="http://greig.cc/a-second-hand-bicycle-saved-my-life">A second-hand bicycle saved my life</a>” which I hoped was intriguing. It also got a laugh from the audience when I pondered what could be so wrong with my life that I needed a bike to fix it).</p>
 <p>The next day, review your list. Highlight anything that jumps out of you. Can you form it into a narrative?</p>
 <p>Start with an outline. By outline, I mean a bullet point list of 5 to 10 items. Make sure that each point is compressed into a tight argument, and keep shuffling them around until the order makes sense.</p>
 <p>Remember that you can’t cover everything. Boil things down to the essentials: you want the meat, not the potatoes. </p>
 <p>Another great way to brainstorm is using index cards. Write down all of your possible points on separate cards, then try to arrange them in an order which makes sense. Put any cards that don’t fit to one side — you can always work them back in later.</p>
-<p>Here’s my “<a href="http://greig.cc/journal/2016/2/why-you-should-write">Why You Should Write</a>” talk in nascent form on index cards:</p>
+<p>Here’s my “<a href="http://greig.cc/why-you-should-write">Why You Should Write</a>” talk in nascent form on index cards:</p>
 
   
       <img src="" alt=""/>
@@ -112,7 +112,7 @@ categories:
 <h2 id="the-best-way-to-be-interesting">The best way to be interesting</h2>
 <p>If you’re not sure what to talk about, think about your personal story.</p>
 <p>What really scares you? What drives you forward? What were the big moments in your life?</p>
-<p><a href="http://greig.cc/journal/your-mind-is-a-jail-built-out-of-bullshit">Be honest.</a> Open up and tell people about something that made you feel something. Be courageous. Don’t just tell stories about things that went right for you, talk about things that went wrong as well.</p>
+<p><a href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit">Be honest.</a> Open up and tell people about something that made you feel something. Be courageous. Don’t just tell stories about things that went right for you, talk about things that went wrong as well.</p>
 <p>Authenticity is rare, which makes it interesting. </p>
 <h2 id="props-equipment-extras">Props, equipment, extras</h2>
 <p><strong>Technology</strong><br>Stuff breaks. So don’t be dependent on your slides. They should enhance your talk, not be crutches for it.</p>

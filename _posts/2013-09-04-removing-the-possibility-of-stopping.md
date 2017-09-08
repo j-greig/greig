@@ -34,7 +34,7 @@ And he wasn't the only one to write naked, <a href="http://www.lovelyish.com/201
 
 I love the thought of sitting down to write and being unable to stop, of having just the rhythmic click and clacking of the keyboard for company as the words appear on my screen.
 
-In the past I would have thought this impossible. "I can't write". Which is what a lot of people have told me about themselves when I explain my<span>&nbsp;</span><a href="http://greig.cc/journal/2013/8/30-days-of-writing-x-teach-everything-you-know">30 days of writing</a><span>&nbsp;</span><span>experiment to them.&nbsp;</span>
+In the past I would have thought this impossible. "I can't write". Which is what a lot of people have told me about themselves when I explain my<span>&nbsp;</span><a href="http://greig.cc/30-days-of-writing-x-teach-everything-you-know">30 days of writing</a><span>&nbsp;</span><span>experiment to them.&nbsp;</span>
 
 I think anyone can write, just like anyone can dance, or sing, or draw or paint. It just so happens that for the first few thousands hours you won't be very good at it. And many people aren't willing to push past this initial stage (at least not once they reach adulthood). &nbsp;
 

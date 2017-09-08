@@ -12,7 +12,7 @@ categories:
 
 <p><strong>Sometimes you have to say ‘fuck it’, and do something just for yourself, no matter what everyone else thinks.</strong></p>
 
-<p>When I wrote ‘<a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a>’ back in 2012, that was the kind of mood I was in.</p>
+<p>When I wrote ‘<a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a>’ back in 2012, that was the kind of mood I was in.</p>
 
 <p>After blogging—quite politely—on CycleLove for a number of months, I suddenly felt the urge to vent steam about my profession.</p>
 
@@ -52,7 +52,7 @@ categories:
 
 <h1 id="beingwrongisonlythefirststep">Being wrong is only the first step</h1>
 
-<p>Looking back, what I wrote about quitting design was quite naive, and I’ve already posted a ‘<a href="http://greig.cc/journal/2013/8/how-to-stop-being-a-graphic-designer-redux">redux</a>’ article in which I elaborated on my thoughts, and another about <a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">your full-time job being an escape route</a>, not a trap.</p>
+<p>Looking back, what I wrote about quitting design was quite naive, and I’ve already posted a ‘<a href="http://greig.cc/how-to-stop-being-a-graphic-designer-redux">redux</a>’ article in which I elaborated on my thoughts, and another about <a href="http://greig.cc/hate-being-a-graphic-designer">your full-time job being an escape route</a>, not a trap.</p>
 
 <p>But I’m glad that I gave myself permission to write that first angry blog post. It opened up doors for me, helped me connect with a whole new audience.</p>
 
@@ -89,15 +89,15 @@ categories:
 
 <ul>
 <li>Change your mind </li>
-<li><a href="http://greig.cc/journal/2015/1/weird-and-twisted-and-drowning">Get it wrong </a></li>
+<li><a href="http://greig.cc/weird-and-twisted-and-drowning">Get it wrong </a></li>
 <li>Give a fuck </li>
 <li><a href="http://markmanson.net/not-giving-a-fuck">Not give a fuck</a> </li>
 <li>Get lost </li>
-<li><a href="http://greig.cc/journal/2013/8/feeling-lost-relax-youre-probably-headed-in-the-right-direction">Feel lost</a> </li>
+<li><a href="http://greig.cc/feeling-lost-relax-youre-probably-headed-in-the-right-direction">Feel lost</a> </li>
 <li>Be lazy </li>
-<li><a href="http://greig.cc/journal/your-mind-is-a-jail-built-out-of-bullshit">Be honest</a> </li>
+<li><a href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit">Be honest</a> </li>
 <li>Be yourself</li>
-<li><a href="http://greig.cc/journal/2013/8/how-to-stop-being-a-graphic-designer-redux">Completely ignore all of the above</a></li>
+<li><a href="http://greig.cc/how-to-stop-being-a-graphic-designer-redux">Completely ignore all of the above</a></li>
 </ul>
 
 <p>Because the only mistake you can make is not starting.</p>

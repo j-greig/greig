@@ -16,7 +16,7 @@ Everyone else has them too.
 
 It's just that very few of us are willing to talk about it.
 
-Lots of things run through my head that I don't share with other people. At least not in everyday conversation. When I was a kid I thought <a href="http://greig.cc/journal/2013/9/i-thought-i-was-an-alien">I might be an alien for a while</a>. My brain seems to get hung up in repetitive loops about mundane stuff, like whether all my washing will fit onto the drying rack, or how many rivets the train window is held in by.
+Lots of things run through my head that I don't share with other people. At least not in everyday conversation. When I was a kid I thought <a href="http://greig.cc/i-thought-i-was-an-alien">I might be an alien for a while</a>. My brain seems to get hung up in repetitive loops about mundane stuff, like whether all my washing will fit onto the drying rack, or how many rivets the train window is held in by.
 
 Someone on Quora asked an eye-opening question about this, directed at a group of people who are better equipped than most to answer: <a href="http://www.quora.com/What-secret-sides-to-human-nature-do-therapists-see-that-non-therapists-would-be-surprised-by">"What secret sides to human nature do therapists see that non-therapists would be surprised by?"</a>. The most up-voted response went as follows:
 
@@ -37,7 +37,7 @@ We can leave out the ugly bits, the things that go wrong, and anything else we t
   <em>— Parker Palmer, <a href="http://www.amazon.co.uk/exec/obidos/ASIN/0470453761/braipick0d-21?tag=greig-21">A Hidden Wholeness</a></em>
 </blockquote>
 
-Attempting to hide our real identities feels safer, but does it make us more attractive in the long run? During my <a href="http://greig.cc/journal/2014/10/writing-1000-words-daily-accountability-hack">30 day writing experiment</a> I posted something anonymously on Reddit about the idea of reverse dating: starting with a confession of your worst habits and character traits, then working backwards from there to a point where the other person could be attracted to you.
+Attempting to hide our real identities feels safer, but does it make us more attractive in the long run? During my <a href="http://greig.cc/writing-1000-words-daily-accountability-hack">30 day writing experiment</a> I posted something anonymously on Reddit about the idea of reverse dating: starting with a confession of your worst habits and character traits, then working backwards from there to a point where the other person could be attracted to you.
 
 Unfortunately the pseudonym I used was so obscure that I can't remember where I posted the article, else I'd include a link here. There was definitely something about a girl I briefly dated who had a phobia of towels... and something about people who pick their nose when they think you're not looking.
 

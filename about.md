@@ -36,9 +36,9 @@ You're in the right place.
 {% include newsletter-signup.html %}
 
 ## My story
-A few years ago <a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">I had a personal meltdown and quit my job</a>, and then spent two months travelling across the USA by train. I was working so hard I didn't have energy for side projects of my own, and the work I was doing didn't feel like it mattered any more.
+A few years ago <a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">I had a personal meltdown and quit my job</a>, and then spent two months travelling across the USA by train. I was working so hard I didn't have energy for side projects of my own, and the work I was doing didn't feel like it mattered any more.
 
-It seems naive now of course, but I thought that travelling would help me find clarity about my life purpose, and <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">shake me free of depression</a>.
+It seems naive now of course, but I thought that travelling would help me find clarity about my life purpose, and <a href="http://greig.cc/the-unspoken-d-word-depression">shake me free of depression</a>.
 
 When I got back though, the same old questions were waiting for me:
 <ul>
@@ -49,7 +49,7 @@ When I got back though, the same old questions were waiting for me:
 <hr />
 
 ## Why do I write?
-If you'd told me when I left school that one day I'd be spilling my guts out to strangers on the internet, I would have laughed. (<a href="http://greig.cc/journal/falling-off-the-edge-of-conversations">I can be pretty quiet sometimes</a>).
+If you'd told me when I left school that one day I'd be spilling my guts out to strangers on the internet, I would have laughed. (<a href="http://greig.cc/falling-off-the-edge-of-conversations">I can be pretty quiet sometimes</a>).
 
 But after a decade in the design industry, writing—or thinking in public as I like to call it—seems to be helping me make sense of things.
 
@@ -57,8 +57,8 @@ I haven't found the answers to my original questions yet.
 
 But I've made some important discoveries:
 <ul>
- 	<li>That it's <a href="http://greig.cc/journal/2013/8/feeling-lost-relax-youre-probably-headed-in-the-right-direction">ok to feel lost</a> (and the people who seem to know what they're doing are often floundering too)</li>
- 	<li><a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">Fear of perfection</a> doesn't have to hold you back</li>
+ 	<li>That it's <a href="http://greig.cc/feeling-lost-relax-youre-probably-headed-in-the-right-direction">ok to feel lost</a> (and the people who seem to know what they're doing are often floundering too)</li>
+ 	<li><a href="http://greig.cc/i-never-finish-anyth">Fear of perfection</a> doesn't have to hold you back</li>
  	<li>Making yourself vulnerable allows people to connect with you</li>
 </ul>
 Whatever it is that you're feeling stuck with, I'm here to help you find your way.

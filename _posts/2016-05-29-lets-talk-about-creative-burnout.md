@@ -21,7 +21,7 @@ tags:
 <p>From the list above, it's #3 and #4 that I've been battling with this year. I spent a week in bed with flu earlier this month, and then another two weeks getting my strength back. </p>
 <p>But these are the easiest causes of burnout to deal with in some ways... you "just" need to find a way to reduce your workload and look after yourself better.</p>
 <p>(I've written "just" in recognition of the fact that not everyone has direct control over how much work is landing on their plate).</p>
-<p>Sunshine and exercise help too. And sometimes just reframing your thoughts can make a huge difference too. (See "<a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">Your job is your escape route, not a trap</a>).</p>
+<p>Sunshine and exercise help too. And sometimes just reframing your thoughts can make a huge difference too. (See "<a href="http://greig.cc/hate-being-a-graphic-designer">Your job is your escape route, not a trap</a>).</p>
 <p>Questions #1 and #2 are much harder to make sense of.</p>
 <p><strong>What does "meaningful" mean to you?</strong></p>
 <p><strong>What motivates you?</strong> (Not just to get out of bed in the morning, but to keep chiseling away at something for days, weeks, months until something beautiful appears out of the dust.)</p>

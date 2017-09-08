@@ -13,7 +13,7 @@ tags:
   - freelance
   - graphicdesign
 ---
-You’re about to read the followup to <a href="http://greig.cc/journal/2015/6/rebooting-my-design-practice-part-1">Rebooting My Design Practice. Part 1: Positioning, Pricing And Networking</a>. (Recap: my income has risen around £15k every year since I went freelance on 2012, to raise your rate you need to position yourself as someone who solves a specific problem, mate’s rates are dangerous, build a network already)
+You’re about to read the followup to <a href="http://greig.cc/rebooting-my-design-practice-part-1">Rebooting My Design Practice. Part 1: Positioning, Pricing And Networking</a>. (Recap: my income has risen around £15k every year since I went freelance on 2012, to raise your rate you need to position yourself as someone who solves a specific problem, mate’s rates are dangerous, build a network already)
 
 <em>Disclaimer: much of the framework I laid in Part 1 of this series was not converted into actions, for reasons you’re about to discover.</em>
 
@@ -103,7 +103,7 @@ On to the next problem…
 
 How do you go about finding potential clients and converting them into paying customers?
 
-More often than not, <a href="http://greig.cc/journal/2013/3/trust-your-gut-joseph">gut feeling can do much of the heavy lifting when it comes to evaluating clients</a>.
+More often than not, <a href="http://greig.cc/trust-your-gut-joseph">gut feeling can do much of the heavy lifting when it comes to evaluating clients</a>.
 
 But you still need to think carefully, rationally, critically, really fucking hard (seriously, promise me that you will, ok?) about the potential work that’s on the table.
 

@@ -68,7 +68,7 @@ Because guess what... almost all of the time, the answer will be “No”.
 
 <h2 id="why-taking-it-easy-on-yourself-is-so-important">Why taking it easy (on yourself) is so important</h2>
 
-Learning to challenge your inner voice is a crucial part of pushing yourself into new territories. (Or what I call <a href="http://greig.cc/journal/2014/11/the-art-of-the-uncomfortable">the art of the uncomfortable</a>).
+Learning to challenge your inner voice is a crucial part of pushing yourself into new territories. (Or what I call <a href="http://greig.cc/the-art-of-the-uncomfortable">the art of the uncomfortable</a>).
 
 The quality of your thoughts manifests themselves directly in the quality of your life.
 

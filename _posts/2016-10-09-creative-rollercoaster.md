@@ -64,7 +64,7 @@ There’s something equally important to remember…
 
 Everyone freaks out to some extent on a rollercoaster: wonders if they are strapped in properly, or if they’re going to pass out, or puke up, or worse.
 
-<a href="http://greig.cc/journal/2016/9/how-to-take-it-easy-on-yourself">Self-doubt</a> is an integral part of the creative process.
+<a href="http://greig.cc/how-to-take-it-easy-on-yourself">Self-doubt</a> is an integral part of the creative process.
 
 So these feelings won’t go away.
 

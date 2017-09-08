@@ -28,13 +28,13 @@ PPS.I'm on Twitter too...
 
 <strong>Some popular articles to get you started:</strong>
 <ul>
- 	<li><a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">The unspoken 'd' word — my experience of depression</a></li>
- 	<li><a href="http://greig.cc/journal/2014/11/finding-your-purpose">On finding purpose: the 3 letter word that could change your life</a></li>
- 	<li><a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">Your job is an escape route, not a trap</a></li>
- 	<li><a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a></li>
- 	<li><a href="http://greig.cc/journal/falling-off-the-edge-of-conversations">I keep falling off the edge of conversations</a></li>
- 	<li><a href="http://greig.cc/journal/your-mind-is-a-jail-built-out-of-bullshit">Your mind is a jail built out of bullshit</a></li>
- 	<li><a href="http://greig.cc/journal/2013/1/dont-make-it-perfect-just-make-it-now">Don't make it perfect, just make it, now</a></li>
- 	<li><a href="http://greig.cc/journal/2013/6/you-will-never-be-ready">You will never be ready</a></li>
+ 	<li><a href="http://greig.cc/the-unspoken-d-word-depression">The unspoken 'd' word — my experience of depression</a></li>
+ 	<li><a href="http://greig.cc/finding-your-purpose">On finding purpose: the 3 letter word that could change your life</a></li>
+ 	<li><a href="http://greig.cc/hate-being-a-graphic-designer">Your job is an escape route, not a trap</a></li>
+ 	<li><a href="http://greig.cc/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a></li>
+ 	<li><a href="http://greig.cc/falling-off-the-edge-of-conversations">I keep falling off the edge of conversations</a></li>
+ 	<li><a href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit">Your mind is a jail built out of bullshit</a></li>
+ 	<li><a href="http://greig.cc/dont-make-it-perfect-just-make-it-now">Don't make it perfect, just make it, now</a></li>
+ 	<li><a href="http://greig.cc/you-will-never-be-ready">You will never be ready</a></li>
 </ul>
 <p id="yui_3_17_2_4_1434706477051_7050"></p>

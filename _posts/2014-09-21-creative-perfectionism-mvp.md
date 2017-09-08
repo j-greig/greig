@@ -1,12 +1,11 @@
 ---
 title: How to sidestep creative perfectionism by acting like a startup
 date: 2014-09-21T15:56:21+00:00
-
-excerpt: |
-  <p><span style="font-size:15px">Creative people, myself included, often get hung up on how things look. Here's how to stop polishing, and start shipping instead.</span></p>layout: post
+layout: post
+excerpt: "Creative people, myself included, often get hung up on how things look. Here's how to stop polishing, and start shipping instead."
 permalink: /creative-perfectionism-mvp/
 categories:
-  - Uncategorised
+  - life
 ---
 Creative people, myself included, often get hung up on how things look.
 
@@ -22,7 +21,7 @@ You could say it’s in our DNA.
 
 Or you could argue that trying to make things perfect is a bad habit.
 
-Here goes...</p>
+Here goes...  
 
 <h2>Stop polishing and ship instead</h2>
 
@@ -49,10 +48,10 @@ But the core concepts are simple enough for anyone to understand: including that
 Let’s take a quick look at two examples of MVPs from Silicon Valley.
 
 First up: <a href="https://www.youtube.com/watch?v=7QmCUDHpNzE">Dropbox’s pitch video</a>, which on the surface looks like a standard product demonstration:
- 
+
    <iframe src="//www.youtube.com/embed/7QmCUDHpNzE?wmode=opaque&amp;enablejsapi=1" height="480" width="640" scrolling="no" frameborder="0" allowfullscreen="">
 </iframe>
- 
+
 <span><span>In fact it was</span><a href="http://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/"><span> cleverly peppered with in-jokes</span></a><span> for the Digg audience (I don’t get any of these myself but hey, I don’t read Digg much either). The video subsequently went viral, sending hundreds of thousands of people to the </span><a href="https://db.tt/Yv79Abf"><span>Dropbox</span></a><span> website.</span></span>
 
 Secondly:&nbsp;<a href="http://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it">the landing page</a>&nbsp;that launched&nbsp;<a href="http://bufferapp.com/r/d4f0f">Buffer</a>&nbsp;(a brilliant tool for scheduling social media updates). This consisted of a description of what the product did, with a button you could click to see the plans and pricing.
@@ -65,7 +64,7 @@ What these examples share is their bare-bones approach. They weren’t “finish
 
 The thing that's holding you back is probably the same as for most people: it’s scary to put your stuff out in public.&nbsp;
 
-I know because <a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">I get hung up on finishing stuff too</a>… I’ve even been going backwards and forwards about publishing this article, because I’m not sure if it’s good enough.&nbsp;
+I know because <a href="http://greig.cc/i-never-finish-anyth">I get hung up on finishing stuff too</a>… I’ve even been going backwards and forwards about publishing this article, because I’m not sure if it’s good enough.&nbsp;
 
 But the only way to validate your ideas is to share them with other people. Only then can you get the feedback you need to refine your concepts.
 

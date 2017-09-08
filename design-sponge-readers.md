@@ -32,7 +32,7 @@ Three years ago, I had one of those 'What the hell and I doing with my life mome
 
 I quit my job, went travelling across the USA by train, and started spilling my guts out on the internet. Pretty quickly I realised that other creative people were experiencing something similar, so I started collecting together their stories, and looking for common strands.
 
-I've been collecting my findings <a href="http://greig.cc/">right here on my blog</a>, which covers everything from <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">my experience of depression</a>, to techniques <a href="http://greig.cc/journal/2014/10/writing-1000-words-daily-accountability-hack">for writing more often</a>.
+I've been collecting my findings <a href="http://greig.cc/">right here on my blog</a>, which covers everything from <a href="http://greig.cc/the-unspoken-d-word-depression">my experience of depression</a>, to techniques <a href="http://greig.cc/writing-1000-words-daily-accountability-hack">for writing more often</a>.
 
 If you've ever asked yourself any of these questions...
 <ul>

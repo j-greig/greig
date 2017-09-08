@@ -255,7 +255,7 @@ tags:
 
 <p>On the practical side of things, my advice would be to write as often as possible. Exercise your writing muscle every day, even if it’s only for 15 minutes. </p>
 
-<p>And if you want to step things up a gear, try taking my <a href="http://greig.cc/journal/2014/10/writing-1000-words-daily-accountability-hack">30-day writing challenge</a>. It uses accountability hacks so that you have no choice but to write every day, however bad a case of writing-excusitis you might have. </p>
+<p>And if you want to step things up a gear, try taking my <a href="http://greig.cc/writing-1000-words-daily-accountability-hack">30-day writing challenge</a>. It uses accountability hacks so that you have no choice but to write every day, however bad a case of writing-excusitis you might have. </p>
 
 <hr>
 

@@ -36,7 +36,7 @@ My advice was that he should begin a little closer to home.
 
 <h2 id="start-with-the-things-that-define-you-as-a-person-">Start with the things that define you (as a person)</h2>
 
-<strong>Who are you, and what’s your story?</strong><br>This might seem obvious. But you need to think carefully about where you’ve come from, and how to tell your story in an authentic and engaging way. Hint: <a href="http://greig.cc/journal/2015/4/dont-make-it-about-you-copywriting">don’t make it (all) about you.</a>
+<strong>Who are you, and what’s your story?</strong><br>This might seem obvious. But you need to think carefully about where you’ve come from, and how to tell your story in an authentic and engaging way. Hint: <a href="http://greig.cc/dont-make-it-about-you-copywriting">don’t make it (all) about you.</a>
 
 <strong>What do you believe in?</strong><br>I’m not talking about tooth fairies or Father Christmas here! But bigger questions… What are your values? What drives you? What words would you want people to use to describe you at your funeral?
 
@@ -96,7 +96,7 @@ If you have a more common name, you might have to go with a variation of it, or 
 
 <strong>Set up a blog using an existing service like Wordpress or Squarespace</strong><br>Use a free blogging service like <a href="https://wordpress.com/">Wordpress.com</a> or a paid one like <a href="https://www.squarespace.com/">Squarespace</a> (which comes with a ton of good-looking themes). This way you’ll get your website up and running in a few hours, instead of a few weeks.
 
-<strong>Start writing blog posts</strong><br>Now for the tricky part. You need to create something for people to read on your website. If in doubt, remember your audience. What do you want to help them with? What kind of questions do people ask you the most? If you create useful content that fixes problems for people, you can build trust, and make people come back for more. Above all else, be honest, and try to write like you talk. (See my “<a href="http://greig.cc/journal/2016/2/why-you-should-write">Why you should write</a>” guide for more tips).
+<strong>Start writing blog posts</strong><br>Now for the tricky part. You need to create something for people to read on your website. If in doubt, remember your audience. What do you want to help them with? What kind of questions do people ask you the most? If you create useful content that fixes problems for people, you can build trust, and make people come back for more. Above all else, be honest, and try to write like you talk. (See my “<a href="http://greig.cc/why-you-should-write">Why you should write</a>” guide for more tips).
 
 <strong>Build your own platform, not someone else’s.</strong><br>You might be wondering if you should use an existing platform like Medium. I’ll admit, it’s a really nice tool for writing. The problem is that you don’t have control of it. What happens if they start putting adverts everywhere? Or worse still, what happens if the service closes down? (This is why I’ve recently scaled my writing on Medium down to just a few announcement-type posts).
 

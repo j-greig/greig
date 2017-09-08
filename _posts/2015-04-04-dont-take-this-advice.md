@@ -18,7 +18,7 @@ categories:
 <li>Master Your Memory</li>
 <li>The Magic of Thinking Big</li>
 <li>The 4-Hour Work Week</li>
-<li><a href="http://greig.cc/journal/your-mind-is-a-jail-built-out-of-bullshit">Radical Honesty</a></li>
+<li><a href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit">Radical Honesty</a></li>
 <li>Getting Things Done</li>
 </ul>
 
@@ -38,7 +38,7 @@ categories:
 
 <p>It’s hard to say for sure; perhaps 5% at best.</p>
 
-<p>I can say for sure that the reading I’ve done on <a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">procrastination</a> has done anything but make me more productive.</p>
+<p>I can say for sure that the reading I’ve done on <a href="http://greig.cc/i-never-finish-anyth">procrastination</a> has done anything but make me more productive.</p>
 
 <p>Whilst it would be fantastic if simply reading something was enough to take it on board, instant learning still sits in the realm of science fiction.</p>
 

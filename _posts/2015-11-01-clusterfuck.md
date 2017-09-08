@@ -29,7 +29,7 @@ categories:
 
 <p>Which is weird because for the first half of this year, writing wasn’t a problem. I’d simply told myself that it was something I did once a week, and sat down to do it.</p>
 
-<p>Accountability is a technique I’ve used before to make myself <a href="http://greig.cc/journal/2014/10/writing-1000-words-daily-accountability-hack">write 1,00 words a day</a>.</p>
+<p>Accountability is a technique I’ve used before to make myself <a href="http://greig.cc/writing-1000-words-daily-accountability-hack">write 1,00 words a day</a>.</p>
 
 <p>In the long run though, accountability is not a sustainable approach. </p>
 
@@ -65,7 +65,7 @@ categories:
 
 <p>It’s time to stop reading about how other people do things (yes that includes me) and figure things out for yourself.</p>
 
-<p><a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">Start with something tiny. Spend five minutes working on it. Repeat.</a></p>
+<p><a href="http://greig.cc/i-never-finish-anyth">Start with something tiny. Spend five minutes working on it. Repeat.</a></p>
 
 <p>Good. The tangle of cables is looking less scary now.</p>
 

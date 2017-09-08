@@ -13,7 +13,7 @@ If you're a designer and love your job, stop reading now. This article is not fo
 
 If you only enjoy 50% of your job, you should read&nbsp;Adrian Shaughnessy's excellent book, <a href="http://www.amazon.co.uk/gp/product/1856697096/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1856697096&amp;linkCode=as2&amp;tag=sneageek-21">How to be a Graphic Designer, Without Losing Your Soul</a>.
 
-However, <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">if you're depressed</a>, over-worked, stressed, and generally feel like you're just days away from a <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=IcfFZpOMVwU">Falling Down</a> style breakdown, read on.
+However, <a href="http://greig.cc/the-unspoken-d-word-depression">if you're depressed</a>, over-worked, stressed, and generally feel like you're just days away from a <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=IcfFZpOMVwU">Falling Down</a> style breakdown, read on.
 
 After almost a decade working in the industry, this was how I felt earlier in the year, so trust me, I know the feeling...
 
@@ -57,4 +57,4 @@ If you're sick of being told to make the logo bigger, and want to start your own
 
 Related essays:
 
-<ul dir="ltr"><li><a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">The unspoken D word that eats you from the inside</a>&nbsp;(My experience of depression)</li><li><a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">Hate being a graphic designer?</a> (Don’t. Your job is an escape route, not a trap)</li><li><a href="http://greig.cc/journal/2013/8/how-to-stop-being-a-graphic-designer-redux">How to stop being a graphic designer — redux&nbsp;</a><span>(Part two of&nbsp;this post)</span></li></ul>
+<ul dir="ltr"><li><a href="http://greig.cc/hate-being-a-graphic-designer">The unspoken D word that eats you from the inside</a>&nbsp;(My experience of depression)</li><li><a href="http://greig.cc/hate-being-a-graphic-designer">Hate being a graphic designer?</a> (Don’t. Your job is an escape route, not a trap)</li><li><a href="http://greig.cc/how-to-stop-being-a-graphic-designer-redux">How to stop being a graphic designer — redux&nbsp;</a><span>(Part two of&nbsp;this post)</span></li></ul>

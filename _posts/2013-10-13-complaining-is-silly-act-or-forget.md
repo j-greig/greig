@@ -20,7 +20,7 @@ Click. Delete. Gone.&nbsp;</p>
 
 <h2>Let go of the bad vibes, dude...</h2>
 
-I find it's far more productive to make a record of positive thoughts rather than grievances — things that I'm grateful for (<a href="http://greig.cc/journal/2013/8/10-kinds-of-writing">do this every day if you can</a>) or ideas for fixing something that's bugging me.
+I find it's far more productive to make a record of positive thoughts rather than grievances — things that I'm grateful for (<a href="http://greig.cc/10-kinds-of-writing">do this every day if you can</a>) or ideas for fixing something that's bugging me.
 
 The title of this article is a quote from graphic designer <a href="http://www.sagmeisterwalsh.com/">Stefan Sagmeister</a> that's been floating around the internet for a few years now.&nbsp;<span style="line-height: 1.6em;">It was originally the start of a diary entry about things which make him happy:</span>
 

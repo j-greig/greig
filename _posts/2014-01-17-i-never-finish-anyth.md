@@ -60,7 +60,7 @@ So... I haven't made any New Year's resolutions this year.
 
 You don't want high resolutions anyhow — you want low resolution.
 
-You want to let go of the fear of fucking up, <a href="http://greig.cc/journal/2013/1/dont-make-it-perfect-just-make-it-now">of it not being perfect</a>, of what other people think, <a href="http://www.marcandangel.com/2013/12/05/9-fears-you-will-regret-never-facing">of things that probably won't ever happen</a>, and just crank that stuff out, baby.
+You want to let go of the fear of fucking up, <a href="http://greig.cc/dont-make-it-perfect-just-make-it-now">of it not being perfect</a>, of what other people think, <a href="http://www.marcandangel.com/2013/12/05/9-fears-you-will-regret-never-facing">of things that probably won't ever happen</a>, and just crank that stuff out, baby.
 
 ## Instead of trying to finish everything, try to finish one thing.
 

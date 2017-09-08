@@ -51,4 +51,4 @@ Less stuff = less decisions = greater focus.
 
 <hr>
 
-<em>*More on sparkfiles here: <a href="http://greig.cc/journal/2013/8/10-kinds-of-writing%20http://greig.cc/journal/2013/8/10-kinds-of-writing">10 kinds of writing to experiment with on a daily basis</a></em>.
+<em>*More on sparkfiles here: <a href="http://greig.cc/10-kinds-of-writing%20http://greig.cc/10-kinds-of-writing">10 kinds of writing to experiment with on a daily basis</a></em>.

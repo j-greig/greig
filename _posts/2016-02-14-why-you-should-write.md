@@ -99,13 +99,13 @@ What’s funny about all this is that I didn’t cycle for the entire ten years 
 
 Outside of this blogging success though, I was still struggling with my professional life as a graphic designer.
 
-So I started a personal blog, and wrote an angry articled about <a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a>.
+So I started a personal blog, and wrote an angry articled about <a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a>.
 
 This was the first time I’d been honest about my feelings online, and the response took me by surprise. (And I still get emails about that article, even though my position has shifted, and I'm now grateful that I can make a good living from design).
 
 As I wrote more about the profession, I became a kind of agony aunt for graphic designers. I realised that not many people were writing honestly about the design profession, and that by talking about my own problems, I could help others.
 
-Since then I’ve written about <a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">my experience of depression</a>, about some of the stupid things I did when I was a student, and about quitting my job to go travelling and become a freelancer.
+Since then I’ve written about <a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">my experience of depression</a>, about some of the stupid things I did when I was a student, and about quitting my job to go travelling and become a freelancer.
 
 It feels like meaningful work, in a way that design never has for me. I get emails from people thanking me for articles almost every week, whilst I can probably count on one hand the number of emails I've ever received thanking me for my design work.
 
@@ -169,7 +169,7 @@ Rinse and repeat.
 
 You don’t have to go crazy either. I only publish one blog post a week, but I’ll do it come rain or shine (most of the time) because I have a mailing list who I’ve promised a weekly email.
 
-If you don't fancy putting your writing online, that's fine. Just keeping a daily journal, or making lists of ideas, or writing down your dreams will give you huge insights into your inner thoughts. Whatever you do, aim to do it little and often, and you'll soon reap the benefits. (<a href="http://greig.cc/journal/2013/11/creativity-is-a-habit-not-a-feeling">Creativity is a habit, not a feeling</a>).
+If you don't fancy putting your writing online, that's fine. Just keeping a daily journal, or making lists of ideas, or writing down your dreams will give you huge insights into your inner thoughts. Whatever you do, aim to do it little and often, and you'll soon reap the benefits. (<a href="http://greig.cc/creativity-is-a-habit-not-a-feeling">Creativity is a habit, not a feeling</a>).
 
 Remember that writing is a muscle. But you don’t have to write every day. Even a weekly or twice weekly writing slot will help. (I send an email newsletter every Sunday—or at least, I try to—because it forces me to write something useful once a week).
 

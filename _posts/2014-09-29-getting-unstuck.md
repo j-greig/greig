@@ -1,18 +1,16 @@
 ---
 title: 'Getting unstuck when you&#8217;re working on your own projects'
 date: 2014-09-29T19:06:55+00:00
-
-excerpt: '<p><span style="font-size:15px">When it comes to making your own art (instead of working for other people), it can be tough to keep things moving...</span></p>'
 layout: post
 permalink: /getting-unstuck/
 categories:
-  - Life
+  - life
 ---
 <img src="/media/getting-unstuck.jpg" alt="" width="600" height="456" class="alignnone size-full wp-image-1947" />
 
-The image above was created by a graphics bot called Pixel Sorter which got stuck in a duel with another bot on Twitter. I tweeted about it yesterday and&nbsp;<a target="_blank" href="https://twitter.com/j_greig/status/515947566467645440">they both replied back to me</a>&nbsp;— who said robots couldn't make art?<br /><br />But when it comes to making your own art (instead of working for other people), it can be tough to keep things moving.
+The image above was created by a graphics bot called Pixel Sorter which got stuck in a duel with another bot on Twitter. I tweeted about it yesterday and <a target="_blank" href="https://twitter.com/j_greig/status/515947566467645440">they both replied back to me</a>&nbsp;— who said robots couldn't make art?<br /><br />But when it comes to making your own art (instead of working for other people), it can be tough to keep things moving.
 
-You don't have the usual restrictions with regards to time or budget, nor the usual feedback loops from your client.<br /><br />So I wanted to share some helpful suggestions from&nbsp;<a target="_blank" href="http://news.jam-factory.com/">Gav Strange</a>, a graphic designer who also&nbsp;<a target="_blank" href="http://boikzmoind.com/">makes films</a>, gives away free art once a week, designs&nbsp;<a target="_blank" href="http://www.dinkybox.co.uk/acatalog/Designer_-_Gavin_Strange.html">minifigs</a>&nbsp;and a million other things alongside his day job at&nbsp;<a href="http://www.aardman.com/">Aardman Animations</a>...</p>
+You don't have the usual restrictions with regards to time or budget, nor the usual feedback loops from your client.<br /><br />So I wanted to share some helpful suggestions from&nbsp;<a target="_blank" href="http://news.jam-factory.com/">Gav Strange</a>, a graphic designer who also&nbsp;<a target="_blank" href="http://boikzmoind.com/">makes films</a>, gives away free art once a week, designs&nbsp;<a target="_blank" href="http://www.dinkybox.co.uk/acatalog/Designer_-_Gavin_Strange.html">minifigs</a>&nbsp;and a million other things alongside his day job at&nbsp;<a href="http://www.aardman.com/">Aardman Animations</a>... 
 
 <hr />
 

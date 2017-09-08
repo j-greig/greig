@@ -6,7 +6,7 @@ permalink: /the-right-problem/
 categories:
   - Uncategorised
 ---
-You might remember a chap called Mihaly Csikszentmihalyi from a previous essay I wrote about <a href="http://greig.cc/journal/2016/4/finding-your-flow">finding your flow</a>.
+You might remember a chap called Mihaly Csikszentmihalyi from a previous essay I wrote about <a href="http://greig.cc/finding-your-flow">finding your flow</a>.
 
 It’s the kind of name that you don’t forget… even if you can’t remember how to spell it.
 

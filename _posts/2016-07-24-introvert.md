@@ -39,7 +39,7 @@ So I've devised a few different ways to push myself out of my quietness comfort 
 <li>Taking street portraits for CycleLove (Everyone I've approached has been friendly, and 80% of people say yes to having their photo taken)</li>
 <li>Striking up conversations with other people on bikes at traffic lights. (No danger of awkward silences because when the lights change it's game over anyway!)</li>
 <li>Going to design meetups and hosting <a href="https://tinyletter.com/londonfreelancersfryup">my own freelancers meetup</a> (You don't have to be loud to be a leader).</li>
-<li>Writing publicly about things I wouldn't usually talk about, like <a href="http://greig.cc/journal/2014/10/the-unspoken-d-word-depression">depression</a> (Knowing that this opens up the possibility of me or other people talking about it face-to-face)</li>
+<li>Writing publicly about things I wouldn't usually talk about, like <a href="http://greig.cc/the-unspoken-d-word-depression">depression</a> (Knowing that this opens up the possibility of me or other people talking about it face-to-face)</li>
 </ul>
 
 There's nothing wrong with being a quiet person. (Or a loud one).

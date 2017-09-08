@@ -93,7 +93,7 @@ For the past three years I've worked directly with my own clients, <a href="htt
 
 When I said 'uniquely placed' earlier, here's what I meant. In addition to my design experience, I have hands-on experience of the essential elements of running a business online, including:
 <ul>
- 	<li><a href="http://greig.cc/journal/2015/4/dont-make-it-about-you-copywriting">Writing (and promoting) content</a></li>
+ 	<li><a href="http://greig.cc/dont-make-it-about-you-copywriting">Writing (and promoting) content</a></li>
  	<li>Building email lists</li>
  	<li>Selling products</li>
  	<li>Nurturing social media accounts (Instagram, Facebook and Twitter)</li>

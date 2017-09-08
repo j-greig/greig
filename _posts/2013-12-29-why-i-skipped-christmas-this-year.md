@@ -12,7 +12,7 @@ I was scared to write this post before Christmas Day itself because I wasn't sur
 
 Don't get me wrong — this was not about hating on Christmas.
 
-But in a year of running experiments (therapy, <a href="http://greig.cc/journal/2013/going-on-retreat">going on retreat</a><span>, writing from the gut, </span><a href="http://greig.cc/journal/your-mind-is-a-jail-built-out-of-bullshit">being more honest</a><span> than I'm comfortable with) giving Christmas a miss seemed like an interesting way to finish things off.</span>
+But in a year of running experiments (therapy, <a href="http://greig.cc/2013/going-on-retreat">going on retreat</a><span>, writing from the gut, </span><a href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit">being more honest</a><span> than I'm comfortable with) giving Christmas a miss seemed like an interesting way to finish things off.</span>
 
 The less Christmas-y things I did this month, the more I noticed how people around me were only doing things because they felt they had no choice. Christmas parties, getting pissed up for 5 or 6 days on the trot with work colleagues they didn't even like, that kind of stuff. And you know what, why do things you don't want to?</p>
 

@@ -22,7 +22,7 @@ categories:
 <li>Get super excited about it…</li>
 </ul>
 
-<p>I know the feeling because <a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">it happens to me all the time</a>.</p>
+<p>I know the feeling because <a href="http://greig.cc/i-never-finish-anyth">it happens to me all the time</a>.</p>
 
 <p>But having travelled all the way around the internet and back again, I’ve realised the root of my problem. </p>
 

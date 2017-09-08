@@ -73,7 +73,7 @@ You know what?
 
 <h2>It's ok for things not to be ok.</h2>
 
-One of the things that therapy has taught me to value is honesty. If you delve into my writing on this blog, you'll find admissions of things I would never have dreamed of making public before. <a data-cke-saved-href="http://greig.cc/journal/your-mind-is-a-jail-built-out-of-bullshit" href="http://greig.cc/journal/your-mind-is-a-jail-built-out-of-bullshit">Honesty is a long lost friend you need back in your life</a>.
+One of the things that therapy has taught me to value is honesty. If you delve into my writing on this blog, you'll find admissions of things I would never have dreamed of making public before. <a data-cke-saved-href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit" href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit">Honesty is a long lost friend you need back in your life</a>.
 
 But at first I didn't tell people that I was seeing a therapist.
 

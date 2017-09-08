@@ -18,7 +18,7 @@ Meanwhile the Russians found a new purpose — figuring out how to live and work
 
 <h2 id="dontsetyourselfgoals">Don't set yourself goals</h2>
 
-The last time I set out New Years resolutions for myself, <a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">things didn't pan out so well</a>. I wish I could say it was a spectacular failure but in reality it was the kind that falls to the ground with a dull thud.
+The last time I set out New Years resolutions for myself, <a href="http://greig.cc/i-never-finish-anyth">things didn't pan out so well</a>. I wish I could say it was a spectacular failure but in reality it was the kind that falls to the ground with a dull thud.
 
 <strong>The problem with setting a finish line is knowing what the hell to do when you get there.</strong>
 
@@ -27,7 +27,7 @@ The last time I set out New Years resolutions for myself, <a href="http://greig.
 
 Whether you're trying to lose weight, increase your fitness or switch careers, setting a goal is not always a good idea.
 
-<a href="http://greig.cc/journal/2014/10/writing-1000-words-daily-accountability-hack">When I wrote 1,000 words a day for a month</a>, I had a goal of doing it for 30 days straight... and just about made it. But crossing that imaginary finish line left me simultaneously elated and out of breath, and my writing output flatlined for months afterwards as a result.
+<a href="http://greig.cc/writing-1000-words-daily-accountability-hack">When I wrote 1,000 words a day for a month</a>, I had a goal of doing it for 30 days straight... and just about made it. But crossing that imaginary finish line left me simultaneously elated and out of breath, and my writing output flatlined for months afterwards as a result.
 
 <h2 id="itsthelittlethingsthataddupovertime">It's the little things that add up (over time)</h2>
 
@@ -58,7 +58,7 @@ I think setting yourself goals makes you less happy, and you can still achieve g
 <h3 id="relatedlinks">Related links:</h3>
 
 <ul>
-<li><a href="http://greig.cc/journal/2013/8/feeling-lost-relax-youre-probably-headed-in-the-right-direction">Feeling lost? Relax. You're probably headed in the right direction</a></li>
+<li><a href="http://greig.cc/feeling-lost-relax-youre-probably-headed-in-the-right-direction">Feeling lost? Relax. You're probably headed in the right direction</a></li>
 <li><a href="http://www.bbc.co.uk/iplayer/episode/b04lcxms/cosmonauts-how-russia-won-the-space-race">Cosmonauts: How Russia Won the Space Race (BBC4)</a></li>
 <li><a href="https://vimeo.com/53629816">Tim Ferriss vs. Leo Babauta on Goals</a></li>
 <li><a href="http://www.wechoosethemoon.org/">A real-time recreation of the Apollo 11 mission</a></li>

@@ -32,7 +32,7 @@ As I was dipping into some of this unnecessary faux outrage, I came across an in
 
 Did Su Eld-Weaver care that 99% of the population found her chosen artform a bit weird?
 
-No sir! Which is smart, because <a href="http://greig.cc/journal/2014/10/other-peoples-opinion">other people's opinion of you are none of your business</a>.
+No sir! Which is smart, because <a href="http://greig.cc/other-peoples-opinion">other people's opinion of you are none of your business</a>.
 
 She reached out to the 1%, the people who were just as crazy about dog grooming as she was, and showed them what she could do. And they loved it, as it turned out.
 

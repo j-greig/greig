@@ -53,7 +53,7 @@ Behind any large-scale corporate design project there’s usually a strategist o
 
 <h3>Work with words, as a copywriter</h3>
 
-For me there’s something immensely refreshing about the limited toolkit available as a copywriter, compared to the almost infinite array of colours, typefaces and layouts that designers can choose from. As a writer, it’s just you, the 26 letters of the alphabet, and the basic rules of grammar; the rest is up to you. If a career as a wordsmith appeals, check out my <a href="http://greig.cc/journal/2015/4/dont-make-it-about-you-copywriting">introduction to copywriting for the web</a>, and let me know how you get on.
+For me there’s something immensely refreshing about the limited toolkit available as a copywriter, compared to the almost infinite array of colours, typefaces and layouts that designers can choose from. As a writer, it’s just you, the 26 letters of the alphabet, and the basic rules of grammar; the rest is up to you. If a career as a wordsmith appeals, check out my <a href="http://greig.cc/dont-make-it-about-you-copywriting">introduction to copywriting for the web</a>, and let me know how you get on.
 
 <h3>Go digital: Become a web developer or information architect</h3>
 
@@ -77,7 +77,7 @@ Other visual professions might appeal too, photography, illustration or animatio
 
 Switching careers can be a long, drawn out process. (As someone who is several years into the process, I can assure you that it’s worth it though).
 
-If things aren’t moving as fast as you’d like, remember that <a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">your job is never a trap, unless you see it as one.</a>
+If things aren’t moving as fast as you’d like, remember that <a href="http://greig.cc/hate-being-a-graphic-designer">your job is never a trap, unless you see it as one.</a>
 
 It’s time to stop thinking about alternative design careers, and start taking action.
 
@@ -90,12 +90,12 @@ Here's to your next step on a new career path.
 <h3>Further reading for grumpy graphic designers</h3>
 
 <ul>
-<li><a href="http://greig.cc/journal/2015/3/before-you-go-freelance">What I wish I'd known 3 years ago about becoming a graphic designer</a></li>
+<li><a href="http://greig.cc/before-you-go-freelance">What I wish I'd known 3 years ago about becoming a graphic designer</a></li>
 <li><a href="http://greig.cc/beforegoingfreelance/">7 things you should do before going freelance</a></li>
-<li><a href="http://greig.cc/journal/2014/9/hate-being-a-graphic-designer">Your job is an escape route, not a trap</a></li>
-<li><a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a></li>
-<li><a href="http://greig.cc/journal/2013/8/how-to-stop-being-a-graphic-designer-redux">How to stop being a graphic designer, Part 2</a></li>
-<li><a href="http://greig.cc/journal/2016/8/im-a-designer-not-a-screwdriver">The 3 traits that define meaningful work</a></li>
+<li><a href="http://greig.cc/hate-being-a-graphic-designer">Your job is an escape route, not a trap</a></li>
+<li><a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">How to stop being a graphic designer</a></li>
+<li><a href="http://greig.cc/how-to-stop-being-a-graphic-designer-redux">How to stop being a graphic designer, Part 2</a></li>
+<li><a href="http://greig.cc/im-a-designer-not-a-screwdriver">The 3 traits that define meaningful work</a></li>
 </ul>
 
 <small>PS. There's more... :) ... you can <a href="http://greig.cc/graphic-design/">read all of my articles on  graphic design here</a></small>

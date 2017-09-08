@@ -46,7 +46,7 @@ categories:
 <p><strong>"I don't feel like it"</strong> <br>
 The big daddy of excuses. If you're not doing important work because you don't feel like it, is it really that important to you? If it's not, that's great news, because you can scrub it from your list and move onto something else!</p>
 
-<p>Solution: if something matters but you're not getting it done, try to wrap it <a href="http://greig.cc/journal/2013/11/creativity-is-a-habit-not-a-feeling">in a habit</a>. Make it something that you do every day or every week whether you feel like it or not. (Like I do with my weekly newsletter).</p>
+<p>Solution: if something matters but you're not getting it done, try to wrap it <a href="http://greig.cc/creativity-is-a-habit-not-a-feeling">in a habit</a>. Make it something that you do every day or every week whether you feel like it or not. (Like I do with my weekly newsletter).</p>
 
 <p>Even ten minutes a day can make a difference, if you put the work in every day without fail. Just. Keep. Showing. Up. On which note...</p>
 
@@ -60,14 +60,14 @@ Aka impostor syndrome. We've all been there — felt that we're not qualified to
 
 <p>Solution: get comfortable with being bad at things. And make use of the fact that when're you're a beginner there's no one watching... or waiting for you to trip up. </p>
 
-<p>The other thought to hold onto is that <a href="http://greig.cc/journal/2014/9/creative-perfectionism-mvp">neither you or your work needs to be perfect</a>. As Leonard Cohen would say: “There is a crack in everything. That's how the light gets in.”</p>
+<p>The other thought to hold onto is that <a href="http://greig.cc/creative-perfectionism-mvp">neither you or your work needs to be perfect</a>. As Leonard Cohen would say: “There is a crack in everything. That's how the light gets in.”</p>
 
 <p><strong>"I'm scared"</strong> <br>
 There's a very British habit of starting an apology for a trivial matter with the phrase "I'm afraid that...".</p>
 
 <p>Similarly, most of the things we claim to be frightened of of aren't really that bad. Spiders, heights, mothers-in-law... all scary. But speaking in public? Publishing a blog post? Admitting that we'd fucked up and need a little help? These are not life-threatening scenarios.</p>
 
-<p>Solution: <a href="http://greig.cc/journal/2014/11/the-art-of-the-uncomfortable">try an experiment</a>. Find out what happens when you step towards the thing you think you're afraid of, instead of away from it. And remember that good things usually happen when you move outside of your comfort zone.</p>
+<p>Solution: <a href="http://greig.cc/the-art-of-the-uncomfortable">try an experiment</a>. Find out what happens when you step towards the thing you think you're afraid of, instead of away from it. And remember that good things usually happen when you move outside of your comfort zone.</p>
 
 <hr>
 

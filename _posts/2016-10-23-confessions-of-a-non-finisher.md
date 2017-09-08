@@ -43,7 +43,7 @@ It might feel like I should be working on all that stuff, but should I be?
 
 Let’s start with the obvious conclusion from looking at my list of projects… it’s too long!
 
-<h2 id="if-you-try-to-work-on-ten-things-at-once-you-ll-never-finish-anything-4-">If you try to work on ten things at once, <a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">you’ll never finish anything.</a></h2>
+<h2 id="if-you-try-to-work-on-ten-things-at-once-you-ll-never-finish-anything-4-">If you try to work on ten things at once, <a href="http://greig.cc/i-never-finish-anyth">you’ll never finish anything.</a></h2>
 
 Which is why I’m putting everything from this list on hold for the rest of  the year, except for the <a href="http://greig.cc/undesignworkshop">Undesign Career Workshop</a>. (If you’re a graphic designer at a career crossroads, stay tuned for more details on this. And if you’re waiting for the new version of my <a href="http://greig.cc/beforegoingfreelance/">Before Going Freelance</a> course, don’t worry, that’s next on the list!)
 
@@ -87,7 +87,7 @@ I’m not saying it’s impossible, but for most people, I think it’s pretty u
 
 You could spend your whole life trying to follow your passion and never get close, because you’re hunting a unicorn.
 
-(Check out my <a href="http://greig.cc/journal/2016/3/lifeframework">rough framework for figuring out what the hell to do with your life</a> and <a href="http://greig.cc/journal/2013/9/finding-work-you-love">tips for finding work you love</a> articles for more thoughts on this).
+(Check out my <a href="http://greig.cc/lifeframework">rough framework for figuring out what the hell to do with your life</a> and <a href="http://greig.cc/finding-work-you-love">tips for finding work you love</a> articles for more thoughts on this).
 
 If you’re struggling to stay focused, try making a list of all the things you think you want to be working on, and then ruthlessly cutting it down to one thing.
 

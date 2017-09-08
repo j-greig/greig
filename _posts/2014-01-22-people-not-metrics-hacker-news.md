@@ -10,7 +10,7 @@ Please excuse the humblebrag/linkbait headline that's gotten you here. Not bad h
 
 Let's rewind to last week.
 
-I'd had this "I never finish anyth" postcard up on my wall for a while, and it must have sunk in, because I woke up with a rare urge to write, and out flowed <a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">an article about finishing things</a>.
+I'd had this "I never finish anyth" postcard up on my wall for a while, and it must have sunk in, because I woke up with a rare urge to write, and out flowed <a href="http://greig.cc/i-never-finish-anyth">an article about finishing things</a>.
 
 The headline seemed pretty catchy (hat tip to the artist <a href="http://wecreatestudio.co.uk/">Brad Rose</a>&nbsp;for that) so I decided <a href="https://news.ycombinator.com/item?id=7075537">to post it to Hacker News</a>.
 
@@ -24,7 +24,7 @@ At this point all pretensions of ignoring&nbsp;<a href="http://techcrunch.com/20
 
 Pretty exciting stuff, given that my average number of visitors for a single day is currently around 300 people.
 
-It didn't stop there, because the next day "<a href="http://greig.cc/journal/2014/1/i-never-finish-anyth">I never finish anyth</a>" was still hovering around the number 10 spot of Hacker News, and clocking up a decent number of hits via Reddit as well.
+It didn't stop there, because the next day "<a href="http://greig.cc/i-never-finish-anyth">I never finish anyth</a>" was still hovering around the number 10 spot of Hacker News, and clocking up a decent number of hits via Reddit as well.
 
 <strong>Total views for the first day in the life of the article: 25,000.</strong>
 

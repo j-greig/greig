@@ -12,7 +12,7 @@ categories:
 
 <p>And if I'm honest, I feel a bit scared to be writing this.</p>
 
-<p>But I know that there won't ever be <a href="http://greig.cc/journal/2013/6/you-will-never-be-ready">"a right time"</a> to try it. </p>
+<p>But I know that there won't ever be <a href="http://greig.cc/you-will-never-be-ready">"a right time"</a> to try it. </p>
 
 <p>And I know that being afraid is just an excuse.</p>
 
@@ -63,14 +63,14 @@ categories:
 </ul>
 
 <p><strong>Idea B: A freelance graphic designer's survival kit</strong> <br>
-A couple of years ago, <a href="http://greig.cc/journal/2013/9/a-freelance-graphic-designers-survival-guide">I wrote a long list of tips for freelance designers</a>. The plan would be to expand on this, and include detailed information on things like setting up a portfolio website, finding work, and keeping your finances in order.</p>
+A couple of years ago, <a href="http://greig.cc/a-freelance-graphic-designers-survival-guide">I wrote a long list of tips for freelance designers</a>. The plan would be to expand on this, and include detailed information on things like setting up a portfolio website, finding work, and keeping your finances in order.</p>
 
 <p>For: </p>
 
 <ul>
 <li>I'm already an expert on this (3 years of freelancing next month!)</li>
 <li>Lots of contacts in place in my existing network</li>
-<li>I already have several articles written on the subject, all of which <a href="https://twitter.com/heydesigner/status/375501577282678785">were </a><a href="https://twitter.com/adobeccdesign/status/385171548211924992">well </a><a href="http://greig.cc/journal/2013/9/a-freelance-graphic-designers-survival-guide">received </a> by designers and the design industry  </li>
+<li>I already have several articles written on the subject, all of which <a href="https://twitter.com/heydesigner/status/375501577282678785">were </a><a href="https://twitter.com/adobeccdesign/status/385171548211924992">well </a><a href="http://greig.cc/a-freelance-graphic-designers-survival-guide">received </a> by designers and the design industry  </li>
 <li>I know there is a need for this product, based on other people's questions, not just my own experience</li>
 </ul>
 
@@ -121,7 +121,7 @@ This is something I've been talking about with my girlfriend for a while. We hav
 
 <p>I'm sure that some stuff will go wrong, and there will be times I wished people weren't watching.</p>
 
-<p>But my <a href="http://greig.cc/journal/2014/10/writing-1000-words-daily-accountability-hack">30 days of writing experiment</a> has already made the benefits of accountability clear to me. </p>
+<p>But my <a href="http://greig.cc/writing-1000-words-daily-accountability-hack">30 days of writing experiment</a> has already made the benefits of accountability clear to me. </p>
 
 <p>So I'm going to document my progress on this blog as I go.</p>
 

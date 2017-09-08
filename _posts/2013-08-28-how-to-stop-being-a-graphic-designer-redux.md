@@ -7,7 +7,7 @@ categories:
   - careers
   - graphic-design
 ---
-Towards the end of last year I let forth <a href="http://greig.cc/journal/2012/11/26/how-to-stop-being-a-graphic-designer">an angry rant about being a graphic designer</a>&nbsp; onto the internet with little expectation of a response.
+Towards the end of last year I let forth <a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">an angry rant about being a graphic designer</a>&nbsp; onto the internet with little expectation of a response.
 
 I'd had a nervous breakdown, quit my design job and then taken time off to go travelling, before spending a good chunk of 2012 working on <a href="http://www.cyclelove.cc/">CycleLove</a>.
 
@@ -97,13 +97,13 @@ When I approached my first set of potential interviewees, 75% of them responded 
 
 Then the project ground to a halt.
 
-In the past I would probably have used the excuse that I was <a href="http://greig.cc/journal/2013/8/mr-chicken">too chicken</a>&nbsp;to start interviewing the creatives I had shortlisted. But I don't wake up sweating in the morning at the prospect of speaking to these guys. I'm not really "afraid".
+In the past I would probably have used the excuse that I was <a href="http://greig.cc/mr-chicken">too chicken</a>&nbsp;to start interviewing the creatives I had shortlisted. But I don't wake up sweating in the morning at the prospect of speaking to these guys. I'm not really "afraid".
 
 In reality... well... I'm not sure.
 
 Beating myself up about it isn't going to help.
 
-For whatever reason it's taken me a while to get going and it was only this month that I published my first interview (<a href="http://greig.cc/journal/2013/trakke-from-graphic-design-to-adventure-bags">with Trakke founder Alec Farmer</a>)&nbsp;.&nbsp;
+For whatever reason it's taken me a while to get going and it was only this month that I published my first interview (<a href="http://greig.cc/2013/trakke-from-graphic-design-to-adventure-bags">with Trakke founder Alec Farmer</a>)&nbsp;.&nbsp;
 
 Because CycleLove isn't generating any cash (remember folks: <a href="http://thinktraffic.net/why-your-blog-is-not-a-business">a blog is not a business</a>), I've been doing an increasing amount of freelance design work to pay the bills.
 
@@ -111,7 +111,7 @@ And somewhere amongst all of that, unDesign has fell by the wayside.&nbsp;
 
 But I'm still committed to the project.
 
-I'm writing more than I ever have. And by the end of my <a href="http://greig.cc/journal/2013/8/30-days-of-writing-x-teach-everything-you-know">30 day writing experiment</a> I should be even better equipped to get unDesign properly underway.
+I'm writing more than I ever have. And by the end of my <a href="http://greig.cc/30-days-of-writing-x-teach-everything-you-know">30 day writing experiment</a> I should be even better equipped to get unDesign properly underway.
 
 <span style="line-height: 1.6em;">I'm ready to do the interviews, to make more connections between the worlds of design and business, and to help as many designers as possible to diversify their income stream.</span>
 

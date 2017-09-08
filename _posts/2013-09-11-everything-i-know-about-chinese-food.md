@@ -53,6 +53,6 @@ What's your favourite Chinese food?&nbsp;
 
 <hr />
 
-Day 10 of&nbsp;<a href="http://greig.cc/journal/2013/8/30-days-of-writing-x-teach-everything-you-know">30 days of writing x Teach everything you know</a><br>Words written: 1200<br><span style="line-height: 1.6em;">Time taken: 2 hours</span>
+Day 10 of&nbsp;<a href="http://greig.cc/30-days-of-writing-x-teach-everything-you-know">30 days of writing x Teach everything you know</a><br>Words written: 1200<br><span style="line-height: 1.6em;">Time taken: 2 hours</span>
 
 &nbsp;
