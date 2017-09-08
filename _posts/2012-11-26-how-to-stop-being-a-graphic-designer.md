@@ -1,7 +1,8 @@
 ---
 title: How to stop being a graphic designer
 date: 2012-11-26T09:16:55+00:00
-excerpt: "If you're a designer and love your job, stop reading now. This article is not for you. But if being a graphic designer is getting you down, you need to do something about it."layout: post
+excerpt: "If you're a designer and love your job, stop reading now. This article is not for you. But if being a graphic designer is getting you down, you need to do something about it."
+layout: post
 permalink: /how-to-stop-being-a-graphic-designer/
 categories:
   - graphic-design

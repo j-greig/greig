@@ -2,7 +2,8 @@
 title: Be fear-fuelled, not fearless
 date: 2016-04-10T18:51:50+00:00
 
-excerpt: '<p>How to rechannel fear to your advantage.</p>'layout: post
+excerpt: '<p>How to rechannel fear to your advantage.</p>'
+layout: post
 permalink: /fear-fuelled-not-fearless/
 categories:
   - Uncategorised

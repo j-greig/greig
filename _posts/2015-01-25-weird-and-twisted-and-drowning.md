@@ -2,7 +2,8 @@
 title: We’re all kind of weird and twisted and drowning
 date: 2015-01-25T14:10:36+00:00
 
-excerpt: "<p>You know all those thoughts and feelings you have, that you're not sure are normal?&nbsp;Here's the thing.&nbsp;Everyone else has them too...</p>"layout: post
+excerpt: "<p>You know all those thoughts and feelings you have, that you're not sure are normal?&nbsp;Here's the thing.&nbsp;Everyone else has them too...</p>"
+layout: post
 permalink: /weird-and-twisted-and-drowning/
 categories:
   - life

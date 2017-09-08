@@ -2,7 +2,8 @@
 title: If you want to be a writer, writing is not a choice
 date: 2013-09-18T22:04:47+00:00
 
-excerpt: '<p>A late night ramble about writing.&nbsp;</p>'layout: post
+excerpt: '<p>A late night ramble about writing.&nbsp;</p>'
+layout: post
 permalink: /if-you-want-to-be-a-writer-writing-is-not-a-choice/
 categories:
   - writing

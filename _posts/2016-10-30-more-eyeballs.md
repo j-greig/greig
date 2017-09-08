@@ -2,7 +2,8 @@
 title: The one trick that will get your content read by tens of thousands of people
 date: 2016-10-30T07:42:09+00:00
 
-excerpt: "<p>After writing 600 odd blog posts, I’m more clued up about promoting my content than I used to be. Here's what I've learnt about creating and sharing content.</p>"layout: post
+excerpt: "<p>After writing 600 odd blog posts, I’m more clued up about promoting my content than I used to be. Here's what I've learnt about creating and sharing content.</p>"
+layout: post
 permalink: /more-eyeballs/
 categories:
   - Writing

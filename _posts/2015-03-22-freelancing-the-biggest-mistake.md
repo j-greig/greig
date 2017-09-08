@@ -2,7 +2,8 @@
 title: The biggest mistake you can make as a freelancer
 date: 2015-03-22T13:45:30+00:00
 
-excerpt: '<p>And a quick method to work out (roughly) what your freelancing day rate should be.</p>'layout: post
+excerpt: '<p>And a quick method to work out (roughly) what your freelancing day rate should be.</p>'
+layout: post
 permalink: /freelancing-the-biggest-mistake/
 categories:
   - Freelancing

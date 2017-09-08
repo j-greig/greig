@@ -2,7 +2,8 @@
 title: Don’t make it about you (an introduction to copywriting for the web)
 date: 2015-04-19T10:51:32+00:00
 
-excerpt: '<p>Warning: I’m about to bruise your ego.</p><p>It’s going to hurt a little.</p><p>But it’s for the best, I promise.</p><p>Here goes...</p>'layout: post
+excerpt: '<p>Warning: I’m about to bruise your ego.</p><p>It’s going to hurt a little.</p><p>But it’s for the best, I promise.</p><p>Here goes...</p>'
+layout: post
 permalink: /dont-make-it-about-you-copywriting/
 categories:
   - Writing

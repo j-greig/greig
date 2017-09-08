@@ -2,7 +2,8 @@
 title: On giving yourself permission
 date: 2015-04-26T12:16:56+00:00
 
-excerpt: '<p>Sometimes you have to say ‘fuck it’, and do something just for yourself, no matter what everyone else thinks.</p>'layout: post
+excerpt: '<p>Sometimes you have to say ‘fuck it’, and do something just for yourself, no matter what everyone else thinks.</p>'
+layout: post
 permalink: /on-giving-yourself-permission/
 categories:
   - Uncategorised

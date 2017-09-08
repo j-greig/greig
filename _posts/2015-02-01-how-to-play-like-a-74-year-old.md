@@ -2,7 +2,8 @@
 title: How to play like a 74 year old
 date: 2015-02-01T10:05:42+00:00
 
-excerpt: '<p>Want to age proof your brain and body? Stephen Jepson has a lifestyle recipe which might work for you...</p>'layout: post
+excerpt: '<p>Want to age proof your brain and body? Stephen Jepson has a lifestyle recipe which might work for you...</p>'
+layout: post
 permalink: /how-to-play-like-a-74-year-old/
 structured_content:
   - '{"oembed":[],"overlay":true}'

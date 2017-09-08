@@ -1,18 +1,16 @@
 ---
 title: I never finish anyth
 date: 2014-01-17T08:52:41+00:00
-
-excerpt: "<p>Why it's time to wake up and smell the hard work.</p>"layout: post
+excerpt: "Why it's time to wake up and smell the hard work."
+layout: post
 permalink: /i-never-finish-anyth/
-structured_content:
-  - '{"oembed":[],"overlay":true}'
 categories:
-  - Undesign
-tags:
+  - life
   - popular
 ---
-[caption id="" align="alignnone" width="500.0"]<img src="/media/ineverfinishanyth.jpg" alt="I Never Finish Anything screen print by Brad Rose"/> I Never Finish Anything screen print by Brad Rose[/caption]
-
+<img src="/media/ineverfinishanyth.jpg" alt="I Never Finish Anything screen print by Brad Rose"/>   
+<small>I Never Finish Anything screen print by Brad Rose</small>  
+<br>
 I'll often come up with an idea that I get excited about.
 
 Then I brainstorm a catchy name for it, check the availability of urls and social media accounts, maybe even set up a landing page. It gives me a big rush, and I imagine a dazzlingly bright future ahead for the concept.&nbsp;
@@ -27,15 +25,15 @@ To finish things, you need to fall in love with the part of the process that's h
 
 Maybe that's why it's got another much tougher sounding name: execution.
 
-The human brain is a brilliant idea-generating machine. In the past we had to convert our ideas into solutions just to stay alive: to make sure that we had enough food... or didn't get eaten. But now, in the safety of our comfortable, hygienic, homogenised 21st century lives, it's all too easy to fall asleep on our true potential.</p>
+The human brain is a brilliant idea-generating machine. In the past we had to convert our ideas into solutions just to stay alive: to make sure that we had enough food... or didn't get eaten. But now, in the safety of our comfortable, hygienic, homogenised 21st century lives, it's all too easy to fall asleep on our true potential.
 
 <h2>Wake up and smell the hard work</h2>
 
 Your idea doesn't mean diddly-squat until it's out in the world. And to do that is going to take some hard manual labour.
 
 So to stay on track, you'll need to engage with the execution process as much as the idea itself:
- 
-   <blockquote class="twitter-tweet">Love the necessary hard work. <a href="https://twitter.com/search?q=%23truthbomb&amp;src=hash">#truthbomb</a>
+
+<blockquote class="twitter-tweet">Love the necessary hard work. <a href="https://twitter.com/search?q=%23truthbomb&amp;src=hash">#truthbomb</a>
 
 — Danielle LaPorte (@DanielleLaPorte) <a href="https://twitter.com/DanielleLaPorte/statuses/423862942543904768">January 16, 2014</a></blockquote>
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -50,7 +48,7 @@ You need graft, or grit, or gumption, or whatever you want to call it.
 
 Whether it's by actually blogging on your blog, or starting your startup,&nbsp;<a href="http://blog.samaltman.com/value-is-created-by-doing">value is created by doing</a>.&nbsp;
 
-<blockquote>It’s easier to sit around and talk about building a startup than it is to actually start a startup.&nbsp; And it’s fun to talk about.&nbsp; But over time, the difference between fun and fulfilling becomes clear.&nbsp; Doing things is really hard—it’s why, for example, you can generally tell people what you’re working on without NDAs, and most patents never matter.&nbsp; The value, and the difficulty, comes from execution.<br /><em>Sam Altman</em></p></blockquote>
+<blockquote>It’s easier to sit around and talk about building a startup than it is to actually start a startup.&nbsp; And it’s fun to talk about.&nbsp; But over time, the difference between fun and fulfilling becomes clear.&nbsp; Doing things is really hard—it’s why, for example, you can generally tell people what you’re working on without NDAs, and most patents never matter.&nbsp; The value, and the difficulty, comes from execution.<br /><em>—Sam Altman</em></blockquote>
 
 <h2>Dial down the resolution(s)</h2>
 
@@ -64,18 +62,18 @@ You don't want high resolutions anyhow — you want low resolution.
 
 You want to let go of the fear of fucking up, <a href="http://greig.cc/journal/2013/1/dont-make-it-perfect-just-make-it-now">of it not being perfect</a>, of what other people think, <a href="http://www.marcandangel.com/2013/12/05/9-fears-you-will-regret-never-facing">of things that probably won't ever happen</a>, and just crank that stuff out, baby.
 
-<h2>Instead of trying to finish everything, try to finish one thing.</h2>
+## Instead of trying to finish everything, try to finish one thing.
 
-Today if possible.
+<p>Today if possible. </p>
 
-And then another...
+<p>And then another...</p>  
 
-And another...
+<p>And another...</p>  
 
-And...
+<p>And...</p>  
 
-(I think I just finished this blog post).
+<p>(I think I just finished this blog post).</p>  
 
-What are you going to finish today?
+<p>What are you going to finish today?</p>
 
-PS.&nbsp;<a href="https://news.ycombinator.com/item?id=7075537">Discuss this article on Hacker News</a>&nbsp;— lots of insightful comments to be digested here.
+<p>PS.&nbsp;<a href="https://news.ycombinator.com/item?id=7075537">Discuss this article on Hacker News</a>&nbsp;— lots of insightful comments to be digested here.</p>

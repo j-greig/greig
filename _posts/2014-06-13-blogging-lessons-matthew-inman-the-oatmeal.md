@@ -4,7 +4,8 @@ date: 2014-06-13T17:21:54+00:00
 layout: post
 permalink: /blogging-lessons-matthew-inman-the-oatmeal/
 categories:
-  - Undesign
+  - careers
+  - graphic-design
 ---
 Until a few weeks ago I had no idea that Matthew Inman — the man behind one of the biggest comics on the internet — was once a web designer.&nbsp;
 
@@ -12,8 +13,7 @@ His irreverent, often angry, sense of humour and "I could draw like that if I wa
 
 For an idea of why he quit his old profession take a look at "<a href="http://theoatmeal.com/comics/design_hell">Why a web design goes straight to hell</a>" which offers a few subtle clues about the dissatisfaction he felt with his old trade...
 
-<pre><code>  &lt;img src="" alt=""/&gt;
-</code></pre>
+![](/media/design_hell.png)
 
 He left his web design job to start a dating website called Mingle2, but soon found that <a href="http://mingle2.com/blog/view/beards-cars-cats">the</a> <a href="http://www.biggerbetterbeards.org/">cartoons</a> he was creating to attract traffic were more popular than the site itself:
 
@@ -21,7 +21,7 @@ He left his web design job to start a dating website called Mingle2, but soon fo
 
 All of which makes Matthew a perfect&nbsp;<a href="http://greig.cc/undesign/">unDesign</a>&nbsp;case study — if only he would respond to my emails.
 
-So in the meantime, I've <a href="http://archive.today/1LFkm">scoured</a> <a href="http://mixergy.com/interviews/matthew-inman-oatmeal-interview/">the</a> <a href="http://moz.com/blog/my-departure-from-seomoz">internet</a> <a href="http://www.washingtonpost.com/blogs/comic-riffs/post/the-riffs-interview-12-secrets-of-insanely-viral-oatmeal-creator-matthew-inman/2011/03/11/ABM8JZR_blog.html">for</a>&nbsp;<a href="http://chicagoist.com/2011/03/16/wild_oats_an_interview_with_matthew.php">clues</a>&nbsp;and boiled down my findings into this bite-size list of blogging tips.</p>
+So in the meantime, I've <a href="http://archive.today/1LFkm">scoured</a> <a href="http://mixergy.com/interviews/matthew-inman-oatmeal-interview/">the</a> <a href="http://moz.com/blog/my-departure-from-seomoz">internet</a> <a href="http://www.washingtonpost.com/blogs/comic-riffs/post/the-riffs-interview-12-secrets-of-insanely-viral-oatmeal-creator-matthew-inman/2011/03/11/ABM8JZR_blog.html">for</a>&nbsp;<a href="http://chicagoist.com/2011/03/16/wild_oats_an_interview_with_matthew.php">clues</a>&nbsp;and boiled down my findings into this bite-size list of blogging tips.
 
 <h2>1. Let your ideas for content germinate when they are ready, instead of forcing them</h2>
 

@@ -2,7 +2,8 @@
 title: How to explore a multiverse of alternative careers, without the risk of quitting your job
 date: 2016-06-19T07:03:06+00:00
 
-excerpt: '<p>A thought experiment to transform your career options from hypothetical to practical by taking small, intentional steps.</p>'layout: post
+excerpt: '<p>A thought experiment to transform your career options from hypothetical to practical by taking small, intentional steps.</p>'
+layout: post
 permalink: /careermultiverse/
 categories:
   - Uncategorised

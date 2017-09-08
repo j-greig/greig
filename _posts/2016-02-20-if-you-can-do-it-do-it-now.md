@@ -1,13 +1,10 @@
 ---
 title: If you can do it, do it now
 date: 2016-02-20T13:39:16+00:00
-
-excerpt: '<p>On the dangers of deferring things until the “right” time.</p>'layout: post
+layout: post
 permalink: /if-you-can-do-it-do-it-now/
-structured_content:
-  - '{"oembed":[],"overlay":true}'
 categories:
-  - Uncategorised
+  - life
 ---
 <p>Life is short, but the days are long, and it’s easy to justify putting things off. </p>
 
@@ -28,9 +25,6 @@ categories:
 <p>Instead of waiting for years—or more probably—decades, I can try my idea on for size right now, and at a fraction of the cost.</p>
 
 <p>So that’s what I’m doing this summer (combined with another week of hiking in Scotland).</p>
-  
-      <img src="" alt=""/>
-  
 
 <p>Now that the house is booked, I can’t work out why I didn’t do it sooner. It’s not like there was really anything stopping me. (Apart from my less stable income when I first started freelancing).</p>
 <h2 id="choose-one-thing-you-ve-always-wanted-to-do-">Choose one thing you’ve always wanted to do.</h2>

@@ -2,7 +2,8 @@
 title: What are you working on?
 date: 2016-09-11T09:09:49+00:00
 
-excerpt: '<p>Last time I asked this question, the response from everyone rading this blog was inspiring: &nbsp;you were starting blogs, building apps, planning adventures, and launching brands.</p><p>So I thought it would be fun to repeat the experiment, but with a twist to encourage you to connect with each other..</p>'layout: post
+excerpt: '<p>Last time I asked this question, the response from everyone rading this blog was inspiring: &nbsp;you were starting blogs, building apps, planning adventures, and launching brands.</p><p>So I thought it would be fun to repeat the experiment, but with a twist to encourage you to connect with each other..</p>'
+layout: post
 permalink: /what-are-you-working-on/
 categories:
   - Uncategorised

@@ -2,7 +2,8 @@
 title: Confessions of a serial non-finisher
 date: 2016-10-23T13:47:16+00:00
 
-excerpt: '<p>How can you avoid the wandering path of the procrastinator? Find out how to find your sweet spot when it comes to finishing projects, and why following your passion is unlikely to help.</p>'layout: post
+excerpt: '<p>How can you avoid the wandering path of the procrastinator? Find out how to find your sweet spot when it comes to finishing projects, and why following your passion is unlikely to help.</p>'
+layout: post
 permalink: /confessions-of-a-non-finisher/
 categories:
   - Life

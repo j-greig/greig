@@ -1,11 +1,11 @@
 ---
 title: 'I&#8217;ve been having a staring match with my garden shed'
 date: 2014-09-11T12:25:54+00:00
-
-excerpt: "<p>Every time I've looked out of my bedroom window for the past few weeks, my shed has been there, unblinkingly transmitting a single thought into my mind...</p>"layout: post
+layout: post
 permalink: /staring-match-with-my-garden-shed/
 categories:
-  - Undesign
+  - life
+  - writing
 ---
 <img src="/media/shed.jpg" alt="" width="1000" height="667" class="alignnone size-full wp-image-1951" />
 

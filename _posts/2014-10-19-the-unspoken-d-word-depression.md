@@ -2,7 +2,8 @@
 title: The unspoken D word that eats you from the inside.
 date: 2014-10-19T10:01:47+00:00
 
-excerpt: "<p>What happened the day that I realised I couldn't go to work any more.</p>"layout: post
+excerpt: "<p>What happened the day that I realised I couldn't go to work any more.</p>"
+layout: post
 permalink: /the-unspoken-d-word-depression/
 categories:
   - Popular

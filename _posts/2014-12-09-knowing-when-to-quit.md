@@ -2,7 +2,8 @@
 title: Knowing when to quit
 date: 2014-12-09T09:37:35+00:00
 
-excerpt: "<p>Three clues that it might be time to move onto something new (and why quitting doesn't make you a quitter).</p>"layout: post
+excerpt: "<p>Three clues that it might be time to move onto something new (and why quitting doesn't make you a quitter).</p>"
+layout: post
 permalink: /knowing-when-to-quit/
 categories:
   - Uncategorised

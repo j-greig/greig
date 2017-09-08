@@ -1,15 +1,12 @@
 ---
 title: Hate being a graphic designer? Don’t. Your job is an escape route, not a trap.
 date: 2014-09-14T12:00:37+00:00
-
-excerpt: '<p>Your work is never a trap, unless you see it as one.</p>'layout: post
+layout: post
 permalink: /hate-being-a-graphic-designer/
 categories:
-  - Freelancing
-  - Popular
-  - Undesign
-tags:
+  - freelancing
   - popular
+  - careers
 ---
 Maybe you’ve been doing your design job so long that you can’t remember why you got into the profession in the first place.
 
@@ -37,7 +34,7 @@ It’s healthy to switch up your environment every three years or so. (I know, h
 **Switch to a 4 day work week**  
 If you’ve been working at the same company for a few years, you’re in a _much_ stronger position than you realise. The world of work has become less rigid. More and more people are part-time, flexi-time, or job-sharing. I’ve had multiple offers of part-time graphic design jobs over the past three months so trust me, this isn’t a pie in the sky concept. It's easier than you think...
 
-[Ask your employer if you can work four days a week instead of five.]()(http://unicornfree.com/2014/guest-post-how-30x500-alum-chris-hartjes-bootstraps-on-the-side)
+[Ask your employer if you can work four days a week instead of five.](http://unicornfree.com/2014/guest-post-how-30x500-alum-chris-hartjes-bootstraps-on-the-side)
 
 (At the same salary if possible, so that you’re also getting a pay rise).
 
@@ -46,11 +43,11 @@ The worst they can say is no. But they probably won’t, because you’re the be
 **Go freelance**  
 Being a freelance graphic designer can be great. You’ll get to choose when and where you work, and enjoy more flexible hours and higher pay.
 
-[Read my freelance graphic designer’s survival guide]()(http://greig.cc/journal/2013/9/a-freelance-graphic-designers-survival-guide), which pulls together everything I learnt during my first year freelancing in London. Yes, there were a couple of times when I wasn’t sure how I was going to pay my rent, but I was never homeless, and I never went to sleep with an empty stomach.
+[Read my freelance graphic designer’s survival guide](http://greig.cc/journal/2013/9/a-freelance-graphic-designers-survival-guide), which pulls together everything I learnt during my first year freelancing in London. Yes, there were a couple of times when I wasn’t sure how I was going to pay my rent, but I was never homeless, and I never went to sleep with an empty stomach.
 
 It will feel like a roller-coaster to begin with, but once you’ve learnt how to enjoy the ride, you won’t ever want a full-time job again.
 
-**More recently, I’ve realised another benefit of freelancing: it’s great practice for being an entrepreneur.** You can starting building your professional network (and your confidence). You can start taking responsibility for financial decisions. And you can do all of this [without the risk of committing 100% to a startup that will most likely place huge strains on your finances... and mental health]()(https://medium.com/everything-about-startups-and-entrepreneurship/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318).
+**More recently, I’ve realised another benefit of freelancing: it’s great practice for being an entrepreneur.** You can starting building your professional network (and your confidence). You can start taking responsibility for financial decisions. And you can do all of this [without the risk of committing 100% to a startup that will most likely place huge strains on your finances... and mental health](https://medium.com/everything-about-startups-and-entrepreneurship/how-quitting-my-corporate-job-for-my-startup-dream-f-cked-my-life-up-3b6b3e29b318).
 
 In short — you’ll learn things about yourself that you couldn’t whilst working for someone else.
 
@@ -64,7 +61,7 @@ I think it’s better to start small.
 
 Use your freelance work — or your current job renegotiated on a 4-day-a-week basis— as a financial pillar, and your new-found spare time to run experiments.
 
-Start a blog ([CycleLove]()(http://cyclelove.cc/) has been an amazing networking tool for me). Test out business ideas. Build a tiny product. Organise a meetup group or hold a free event. Play around with some ideas and see what happens.
+Start a blog ([CycleLove](http://cyclelove.cc/) has been an amazing networking tool for me). Test out business ideas. Build a tiny product. Organise a meetup group or hold a free event. Play around with some ideas and see what happens.
 
 Not only will it be fun, you’ll be able to work without constraints. No-one will be watching you, so there’s no pressure to deliver anything. Your confidence and skill-set will grow exponentially.
 
@@ -78,7 +75,7 @@ But your company name isn’t that important in the grand scheme of things.
 **Don’t start with a product idea.**  
 Lots of designers seem to think that selling t-shirts online is a good way to make money.
 
-Whilst designing and then selling a few t-shirts is fun, scaling this up into a life-sustaining business is another matter entirely. Of course there are brands which have pulled it off — [Howies]()(http://www.awin1.com/awclick.php?mid=3167&id=143383) and [Ugmonk]()(http://shop.ugmonk.com/) spring to mind as inspirational examples — but for every success story there are ten failed business that never made it off the runway. (Yup. [Been there, done that]()(http://www.cyclelove.cc/2012/08/cyclelove-t-shirts-now-available-for-uk-pre-order/). Didn’t make any money).
+Whilst designing and then selling a few t-shirts is fun, scaling this up into a life-sustaining business is another matter entirely. Of course there are brands which have pulled it off — [Howies](http://www.awin1.com/awclick.php?mid=3167&id=143383) and [Ugmonk](http://shop.ugmonk.com/) spring to mind as inspirational examples — but for every success story there are ten failed business that never made it off the runway. (Yup. [Been there, done that](http://www.cyclelove.cc/2012/08/cyclelove-t-shirts-now-available-for-uk-pre-order/). Didn’t make any money).
 
 Designing a product... and then trying to work out who it's for... is doing things back to front.
 
@@ -86,12 +83,11 @@ Designing a product... and then trying to work out who it's for... is doing thin
 Whilst your products will change over time, your company’s core values won’t:
 
 _"People don’t buy what you do, they buy why you do it"_  
-[Simon Senek: Start with why]()(http://www.amazon.co.uk/dp/0241958229?tag=greig-21)
+[Simon Senek: Start with why](http://www.amazon.co.uk/dp/0241958229?tag=greig-21)
 
 Ask yourself these two questions, which are really one and the same:
 
 *   Why (other than making money) does your company exist?
-
 *   Why (other than making money) do you get out of bed in the morning?
 
 If you get stuck, think about companies that you admire. Read their mission statements. Figure out what makes their founders tick.
@@ -101,14 +97,12 @@ Whatever you do, don’t switch back to your product ideas just yet. Seriously.
 You need to keep asking yourself questions. And your brand needs to have a personality, not just a name and a logo:
 
 *   What are your principles? What do you believe in?
-
 *   How will the world be a better place if you succeed?
-
 *   What do you want to be remembered for? (And what _don’t_ you want to be known for?)
-
 *   How will you make your customer’s lives better?
 
-* * * 
+----
+
 Whether you want to change your job, or go freelance, or start your own company, remember this...
 
 Your work is never a trap, unless you see it as one.
@@ -118,4 +112,3 @@ Nothing is really holding you back, and no job has to be forever.
 Celebrate your new-found awareness of what you want from life, and begin making changes to get where you want to be.
 
 How are you going to start?
-

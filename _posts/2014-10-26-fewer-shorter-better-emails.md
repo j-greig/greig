@@ -2,7 +2,8 @@
 title: Fewer, shorter, better emails.
 date: 2014-10-26T13:01:27+00:00
 
-excerpt: "<p>How to write more effective business emails. (And respect your reader's time).</p>"layout: post
+excerpt: "<p>How to write more effective business emails. (And respect your reader's time).</p>"
+layout: post
 permalink: /fewer-shorter-better-emails/
 categories:
   - Writing

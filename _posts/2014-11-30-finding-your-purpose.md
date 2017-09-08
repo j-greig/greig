@@ -2,7 +2,8 @@
 title: Why, the three letter word that could change your life
 date: 2014-11-30T12:32:47+00:00
 
-excerpt: '<p><span>Feeling a little lost, lacking in direction, or unsure of what to do next with your career? Here are some ideas for finding your purpose.</span></p>'layout: post
+excerpt: '<p><span>Feeling a little lost, lacking in direction, or unsure of what to do next with your career? Here are some ideas for finding your purpose.</span></p>'
+layout: post
 permalink: /finding-your-purpose/
 categories:
   - Popular

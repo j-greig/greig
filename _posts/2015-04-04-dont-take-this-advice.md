@@ -2,7 +2,8 @@
 title: 'Don&#8217;t take this advice'
 date: 2015-04-04T10:29:25+00:00
 
-excerpt: '<p><span style="font-size:16px">Let’s imagine that an alien of the small, friendly variety was to crash-land on earth, and somehow end up in my bedroom, as aliens often do in 80s movies...</span></p>'layout: post
+excerpt: '<p><span style="font-size:16px">Let’s imagine that an alien of the small, friendly variety was to crash-land on earth, and somehow end up in my bedroom, as aliens often do in 80s movies...</span></p>'
+layout: post
 permalink: /dont-take-this-advice/
 categories:
   - Uncategorised

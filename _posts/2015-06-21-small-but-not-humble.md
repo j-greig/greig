@@ -2,7 +2,8 @@
 title: Small but not humble
 date: 2015-06-21T14:13:58+00:00
 
-excerpt: '<p>What is the future of work in a world where everyone is self-employed? And is it ok not to have all the answers yet?</p>'layout: post
+excerpt: '<p>What is the future of work in a world where everyone is self-employed? And is it ok not to have all the answers yet?</p>'
+layout: post
 permalink: /small-but-not-humble/
 categories:
   - Freelancing

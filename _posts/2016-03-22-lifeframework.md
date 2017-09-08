@@ -1,8 +1,8 @@
 ---
 title: A rough framework for figuring out what the hell to do with you life
 date: 2016-03-22T13:21:47+00:00
-
-excerpt: "<p>What do you want from life? What's good for you in the long run? Are you helping other people, or just yourself? Big questions which can help you find your way in the new world of work.</p>"layout: post
+excerpt: "<p>What do you want from life? What's good for you in the long run? Are you helping other people, or just yourself? Big questions which can help you find your way in the new world of work.</p>"
+layout: post
 permalink: /lifeframework/
 categories:
   - Graphic Design

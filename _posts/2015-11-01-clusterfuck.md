@@ -2,7 +2,8 @@
 title: How to untangle a guilty procrastination clusterfuck
 date: 2015-11-01T11:00:20+00:00
 
-excerpt: '<p>Been beating yourself up about not doing something? Here are four things to help you get unstuck.</p>'layout: post
+excerpt: '<p>Been beating yourself up about not doing something? Here are four things to help you get unstuck.</p>'
+layout: post
 permalink: /clusterfuck/
 categories:
   - Uncategorised

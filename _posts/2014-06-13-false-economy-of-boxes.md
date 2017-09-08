@@ -4,7 +4,7 @@ date: 2014-06-13T10:09:25+00:00
 layout: post
 permalink: /false-economy-of-boxes/
 categories:
-  - Life
+  - life
 ---
 <img src="/media/false-economy-of-boxes.jpg" alt="" width="1000" height="666" class="alignnone size-full wp-image-1957" />
 
@@ -24,15 +24,13 @@ But humans don't respond well to harsh geometry. <a href="http://www.fastcodesig
 
 <figcaption class="source">&mdash; Philip Johnson</figcaption>
 
-</figure>
-
 One of the designers who I share my studio space always eats at his desk. We've been working together for over a year now and he still hasn't had lunch in the park with me. &nbsp;(And I'm sure that I'm not&nbsp;<em>that</em>&nbsp;bad company...)&nbsp;He says he "doesn't have time" but it's less than five minutes walk away.
 
 I don't always make time for lunch either, but I know that on the days when I do leave my desk to eat, I'm more productive when I get back.
 
 When I sit with food beside me at my computer and try to multi-task, I actually get less done. If you've ever tried to eat an apple whilst using a mouse and keyboard, you'll know how farcical the situation can become).
 
-## When you stay inside the safety of your box, it's a false economy. 
+## When you stay inside the safety of your box, it's a false economy.
 
 Everything is to hand.
 

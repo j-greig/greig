@@ -2,7 +2,8 @@
 title: '15 things you probably don&#8217;t know about me yet'
 date: 2014-11-16T11:51:52+00:00
 
-excerpt: '<p style="margin-left:0px; margin-right:0px">This article has been sitting in my drafts folder for months with just three words written:</p><p>“SPILL GUTS HERE”.</p><p>But I couldn’t find the guts to spill my guts, until now.&nbsp;</p>'layout: post
+excerpt: '<p style="margin-left:0px; margin-right:0px">This article has been sitting in my drafts folder for months with just three words written:</p><p>“SPILL GUTS HERE”.</p><p>But I couldn’t find the guts to spill my guts, until now.&nbsp;</p>'
+layout: post
 permalink: /opening-up/
 structured_content:
   - '{"oembed":[],"overlay":true}'

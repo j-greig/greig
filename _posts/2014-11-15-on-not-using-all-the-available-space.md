@@ -2,7 +2,8 @@
 title: On not using all the available space
 date: 2014-11-15T16:20:43+00:00
 
-excerpt: "<p><span>Everyone knows that packing light makes travel easier,&nbsp;but we've all been that person lugging a suitcase full of never-needed things around a foreign city. What could you offload to lighten the load?</span></p>"layout: post
+excerpt: "<p><span>Everyone knows that packing light makes travel easier,&nbsp;but we've all been that person lugging a suitcase full of never-needed things around a foreign city. What could you offload to lighten the load?</span></p>"
+layout: post
 permalink: /on-not-using-all-the-available-space/
 categories:
   - Life

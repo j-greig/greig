@@ -2,7 +2,8 @@
 title: 'The art of the uncomfortable: how to hack your habits by running short experiments'
 date: 2014-11-02T10:09:23+00:00
 
-excerpt: "<p>Some of the biggest gains I've made since quitting my job have come from pushing myself into corners, into doing things I'm not sure I can handle, or just plain don't want to do.</p>"layout: post
+excerpt: "<p>Some of the biggest gains I've made since quitting my job have come from pushing myself into corners, into doing things I'm not sure I can handle, or just plain don't want to do.</p>"
+layout: post
 permalink: /the-art-of-the-uncomfortable/
 categories:
   - Uncategorised

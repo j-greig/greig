@@ -2,7 +2,8 @@
 title: 'Let&#8217;s talk about creative burnout'
 date: 2016-05-29T17:27:25+00:00
 
-excerpt: '<p>How has creative burnout has affected you, and how have you coped with it?&nbsp;</p>'layout: post
+excerpt: '<p>How has creative burnout has affected you, and how have you coped with it?&nbsp;</p>'
+layout: post
 permalink: /lets-talk-about-creative-burnout/
 categories:
   - Uncategorised

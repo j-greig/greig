@@ -4,7 +4,7 @@ date: 2014-01-13T07:53:46+00:00
 layout: post
 permalink: /start-small/
 categories:
-  - Uncategorised
+  - life
 ---
 <img src="/media/first_ford_factory.jpg" alt="" width="800" height="453" class="alignnone size-full wp-image-1970" />
 

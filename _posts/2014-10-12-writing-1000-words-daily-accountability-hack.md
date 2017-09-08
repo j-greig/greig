@@ -2,7 +2,8 @@
 title: The accountability hacks I used to blog 30,000 words in 30 days, and what it taught me about writing
 date: 2014-10-12T09:46:18+00:00
 
-excerpt: '<p><span style="font-size:15px">If Aristotle was on point and "We are what we repeatedly do", then to be a writer all you need to do is write. It sounds easy, right?</span></p>'layout: post
+excerpt: '<p><span style="font-size:15px">If Aristotle was on point and "We are what we repeatedly do", then to be a writer all you need to do is write. It sounds easy, right?</span></p>'
+layout: post
 permalink: /writing-1000-words-daily-accountability-hack/
 categories:
   - Uncategorised

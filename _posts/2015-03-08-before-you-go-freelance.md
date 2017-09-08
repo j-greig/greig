@@ -2,7 +2,8 @@
 title: 'What I wish I&#8217;d known 3 years ago about becoming a freelance designer'
 date: 2015-03-08T14:57:38+00:00
 
-excerpt: '<p>And why freelancing could be the best way to take back control of your life, and your creativity.</p>'layout: post
+excerpt: '<p>And why freelancing could be the best way to take back control of your life, and your creativity.</p>'
+layout: post
 permalink: /before-you-go-freelance/
 categories:
   - Freelancing

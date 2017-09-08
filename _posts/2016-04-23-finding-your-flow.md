@@ -2,7 +2,8 @@
 title: Finding your flow
 date: 2016-04-23T13:22:03+00:00
 
-excerpt: '<p>When’s the last time you were so engrossed by something that hours passed by without you realising it?&nbsp;</p>'layout: post
+excerpt: '<p>When’s the last time you were so engrossed by something that hours passed by without you realising it?&nbsp;</p>'
+layout: post
 permalink: /finding-your-flow/
 categories:
   - Life

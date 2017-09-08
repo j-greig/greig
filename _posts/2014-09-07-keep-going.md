@@ -1,18 +1,17 @@
 ---
 title: Keep going.
 date: 2014-09-07T14:11:40+00:00
-
-excerpt: |
-  <p><span style="font-size:15px">Humans don't come with an instruction manual, and our lives don't come with a map. How then can we find our way in life?</span></p>layout: post
+excerpt: Humans don't come with an instruction manual, and our lives don't come with a map. How then can we find our way in life?
+layout: post
 permalink: /keep-going/
 categories:
-  - Life
+  - life
 ---
 <img src="/media/keep-going.jpg" alt="" width="1000" height="786" class="alignnone size-full wp-image-1953" />
 
-The photo above <a data-cke-saved-href="http://instagram.com/p/sdID9WJ2v8/?modal=true" href="http://instagram.com/p/sdID9WJ2v8/?modal=true">was taken</a> in Devon last weekend.
+The photo above was taken in Devon last weekend.
 
-I was staying <a data-cke-saved-href="http://www.canopyandstars.co.uk/britain/england/somerset/streamcombe-farm/streamcombe-farm-shepherd-s-hut" href="http://www.canopyandstars.co.uk/britain/england/somerset/streamcombe-farm/streamcombe-farm-shepherd-s-hut">in a tiny shepherd's hut</a> on a farm in Exmoor, nestled deep in a valley with no phone reception or internet.
+I was staying <a href="http://www.canopyandstars.co.uk/britain/england/somerset/streamcombe-farm/streamcombe-farm-shepherd-s-hut">in a tiny shepherd's hut</a> on a farm in Exmoor, nestled deep in a valley with no phone reception or internet.
 
 (Being off grid was great of course, and since getting back I've taken steps to curb my social media addiction: starting with the deletion of the Facebook and Twitter apps from all my devices).
 
