@@ -1,14 +1,9 @@
 ---
-id: 20
 title: Thanks for subscribing!
 date: 2016-05-18T21:20:44+00:00
-
 layout: page
-guid: http://greig.cc/thanks-for-subscribing/
-subtitle:
-  - ""
-start_page_with_subtitle:
-  - 'No'
+permalink: /thanks-for-subscribing/
+
 ---
 I'll be writing to you every Sunday.
 

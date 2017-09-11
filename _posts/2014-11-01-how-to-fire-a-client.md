@@ -4,7 +4,7 @@ date: 2014-11-01T10:11:39+00:00
 layout: post
 permalink: /how-to-fire-a-client/
 categories:
-  - Graphic Design
+  - graphic-design
 ---
 When a normal relationship goes sour, you start to feel guilt and resentment. And often you leave it too long before taking action for fear of hurting the other person.
 
@@ -14,7 +14,7 @@ Client relationship work exactly the same way.
 
 So I think James' advice in this video on firing clients is spot on.
 
-You have to respect your client by being honest, and trust that it will lead to better things.</p>
+You have to respect your client by being honest, and trust that it will lead to better things.
 
 <iframe scrolling="no" allowfullscreen="" src="//www.youtube.com/embed/FD52FgjdrpE?wmode=opaque&amp;enablejsapi=1" width="854" frameborder="0" height="480">
 </iframe>

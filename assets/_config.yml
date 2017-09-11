@@ -22,7 +22,7 @@ theme: greig
 exclude:
   - Gemfile
   - Gemfile.lock
-paginate: 10
+paginate: 20
 
 # Added by James
 gems: ['jekyll-twitter-plugin']

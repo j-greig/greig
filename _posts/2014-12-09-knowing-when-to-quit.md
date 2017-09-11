@@ -1,12 +1,12 @@
 ---
 title: Knowing when to quit
 date: 2014-12-09T09:37:35+00:00
-
-excerpt: "<p>Three clues that it might be time to move onto something new (and why quitting doesn't make you a quitter).</p>"
+excerpt: "Three clues that it might be time to move onto something new (and why quitting doesn't make you a quitter)."
 layout: post
 permalink: /knowing-when-to-quit/
 categories:
-  - Uncategorised
+  - life
+  - careers
 ---
 <p>I'm writing this on a train that's headed north to Glasgow, the city where I spent my student days and then worked as a designer for five years before moving to London.</p>
 

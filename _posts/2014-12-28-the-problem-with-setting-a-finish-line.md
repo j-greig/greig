@@ -1,12 +1,11 @@
 ---
 title: Playing golf on the moon (and the problem with setting a finish line)
 date: 2014-12-28T14:19:31+00:00
-
-excerpt: '<p>Why goals can make you unhappy, and what you should focus on instead.</p>'
+excerpt: 'Why goals can make you unhappy, and what you should focus on instead.'
 layout: post
 permalink: /the-problem-with-setting-a-finish-line/
 categories:
-  - Life
+  - life
 ---
 America wanted to be the first country to put men on the moon, so they pumped billions of dollars into NASA to get there before the USSR.
 

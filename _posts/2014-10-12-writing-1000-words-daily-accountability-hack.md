@@ -1,20 +1,13 @@
 ---
 title: The accountability hacks I used to blog 30,000 words in 30 days, and what it taught me about writing
 date: 2014-10-12T09:46:18+00:00
-
-excerpt: '<p><span style="font-size:15px">If Aristotle was on point and "We are what we repeatedly do", then to be a writer all you need to do is write. It sounds easy, right?</span></p>'
 layout: post
 permalink: /writing-1000-words-daily-accountability-hack/
 categories:
-  - Uncategorised
-tags:
+  - writing
   - popular
 ---
- 
-
- 
-
-<strong><span><span>If Aristotle was on point and "We are what we repeatedly do", then to be a writer all you need to do is write.</span></span></strong>
+ <strong>If Aristotle was on point and "We are what we repeatedly do", then to be a writer all you need to do is write.</strong>
 
 <strong>It sounds easy.</strong>
 
@@ -26,36 +19,37 @@ Perhaps it's because for many of us, the last time we did any kind of creative w
 
 Perhaps it's because, with your fingers poised over the keyboard or curled around a pen, you still have to find something to say that is worth saying.
 
-The technology may have changed, but things haven’t gotten any easier since Ernest Hemingway’s day:</p>
+The technology may have changed, but things haven’t gotten any easier since Ernest Hemingway’s day:
 
-<p style="margin-left:36pt"><span><em>There is nothing to writing. All you do is sit down at a typewriter and bleed.</em></span>
+<blockquote>There is nothing to writing. All you do is sit down at a typewriter and bleed.</blockquote>
 
 Yup. Writing is damn hard work.
 
-So I think it's better to start with your motivations for wanting to write, rather than with your excuses for not doing it.</p>
+So I think it's better to start with your motivations for wanting to write, rather than with your excuses for not doing it.
 
 <h2>Why write in the first place?</h2>
 
 Writing for an audience makes you smarter. Or in other words,&nbsp;<a href="http://www.wired.com/2013/09/how-successful-networks-nurture-good-ideas-2/all/">sharing your thinking with other people improves it</a>:
 
-<p style="margin-left:36pt"><span><em>I’d argue that the cognitive shift in going from an audience of zero (talking to yourself) to an audience of 10 (a few friends or random strangers checking out your online post) is so big that it’s actually huger than going from 10 people to a million.</em></span>
+<blockquote>I’d argue that the cognitive shift in going from an audience of zero (talking to yourself) to an audience of 10 (a few friends or random strangers checking out your online post) is so big that it’s actually huger than going from 10 people to a million.</blockquote>
 
+<br>  
 So now I like to think of writing as thinking in public.
 
 As well as helping you crystallise your thoughts, writing can help you to make peace with something that happened in the past. Anything that's made you distraught, angry or joyously happy will make for a great story. And the best thing is that sharing these experiences (<a href="http://greig.cc/your-mind-is-a-jail-built-out-of-bullshit">as honestly as possible</a>) will bring people closer to you. &nbsp;
 
-<span><span>Writing also gives you authority. Writers become authors or speakers, the experts in their field, and the go to source for the latest thinking on their topic.</span></span></p>
+Writing also gives you authority. Writers become authors or speakers, the experts in their field, and the go to source for the latest thinking on their topic.
 
 <h2>If other people are doing it, why can’t you?</h2>
 
 My desire to write regularly was first ignited by the output of some seemingly-unstoppable bloggers I follow, who are pumping out hundreds of words on a daily basis.
 
-<p style="margin-left:36pt"><span><em>The 1,000 words standard is that I commit to write at least 1,000 words a day of something. I don’t necessarily think all 1,000 words are good enough for publication; in this case, the discipline is more important to me than whatever the final deliverable is.</em></span><br /><a href="http://chrisguillebeau.com/3x5/how-to-write-300000-words-in-1-year/">Chris Guillebeau</a></p>
-
-<p style="margin-left:36pt"><span><em>I write at least 500 words a day, every day, no exceptions. I've done this for at least a year. I do it especially when I don't want to or don't feel inspired. Why? Because I want to increase my odds of writing something good. Some days what I write is utter garbage, and that's okay, because that's not the point. But unless I show up to work at what I do as often as possible, there's no hope that inspiration will show up as well. And some days, when I think I'm horribly uninspired, my best work flows out.</em><br /><a href="#"><span>Paul Jarvis</span></a></span></p>
-
-<p style="margin-left:36pt">I made a commitment that changed my career: A simple task, completed every day, that skyrocketed my blog and allowed me to make over $30,000 in 6 weeks. Ready? Here is the exact commitment I made: “I will write 1,000 words every day.<br /><a href="http://nathanbarry.com/commitment-changed-career/">Nathan Barry</a>
-
+<blockquote>The 1,000 words standard is that I commit to write at least 1,000 words a day of something. I don’t necessarily think all 1,000 words are good enough for publication; in this case, the discipline is more important to me than whatever the final deliverable is.<br><a href="http://chrisguillebeau.com/3x5/how-to-write-300000-words-in-1-year/">Chris Guillebeau</a></blockquote>
+<br>
+<blockquote>I write at least 500 words a day, every day, no exceptions. I've done this for at least a year. I do it especially when I don't want to or don't feel inspired. Why? Because I want to increase my odds of writing something good. Some days what I write is utter garbage, and that's okay, because that's not the point. But unless I show up to work at what I do as often as possible, there's no hope that inspiration will show up as well. And some days, when I think I'm horribly uninspired, my best work flows out.><br />Paul Jarvis</blockquote>
+<br>
+<blockquote>I made a commitment that changed my career: A simple task, completed every day, that skyrocketed my blog and allowed me to make over $30,000 in 6 weeks. Ready? Here is the exact commitment I made: “I will write 1,000 words every day.<br /><a href="http://nathanbarry.com/commitment-changed-career/">Nathan Barry</a></blockquote>
+<br>
 But even after reading these inspiring stories about writing, I wasn’t doing it myself.
 
 The blank slate is such a daunting prospect that many people never make a start.
@@ -90,19 +84,32 @@ And boy did it feel good to see the words and the articles stacking up on my blo
 
 <h2>What I learned during my writing experiment</h2>
 
-<ol><li><span><span>You have more to write about than you think. But you won’t find out what it is until you start. </span></span></p></li><li><p><span><span>Writing standing up increases focus. (And you don’t necessarily need an expensive standing desk, putting your laptop on a stool on top of your desk works too)</span></span></p></li><li><p><span><span>Try to write at the same time every day. I like to do it first thing, and before breakfast, when I can. No words, no breakfast! </span></span></p></li><li><p><span><span>Do your research before you start writing — this prevents you being distracted by the internet when you start googling for quotes or facts whilst writing.</span></span></p></li><li><p><span><span>On which note: if you can’t write for 30 minutes about something without referring to external sources, you might not be ready to write about it yet.</span></span></p></li><li><p><span><span>Write even when you don’t feel like it. (If you run a 30 day experiment, you’re going to have to do this). </span><a href="http://greig.cc/creativity-is-a-habit-not-a-feeling"><span>Creativity is a habit, not a feeling</span></a><span>.</span></span></p></li><li><p><span><span>Be an ideas magpie. Collect links, quotes, snippets of articles. Save them </span><a href="https://medium.com/the-writers-room/8d6e7df7ae58"><span>in a spark file</span></a><span> for future reference. (I use a single Google doc for this).</span></span></p></li><li><p><span><span>Read as much as you can, non-fiction especially. You don’t want to be reading what everyone else is on Medium or Hacker News. Good writing is timeless so don’t be afraid to reach for older books. (</span><a href="http://www.amazon.co.uk/dp/0141183063?tag=greig-21"><span>The collected essays of George Orwell</span></a><span>, for example).</span></span></p></li></ol>
+1. You have more to write about than you think. But you won't find out what it is until you start.
+2. Writing standing up increases focus. (And you don't necessarily need an expensive standing desk, putting your laptop on a stool on top of your desk works too)
 
-<p>And it turned out that my writing was helping people other than just myself...
+3. Try to write at the same time every day. I like to do it first thing, and before breakfast, when I can. No words, no breakfast!
 
-<h2><span>Unexpected benefits of writing daily</span></h2>
+4. Do your research before you start writing -- this prevents you being distracted by the internet when you start googling for quotes or facts whilst writing.
 
-<ol><li><span><span>Several of my design-related posts were featured on </span><a href="http://heydesigner.com/"><span>Heydesigner</span></a><span> and retweeted to their 20,000+ of Twitter followers.</span></span></p></li><li><p><span><span>Before I started, I didn’t think I had much to say about design. But it seems I was wrong. (Several of Adobe’s Twitter accounts also </span><a href="https://twitter.com/AdobeCCDesign/status/385171548211924992"><span>tweeted</span></a><span> </span><a href="https://twitter.com/AdobeMuse/status/385479597862555648"><span>about</span></a><span> my articles.)</span></span></p></li><li><p><span><span>Google started to like my site, and I jumped to the first spot for “James Greig”, above </span><a href="http://www.jameo.co.uk/"><span>another James Greig</span></a><span> (who confusingly also lives in London, is crazy about bikes and works as a designer).</span></span></p></li><li><p><span><span>One of my favourite brands, </span><a href="http://hiutdenim.co.uk/"><span>Hiut Denim</span></a><span>, featured an article of mine in their newsletter</span></span></p></li><li><p><span><span>Organic search traffic landing on my site went up massively. And continues to rise steadily so long as I keep writing.</span></span></p></li><li><p><span><span>A leading design blog approached me to request guest articles — the first time this has happened to me. (Note to self: time to write that guest article).</span></span></p></li></ol>
+5. On which note: if you can't write for 30 minutes about something without referring to external sources, you might not be ready to write about it yet.
+
+6. Write even when you don't feel like it. (If you run a 30 day experiment, you're going to have to do this). [Creativity is a habit, not a feeling](http://greig.cc/creativity-is-a-habit-not-a-feeling)
+
+7. Be an ideas magpie. Collect links, quotes, snippets of articles. Save them [in a spark file](https://medium.com/the-writers-room/8d6e7df7ae58) for future reference. (I use a single Google doc for this).
+
+8. Read as much as you can, non-fiction especially. You don't want to be reading what everyone else is on Medium or Hacker News. Good writing is timeless so don't be afraid to reach for older books. [The collected essays of George Orwell](http://www.amazon.co.uk/dp/0141183063?tag=greig-21), for example).
+
+<p>And it turned out that my writing was helping people other than just myself...</p>
+
+<h2>Unexpected benefits of writing daily</h2>
+
+<ol><li>Several of my design-related posts were featured on <a href="http://heydesigner.com/">Heydesigner</a> and retweeted to their 20,000+ of Twitter followers.</p></li><li><p>Before I started, I didn’t think I had much to say about design. But it seems I was wrong. (Several of Adobe’s Twitter accounts also <a href="https://twitter.com/AdobeCCDesign/status/385171548211924992">tweeted</a> <a href="https://twitter.com/AdobeMuse/status/385479597862555648">about</a> my articles.)</p></li><li><p>Google started to like my site, and I jumped to the first spot for “James Greig”, above <a href="http://www.jameo.co.uk/">another James Greig</a> (who confusingly also lives in London, is crazy about bikes and works as a designer).</p></li><li><p>One of my favourite brands, <a href="http://hiutdenim.co.uk/">Hiut Denim</a>, featured an article of mine in their newsletter</p></li><li><p>Organic search traffic landing on my site went up massively. And continues to rise steadily so long as I keep writing.</p></li><li><p>A leading design blog approached me to request guest articles — the first time this has happened to me. (Note to self: time to write that guest article).</p></li></ol>
 
 <h2>Still think you don’t have time to write 1000 words day?</h2>
 
-<p><span><span>A week into my 30 days of writing I landed a freelance gig which meant I was working fulltime for the rest of my experiment. </span></span>
+<p>A week into my 30 days of writing I landed a freelance gig which meant I was working fulltime for the rest of my experiment.
 
-<span><span>(I had figured I would ease off on my design work to do more writing, but this wasn’t to be the case).</span></span>
+(I had figured I would ease off on my design work to do more writing, but this wasn’t to be the case).
 
 It was tough, but I still managed to write my 1,000 words on 28 out of 30 days.
 
@@ -112,19 +119,10 @@ And I’m sure that my chosen charity (<a href="http://www.re-cycle.org/">Re-Cyc
 
 <h2>My 30 days of writing in numbers</h2>
 
-<span><span>Here’s my final word count for each day:</span></span>
-  
-      <img src="" alt=""/>
-  
+<ul><li>Blog articles posted: <a href="http://greig.cc/?tag=30dowxteyk">28</a></li><li>Total words written: 32,205 (Almost enough to fill a short book)</li><li>Average words/day: 1074</li><li>Most popular article: <a href="http://greig.cc/how-to-get-your-first-genuine-thousand-followers-on-instagram">How to get your first (genuine) 1,000 articles on Instagram</a> (40,000+ views in 12 months)</li></ul>If you’re still not convinced, I’m going to leave you with quote from someone who knows what's what when it comes to writing, novelist Haruki Murakami.
 
-<ul><li>Blog articles posted: <a href="http://greig.cc/?tag=30dowxteyk">28</a></li><li><span><span>Total words written: 32,205 (Almost enough to fill a short book)</span></span></li><li><span><span>Average words/day: 1074</span></span></li><li><span><span>Most popular article: </span><a href="http://greig.cc/how-to-get-your-first-genuine-thousand-followers-on-instagram"><span>How to get your first (genuine) 1,000 articles on Instagram</span></a><span> (40,000+ views in 12 months)</span></span></li></ul><span>If you’re still not convinced, I’m going to leave you with quote from someone who knows what's what when it comes to writing, novelist Haruki Murakami.</span>
+Here are his thoughts on daily routine and the importance of repetition:
 
-<span><span>Here are his thoughts on daily routine and the importance of repetition:</span></span>
-
-<blockquote><em><span>When I’m in writing mode for a novel, I get up at 4:00 am and work for five to six hours. In the afternoon, I run for 10km or swim for 1500m (or do both), then I read a bit and listen to some music. I go to bed at 9:00 pm. I keep to this routine every day without variation. The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.</span></em></blockquote>
+<blockquote><em>When I’m in writing mode for a novel, I get up at 4:00 am and work for five to six hours. In the afternoon, I run for 10km or swim for 1500m (or do both), then I read a bit and listen to some music. I go to bed at 9:00 pm. I keep to this routine every day without variation. The repetition itself becomes the important thing; it’s a form of mesmerism. I mesmerize myself to reach a deeper state of mind.</em></blockquote>
 
 <strong>Stop talking about writing, and go write!</strong>
-
-<hr />
-
-<em><strong>Get my free companion guide "How to write every day for a month"&nbsp;</strong>It's packed with extra tips on working out what to write about, and a handy spreadsheet template you can use to track your word count as you go.</em>

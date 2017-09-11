@@ -1,14 +1,11 @@
 ---
 title: The freakonomy needs you
 date: 2014-12-21T11:39:12+00:00
-
-excerpt: '<p style="margin-left:0px; margin-right:0px">Imagine that you found something you desperately wanted to be a part of, but it was happening on the other side of the world.&nbsp;Would you sit at home getting in a funk, or head to where the action was happening?</p>'
+excerpt: 'Imagine that you found something you desperately wanted to be a part of, but it was happening on the other side of the world.&nbsp;Would you sit at home getting in a funk, or head to where the action was happening?'
 layout: post
 permalink: /the-freakonomy-needs-you/
-structured_content:
-  - '{"oembed":[],"overlay":true}'
 categories:
-  - Uncategorised
+  - life
 ---
 Imagine that you found something you desperately wanted to be a part of, but it was happening on the other side of the world.
 
@@ -64,13 +61,12 @@ It was an angry spur-of-the-moment kind of thing, and I had no idea it would res
 <blockquote>
   Follow your inner moonlight; don't hide the madness. <br>
   <em>— Allen Ginsberg</em>
-</blockquote>
-
+</blockquote><br>
 The question isn't what you have to say, it's what can't you <em>not</em> say?
 
 What matters to you?
 
-What's burning you up inside?</p>
+What's burning you up inside?
 
 <hr />
 

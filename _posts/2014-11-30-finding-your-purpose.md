@@ -1,14 +1,12 @@
 ---
 title: Why, the three letter word that could change your life
 date: 2014-11-30T12:32:47+00:00
-
-excerpt: '<p><span>Feeling a little lost, lacking in direction, or unsure of what to do next with your career? Here are some ideas for finding your purpose.</span></p>'
+excerpt: 'Feeling a little lost, lacking in direction, or unsure of what to do next with your career? Here are some ideas for finding your purpose.'
 layout: post
 permalink: /finding-your-purpose/
 categories:
-  - Popular
-  - Undesign
-tags:
+  - careers
+  - life
   - popular
 ---
 Has life ever gotten you down?
@@ -44,9 +42,9 @@ Years later you might find yourself wondering...
 <ul><li>"Why did I do that?"</li><li>"Why did I want this job in the first place?"</li><li>"Why did I ever marry you?" (Ouch)</li></ul>
 
 It's such an important question that author <a href="https://www.startwithwhy.com/">Simon Sinek</a> has, quite literally,&nbsp;put 'Why' at the centre of everything he teaches:
-  
+
       <img src="" alt=""/>
-  
+
 
 <br />&nbsp;<br />His 'Golden Circle' diagram is designed to illustrate that whilst every company on the planet knows <em>what</em> they do (their products or services), only some know <em>how</em> they do it, and fewer still know <em>why</em> they do it.
 
@@ -76,37 +74,44 @@ I'm starting to think that happiness isn't the thing I should be chasing.
 
 <hr />
 
-<h2 id="yui_3_17_2_9_1417349038353_13810">Techniques for finding your purpose</h2>
+<h2>Techniques for finding your purpose</h2>
 
-<p id="yui_3_17_2_9_1417349038353_13811">It goes without saying that there's no tried and tested formula for finding your purpose in life, and I wouldn't trust anyone who claims otherwise.</p>
+<p>It goes without saying that there's no tried and tested formula for finding your purpose in life, and I wouldn't trust anyone who claims otherwise.</p>
 
-<p id="yui_3_17_2_9_1417349038353_13812">(I'm thinking about those ridiculous career assessment questionnaires you fill in at school, only for a computer to come back with suggestions like 'You are creative. You might consider being a hairdresser'.)</p>
+<p>(I'm thinking about those ridiculous career assessment questionnaires you fill in at school, only for a computer to come back with suggestions like 'You are creative. You might consider being a hairdresser'.)</p>
 
-<p id="yui_3_17_2_9_1417349038353_13813">So you're probably going to need to take multiple angles of approach to this.</p>
+<p>So you're probably going to need to take multiple angles of approach to this.</p>
 
 <h3 id="yui_3_17_2_9_1417349038353_13814">Write until you cry</h3>
 
-<p id="yui_3_17_2_9_1417349038353_13815">Here's one method for working out why you're here, <a data-cke-saved-href="http://www.stevepavlina.com/blog/2005/01/how-to-discover-your-life-purpose-in-about-20-minutes/" href="http://www.stevepavlina.com/blog/2005/01/how-to-discover-your-life-purpose-in-about-20-minutes/">as suggested by Steve Pavlina</a>:</p>
+<p>Here's one method for working out why you're here, <a data-cke-saved-href="http://www.stevepavlina.com/blog/2005/01/how-to-discover-your-life-purpose-in-about-20-minutes/" href="http://www.stevepavlina.com/blog/2005/01/how-to-discover-your-life-purpose-in-about-20-minutes/">as suggested by Steve Pavlina</a>:</p>
 
-<ol id="yui_3_17_2_9_1417349038353_13820"><li id="yui_3_17_2_9_1417349038353_13819">Take out a blank sheet of paper or open up a word processor where you can type (I prefer the latter because it’s faster).</li><li>Write at the top, “What is my true purpose in life?”</li><li id="yui_3_17_2_9_1417349038353_13822">Write an answer (any answer) that pops into your head. It doesn’t have to be a complete sentence. A short phrase is fine.</li><li id="yui_3_17_2_9_1417349038353_13824">Repeat step 3 until you write the answer that makes you cry. This is your purpose.</li></ol>
+<ol>
+<li>Take out a blank sheet of paper or open up a word processor where you can type (I prefer the latter because it’s faster).</li>
+<li>Write at the top, “What is my true purpose in life?”</li>
+<li>Write an answer (any answer) that pops into your head. It doesn’t have to be a complete sentence. A short phrase is fine.</li>
+<li>Repeat step 3 until you write the answer that makes you cry. This is your purpose.</li>
+</ol>
 
 I haven't tried this personally, but Steve's blog is one of my go-to resources for challenging reading material (he can be pretty full on), so I wanted to share it with you.
 
 <h3 id="yui_3_17_2_9_1417349038353_13825">Learn to get outside your personal bubble.</h3>
 
-<p id="yui_3_17_2_9_1417349038353_13828">Leo Babauta believes that the problem is thinking only about yourself, <a data-cke-saved-href="http://zenhabits.net/life-purpose/" href="http://zenhabits.net/life-purpose/" id="yui_3_17_2_9_1417349038353_13827">rather than seeing a wider view</a><span>:</span><a data-cke-saved-href="http://zenhabits.net/life-purpose/" href="http://zenhabits.net/life-purpose/"></a></p>
-
-<figure>
+<p>Leo Babauta believes that the problem is thinking only about yourself, <a data-cke-saved-href="http://zenhabits.net/life-purpose/" href="http://zenhabits.net/life-purpose/" id="yui_3_17_2_9_1417349038353_13827">rather than seeing a wider view</a><span>:</span><a data-cke-saved-href="http://zenhabits.net/life-purpose/" href="http://zenhabits.net/life-purpose/"></a></p>
 
 <blockquote>
     <span>&#8220;</span>In this path, it doesn’t matter what specific actions you take or skills you learn to make people’s lives better. What career you choose is not important — what matters is the bigger purpose. You can always change your career and learn new skills later, as you learn other ways to fulfill this purpose. You’ll learn over time.<span>&#8221;</span>
   </blockquote>
 
-</figure>
 
 What happens when you break outside of your personal bubble?&nbsp;
 
-<ol><li>We can start to see the needs of others, and feel for their suffering.</li><li>We then work to make their lives better, and lessen their suffering.</li><li>Even if we aren’t good at that, we can learn skills that help us to be better at it. It’s the intention that matters.</li><li>As we go about our daily work, we can tie our actions to this greater purpose. Learning to program or become healthy (for example) isn’t just for our betterment, but for the betterment of others, even in a small way. This gives us motivation on a moment-to-moment basis. When we lose motivation, we need to get back out of our bubble, shed our concern for our discomfort and fears, and tie ourselves to a bigger purpose.</li></ol>
+<ol>
+<li>We can start to see the needs of others, and feel for their suffering.</li>
+<li>We then work to make their lives better, and lessen their suffering.</li>
+<li>Even if we aren’t good at that, we can learn skills that help us to be better at it. It’s the intention that matters.</li>
+<li>As we go about our daily work, we can tie our actions to this greater purpose. Learning to program or become healthy (for example) isn’t just for our betterment, but for the betterment of others, even in a small way. This gives us motivation on a moment-to-moment basis. When we lose motivation, we need to get back out of our bubble, shed our concern for our discomfort and fears, and tie ourselves to a bigger purpose.</li>
+</ol>
 
 <h2>Get to know your (real) self</h2>
 
@@ -116,13 +121,19 @@ His approach to finding purpose is more rigorous (as you would expect from a guy
 
 Here are a few from Scott's list to get you started:
 
-<ul><li>What do you love helping people with? How do you most commonly help others?</li><li>Who do you look up to? Who are your mentors? Who inspires you? Why?</li><li>When was the last time you massively over-delivered on something? What was and why&nbsp;did you work so damn hard?</li><li>What do people thank you for?</li><li>When was the last time you were in a state of flow, in the zone and totally lost track of time? What were you doing?</li></ul>
+<ul>
+<li>What do you love helping people with? How do you most commonly help others?</li>
+<li>Who do you look up to? Who are your mentors? Who inspires you? Why?</li>
+<li>When was the last time you massively over-delivered on something? What was and why&nbsp;did you work so damn hard?</li>
+<li>What do people thank you for?</li>
+<li>When was the last time you were in a state of flow, in the zone and totally lost track of time? What were you doing?</li>
+</ul>
 
 (On a personal note, if you're wondering what my "Why?" is, I'm not sure either, but&nbsp;I've left a comment further down the page with my thoughts.)
 
 <hr />
 
-<h2 id="yui_3_17_2_9_1417349038353_14520">The importance of finding your "Why?"</h2>
+<h2>The importance of finding your "Why?"</h2>
 
 <figure>
 

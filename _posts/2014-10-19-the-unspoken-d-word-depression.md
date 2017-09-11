@@ -1,14 +1,11 @@
 ---
 title: The unspoken D word that eats you from the inside.
 date: 2014-10-19T10:01:47+00:00
-
-excerpt: "<p>What happened the day that I realised I couldn't go to work any more.</p>"
+excerpt: "What happened the day that I realised I couldn't go to work any more."
 layout: post
 permalink: /the-unspoken-d-word-depression/
 categories:
-  - Popular
-  - Undesign
-tags:
+  - life
   - popular
 ---
 Just like I did every other day when the weather wasn't good for cycling, I got the bus to work.
@@ -55,7 +52,7 @@ And guess what?
 
 A third of the people I met during those sessions were graphic designers.
 
-I don't think it was a coincidence.&nbsp;</p>
+I don't think it was a coincidence.&nbsp;
 
 <h2>Something about the design profession is prone to shredding people's insides.&nbsp;</h2>
 

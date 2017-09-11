@@ -1,14 +1,10 @@
 ---
 title: 'Other people&#8217;s opinion of you are none of your business'
 date: 2014-10-05T08:09:31+00:00
-
-excerpt: '<p><span style="font-size:15px">Push at the edges, until something breaks and you have to fix it into a new shape.</span></p>'
 layout: post
 permalink: /other-peoples-opinion/
-structured_content:
-  - '{"oembed":[],"overlay":true}'
 categories:
-  - Life
+  - life
 ---
 It's early morning as I write, and I can hear bird song in the garden outside.
 
@@ -21,7 +17,7 @@ I knew it was going to be special because the opening movement — <a href="http
 It's a mesmerising composition that places tricks with your ears as overly familiar sequences of notes are reconfigured into new melodies, like "throwing molecules of the original Vivaldi into a test tube with a bunch of other things, and waiting for an explosion".
 
 <img src="/media/max-richter-rehersal.jpg" alt="" width="1000" height="665" class="size-full wp-image-1944" />
-<small>Max Richter in rehearsal © Erik Weiss</smalll>
+<small>Max Richter in rehearsal © Erik Weiss</small>
 
 My dad is essentially an expert in the classical genre compared to me (he plays the piano to a very high standard and sings in choirs) so I was sneaking sideways glances to gauge his reaction. But he didn't seem overly impressed.&nbsp;
 
@@ -49,7 +45,7 @@ He wouldn't be playing to packed crowds (the Royal Albert Hall has a seated capa
 
 And he wouldn't have become one of the most influential composers in contemporary music (writing for stage, opera, ballet and screen).
 
-And so, with apologies Dad, if you're reading this, I say this:</p>
+And so, with apologies Dad, if you're reading this, I say this:
 
 <h2>Screw the critics.</h2>
 

@@ -4,7 +4,8 @@ date: 2014-12-11T17:57:45+00:00
 layout: post
 permalink: /just-enough-design/
 categories:
-  - Uncategorised
+  - graphic-design
+  - meta
 ---
 <p>A recent discussion on Designer News <a href="https://news.layervault.com/stories/39502-what-is-the-best-portfolio-youve-ever-seen">about well-designed portfolios</a> made me smile because this website was included in the mix.</p>
 
@@ -20,7 +21,6 @@ categories:
 
 <blockquote>
   <p>Good design is as little design as possible </p>
-  
   <p><em>— Dieter Rams</em></p>
 </blockquote>
 
