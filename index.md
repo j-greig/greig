@@ -2,7 +2,7 @@
 title: Refreshingly honest advice for graphic designers
 layout: home
 ---
-<h1 class="f2 f1-l mh3 mh5-m mh6-l mb2 normal measure-narrow">Refreshingly honest advice <br>for graphic designers <br>&amp; other creative types</h1>
+<h1 class="f2 f1-l mh3 mh5-m mh6-l mb2 normal measure-narrow">Refreshingly honest advice <br>for <span class="typed">graphic designers <div class="dib dn-l">&amp; creative types</div></span></h1>
 <!-- <h2 class="f4 mh3 mh5-m mh6-l mb2 normal measure-narrow">Join thousands of people receiving my thoughts on life, design and freelancing each Sunday:</h2> -->
 
 {% include newsletter-signup-barebones.html hide_description="true" %}

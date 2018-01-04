@@ -1,21 +1,35 @@
 <!DOCTYPE html>
-<html class="h-100" lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html class="h-100" lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-  {% include header.html %}
+{% include header.html %}
 
-  <body class="home serif Xdebug h-100">
+<body class="home serif Xdebug h-100">
 
-    <div class="min-h-100 w-100 Xbg-bright-green sans-serif" style="background: #8fffb4; background: -webkit-linear-gradient(to top, #38ef7d, #11998e);
+  <div class="min-h-100 w-100 Xbg-bright-green sans-serif" style="background: #8fffb4; background: -webkit-linear-gradient(to top, #38ef7d, #11998e);
     background: linear-gradient(to top, #28b9ffbf, #00ffd7)">
-        {% include nav.html %}
+    {% include nav.html %}
 
-        <div class="dt h-100">
-            <div class="dtc v-top pt2 pt4-l cf">
-                {{ content }}
-            </div>
-        </div>
+    <div class="dt h-100">
+      <div class="dtc v-top pt2 pt4-l cf">
+        {{ content }}
+      </div>
+      <script src="assets/typed.min.js" type="text/javascript"></script>
+      <script>
+        if (document.body.clientWidth > 959) {
+          var options = {
+            strings: ["graphic designers", "illustrators", "makers", "web developers", "writers and bloggers", "internet druids", "creative folk"],
+            startDelay: 3000,
+            backDelay: 1500,
+            typeSpeed: 40,
+            fadeOut: true,
+            loop: true
+          }
+          var typed = new Typed(".typed", options);
+        }
+      </script>
     </div>
+  </div>
 
-  </body>
+</body>
 
 </html>
