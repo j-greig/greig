@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html class="h-100" lang="{{ page.lang | default: site.lang | default: " en " }}">
+
+{% include style_snippets.html %}
+{% include header.html %}
+
+<body class="home serif Xdebug h-100">
+  <header class="vh-100 bg-mid-gray dt w-100">
+    <div class="dtc v-mid cover ph3 ph4-m ph5-l center tc white gradient-blue-reversed" style="background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6) ), url(http://greig.cc/wp-content/themes/greig/img/landingpages/antwerp.jpg)  no-repeat center center fixed; background-size: cover; ">
+      <h1 class="f1 f-subheadline-l sans-serif mb0 mw700 center">{{ page.subtitle}}</h1>
+      <div class="absolute bottom-2 f6 f4-ns pb4 absolute--fill-lr">
+        <a href="#cta" class="link bg-black white pa3 pointer sans-serif">{{ page.landingpage_cta }}</a>
+      </div>
+    </div>
+  </header>
+
+
+  <div class="dt w-100 center">
+    <div class="pa2 pv4 w6 center measure" id="cta">
+    {{ content | replace : h2, h2_styled | replace : h3, h3_styled | replace : pstring, pstring_styled | replace : blockquote, blockquote_styled | replace : cite, cite_styled | replace : ol, ol_styled | replace : ul, ul_styled | replace : list_item_, list_item_styled
+    }}
+    </div>
+  </div>
+
+</body>
+
+</html>

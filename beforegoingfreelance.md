@@ -1,9 +1,7 @@
 ---
-id: 426
 title: Before Going Freelance
 date: 2016-05-18T21:21:17+00:00
-
-layout: page
+layout: landing
 guid: http://greig.cc/beforegoingfreelance/
 subtitle:
   - "Going freelance doesn't have to be scary..."
@@ -22,16 +20,16 @@ If you're thinking about quitting your full-time job, you've probably been askin
 * I've got a mortgage to pay & kids on the horizon, is it too risky?
 * Will freelancing make me happier, or will I just end up drowning in paperwork?
 * Am I ready to make the jump?
- 
+
 I know what it feels like, because after 10 years working as a graphic designer, I was in exactly the same place as you. I'd lost my creative spark, and didn't seem to have the time (or energy) to pursue side projects any more.
 
 Here's the good news...
 
-With the correct mindset and planning, you can go freelance sooner than you think, and without "making the jump". 
+With the correct mindset and planning, you can go freelance sooner than you think, and without "making the jump".
 
 Taking control of your working life—whilst still having time for side projects—is not a fanciful idea.
 
-After 3 years of self-employment, I can't imagine ever having a boss again, and I want to help you experience the same freedom that I've found. So I've packed everything that I wish I knew at the start of my freelance career into a series of email lessons. 
+After 3 years of self-employment, I can't imagine ever having a boss again, and I want to help you experience the same freedom that I've found. So I've packed everything that I wish I knew at the start of my freelance career into a series of email lessons.
 
 ----
 
