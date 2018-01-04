@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 wp-content
 wp-content/**
+/node_modules
+/package-lock.json
