@@ -1,0 +1,22 @@
+{
+  "name": "greig",
+  "version": "1.0.0",
+  "description": "A Jekyll webite for James Greig",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://j-greig@github.com/j-greig/greig.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-greig/greig/issues"
+  },
+  "homepage": "https://github.com/j-greig/greig#readme",
+  "dependencies": {
+    "gulp-purifycss": "^0.2.0"
+  }
+}

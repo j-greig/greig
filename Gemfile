@@ -25,4 +25,5 @@ group :jekyll_plugins do
    gem "jekyll-twitter-plugin"
    gem "jekyll-paginate-v2"
    gem "jekyll-sitemap"
+   gem 'jekyll-livereload'
 end
