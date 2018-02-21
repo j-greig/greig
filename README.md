@@ -30,11 +30,25 @@ We're going to use rbenv to install and manage our Ruby versions.
 `rbenv global 2.5.0`
 `ruby -v`
 
+### Install bundle (to manage your gems)
+`gem install bundler`
+
+### Install gems
+`bundle install`
+
+**Help installing Jekyll on Mac**
+See https://spinalhdl.github.io/SpinalDoc/mydoc_install_jekyll_on_mac/ for pointers.
+Use `bundle env` to check your local environment
+
+
 ----
 
 ## Basic usage
 Start Jekyll and watch for changes
 `jekyll serve --watch`
+
+**BETTER**
+`bundle exec jekyll serve`
 
 ----
 
@@ -50,3 +64,6 @@ Purify the CSS
 
 If you have permission problems installing Ruby gems, use the --user-install option
 `gem install livereload --user-install`
+
+This works in the CLI (?)
+`purifycss assets/style.css _site/**/*.html  -m -o "style-purified.css`
