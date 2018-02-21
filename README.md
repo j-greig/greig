@@ -50,6 +50,8 @@ Start Jekyll and watch for changes
 **BETTER**
 `bundle exec jekyll serve`
 
+Open http://localhost:4000/ in your browser
+
 ----
 
 ## Purify CSS
