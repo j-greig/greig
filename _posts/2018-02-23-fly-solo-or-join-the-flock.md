@@ -23,7 +23,7 @@ You get to reap the financial rewards of your effort, but it’s always going to
 
 ## So how do you decide whether to build your own businesses or stay in your current role?
 
-If you’ve taken my **7 Things You Should Do Before Going Freelance** course, you’ll know I’m a strong advocate for flying solo. working  for yourself can be life-changing in the best possible sense. But I don’t recommend it to everyone - especially not people at the beginning of their careers.
+If you’ve taken my **7 Things You Should Do Before Going Freelance** course, you’ll know I’m a strong advocate for flying solo. Working for yourself can be life-changing in the best possible sense. But I don’t recommend it to everyone - especially not people at the beginning of their careers.
 
 When you’re starting out, there’s nothing like being surrounded by people with years of experience. That first 6 months in a job is a priceless baptism of fire, where you’re continually learning new skills and adapting (or shedding) old ones. All with a crucial safety net —  because if you mess up, you’ll still get paid.
 
@@ -35,7 +35,7 @@ It might sounds like I’m sitting on the fence here. Well guess what, I’m now
 
 Choosing between self-employment and working for someone else doesn’t have to be a binary decision. What’s right for you will change over time, as your career and your life(style) do likewise.
 
-(Or you can do what I do, and work part-time for a company, and part-time for yourself. The world of work is increasingly flexible, and I say “Amen!” to that).
+Full-time, flexitime, or working part-time for a company, and part-time for yourself like I do. The world of work is increasingly flexible, and I say “Amen!” to that.
 
 ## Questions to ask when you find yourself at a fork in your career path
 
