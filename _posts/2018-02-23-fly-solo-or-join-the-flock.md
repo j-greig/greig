@@ -7,8 +7,6 @@ categories:
   - life
   - freelancing
 ---
-# Fly solo or join the flock?
-
 Yesterday I spent a few hours over coffee with a friend, brainstorming ideas for her next career steps.
 
 She’s at one of those tricky forks in the road, where you’re not sure whether to keep doing your own thing… or jump ship for a ‘proper’ job… or do something else entirely.
@@ -23,9 +21,9 @@ You get to work whenever you want, but you have to be disciplined enough not to 
 
 You get to reap the financial rewards of your effort, but it’s always going to be your job to call the accounts department and chase that overdue invoice.
 
-So how do you decide whether to build your own businesses or stay in your current role?
+## So how do you decide whether to build your own businesses or stay in your current role?
 
-If you’ve taken my **7 Things You Should Do Before Going Freelance** course, you’ll know I’m a strong advocate for flying solo. working  for yourself can be life-changing in the best possible sense. But I don’t recommend it to everyone - especially not people at the beginning of their careers.
+If you’ve taken my **7 Things You Should Do Before Going Freelance** course, you’ll know I’m a strong advocate for flying solo. Working for yourself can be life-changing in the best possible sense. But I don’t recommend it to everyone - especially not people at the beginning of their careers.
 
 When you’re starting out, there’s nothing like being surrounded by people with years of experience. That first 6 months in a job is a priceless baptism of fire, where you’re continually learning new skills and adapting (or shedding) old ones. All with a crucial safety net —  because if you mess up, you’ll still get paid.
 
@@ -37,9 +35,9 @@ It might sounds like I’m sitting on the fence here. Well guess what, I’m now
 
 Choosing between self-employment and working for someone else doesn’t have to be a binary decision. What’s right for you will change over time, as your career and your life(style) do likewise.
 
-(Or you can do what I do, and work part-time for a company, and part-time for yourself. The world of work is increasingly flexible, and I say “Amen!” to that).
+Full-time, flexitime, or working part-time for a company, and part-time for yourself like I do. The world of work is increasingly flexible, and I say “Amen!” to that.
 
-## Questions to ask yourself at a fork in your career path
+## Questions to ask when you find yourself at a fork in your career path
 
 Yes it’s a long and winding road. But it’s your road. And the best person to ask for directions is yourself.
 
@@ -47,7 +45,9 @@ What new skills would I like to learn?
 
 What skills that I already have aren’t being made use of in my current role?
 
-Which parts of my current job do I enjoy? (‘Enjoy’ being a loose term here, because there are parts of any job that suck. Another way to approach this is to ask yourself which parts of your job [do you find flow in](https://www.greig.cc/finding-your-flow/)? Eg what tasks can you sit down to do, and end up being so absorbed in the work, that you lose track of time?
+Which parts of my current job do I enjoy?
+
+(‘Enjoy’ being a loose term here, because there are parts of any job that suck. Another way to approach this is to ask yourself which parts of your job [do you find flow in](https://www.greig.cc/finding-your-flow/)? The tasks that you sit down to do, and end up being so absorbed by, that you completely lose track of time)
 
 And the most important question of all...
 

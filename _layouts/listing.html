@@ -2,9 +2,9 @@
 layout: default
 ---
 {% include style_snippets.html %}
-<section id="content" class="center">
+<section id="content" class="center animated fadeIn">
   <div class="mb5 ph3 ph5-m ph6-l w-100">
-    <h1 class="mw7 mb0 f3 f2-m f1-l lh-title normal sans-serif">Articles</h1>
+    <h1 id="article-title" class="mw7 mb0 f3 f2-m f1-l lh-title normal sans-serif">Articles</h1>
     <p class="mt0 f4 measure lh-copy m0">My latest writing on design, freelancing and making stuff happen.<br>You can also
       <a href="https://gumroad.com/l/reset-your-brain">get my best posts as a free ebook</a>.</p>
 
@@ -16,8 +16,6 @@ layout: default
     <article class="mb5 ph3 ph5-m ph6-l">
         <h3 class="f3 f3-l mb2 lh-title center normal sans-serif lh-title"><a href="{{ post.url }}" class="link">{{ post.title }}</a></h3>
         <p class="f4 mt0 measure lh-copy">{{ post.excerpt | strip_html | truncatewords:30 }}</p>
-        <!-- <p><small>{{ post.categories }}</small> -->
-        <!-- <small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> -->
         </p>
     </article>
     {% endfor %}
@@ -42,4 +40,4 @@ layout: default
     {% endif %}
     </div>
 
-  </section>
+</section>
