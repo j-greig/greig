@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
+ruby "2.4.2"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -25,4 +25,6 @@ group :jekyll_plugins do
    gem "jekyll-twitter-plugin"
    gem "jekyll-paginate-v2"
    gem "jekyll-sitemap"
+   # gem 'octopress-minify-html'
+   gem 'jekyll-livereload'
 end
