@@ -7,7 +7,7 @@ description: 'Refreshingly honest advice for graphic designers &amp; other creat
 ############################################################
 
 # PLUGINS
-gems: [jekyll-paginate-v2,jekyll-sitemap]
+gems: [jekyll-paginate-v2,jekyll-sitemap,jekyll-feed]
 
 ############################################################
 
