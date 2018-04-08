@@ -36,7 +36,7 @@ You're in the right place.
 {% include newsletter-signup.html %}
 
 ## My story
-A few years ago <a href="http://greig.cc/26/how-to-stop-being-a-graphic-designer">I had a personal meltdown and quit my job</a>, and then spent two months travelling across the USA by train. I was working so hard I didn't have energy for side projects of my own, and the work I was doing didn't feel like it mattered any more.
+A few years ago <a href="http://greig.cc/how-to-stop-being-a-graphic-designer">I had a personal meltdown and quit my job</a>, and then spent two months travelling across the USA by train. I was working so hard I didn't have energy for side projects of my own, and the work I was doing didn't feel like it mattered any more.
 
 It seems naive now of course, but I thought that travelling would help me find clarity about my life purpose, and <a href="http://greig.cc/the-unspoken-d-word-depression">shake me free of depression</a>.
 
