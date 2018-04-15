@@ -1,6 +1,6 @@
 ---
 title: 'Fly solo or join the flock?'
-date: 2017-06-26T10:40:17+00:00
+date: 2018-02-26T10:40:17+00:00
 layout: post
 permalink: /fly-solo-or-join-flock/
 categories:
