@@ -151,7 +151,7 @@ The act of writing forces you to get to the core of an idea. If your thinking is
 
 So what about those pesky excuses for not writing I mentioned earlier?
 
-**Excuse 1: Don’t know how to write**
+**Excuse 1: Don’t know how to write**  
 Here’s the writing paradox: You won’t find out what you have to write about until you start.
 
 If you do get stuck, think of a question that you are often asked in your professional or private life, and write an answer as if you are talking to one person. When you’re done, ask if what you’ve written is so useful that someone reading it would likely email it to a friend.
@@ -166,7 +166,7 @@ Learn about things by reading. Then teach them by writing.
 
 Rinse and repeat.
 
-**Excuse 2: Don’t have time.**
+**Excuse 2: Don’t have time.**  
 Carve out a regular slot in your schedule for writing. I like to write first thing in the morning because there are less distractions and I can boast about it on social media. Figure out your best time to write, and make it sacred.
 
 You don’t have to go crazy either. I only publish one blog post a week, but I’ll do it come rain or shine (most of the time) because I have a mailing list who I’ve promised a weekly email.
@@ -230,7 +230,7 @@ One doesn’t use pontificous language and extraneous syllables when one is comm
 </blockquote>
 
 <br>  
-****
+<hr>
 <br>    
 
 <h1 id="writingchangeseverything">Writing changes everything</h1>
