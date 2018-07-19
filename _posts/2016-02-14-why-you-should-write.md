@@ -151,7 +151,8 @@ The act of writing forces you to get to the core of an idea. If your thinking is
 
 So what about those pesky excuses for not writing I mentioned earlier?
 
-<em>*Excuse 1: Don’t know how to write *</em> Here’s the writing paradox: You won’t find out what you have to write about until you start.
+**Excuse 1: Don’t know how to write**
+Here’s the writing paradox: You won’t find out what you have to write about until you start.
 
 If you do get stuck, think of a question that you are often asked in your professional or private life, and write an answer as if you are talking to one person. When you’re done, ask if what you’ve written is so useful that someone reading it would likely email it to a friend.
 
@@ -165,7 +166,8 @@ Learn about things by reading. Then teach them by writing.
 
 Rinse and repeat.
 
-<em>*Excuse 2: Don’t have time. *</em> Carve out a regular slot in your schedule for writing. I like to write first thing in the morning because there are less distractions and I can boast about it on social media. Figure out your best time to write, and make it sacred.
+**Excuse 2: Don’t have time.**
+Carve out a regular slot in your schedule for writing. I like to write first thing in the morning because there are less distractions and I can boast about it on social media. Figure out your best time to write, and make it sacred.
 
 You don’t have to go crazy either. I only publish one blog post a week, but I’ll do it come rain or shine (most of the time) because I have a mailing list who I’ve promised a weekly email.
 
@@ -173,7 +175,8 @@ If you don't fancy putting your writing online, that's fine. Just keeping a dail
 
 Remember that writing is a muscle. But you don’t have to write every day. Even a weekly or twice weekly writing slot will help. (I send an email newsletter every Sunday—or at least, I try to—because it forces me to write something useful once a week).
 
-<em>*Excuse 3: Ow! It hurts!!! *</em> Flossing is physically painful at the start, but is writing?
+**Excuse 3: Ow! It hurts!!!**  
+Flossing is physically painful at the start, but is writing?
 
 (Hint: if it is, you might want to check your posture).
 
@@ -211,7 +214,10 @@ Two of my favourite books about writing are Stephen King’s <em>On Writing</em>
 
 Once you've written, you need to edit. Don't try to edit whilst writing though — make it a distinctly separate part of your process.
 
-<strong>Edit, ruthlessly.</strong> 1. Remove any unnecessary words. 2. Avoid cliches like the plague (oops) 3. Use punchy words instead of exclamation marks!!!
+<strong>Edit, ruthlessly.</strong>
+1. Remove any unnecessary words.  
+2. Avoid cliches like the plague (oops)  
+3. Use punchy words instead of exclamation marks!!!  
 
 And finally…
 
@@ -219,31 +225,39 @@ And finally…
 One doesn’t use pontificous language and extraneous syllables when one is communicating using the human tongue in person, so why do the same when writing? If you have trouble writing naturally, try recording yourself talking and transcribe the results afterwards.
 
 <blockquote>
-  “If it sounds like writing, I rewrite it”. — Elmore Leonard
+  “If it sounds like writing, I rewrite it”.<br>
+  — Elmore Leonard
 </blockquote>
+
+<br>  
+****
+<br>    
 
 <h1 id="writingchangeseverything">Writing changes everything</h1>
 
-<p>Of all the life changes I've written about over the past few years, the most transformative has been the writing itself.
+<p>Of all the life changes I've written about over the past few years, the most transformative has been the writing itself.</p>
 
 And it was only when I came to write <em>this</em> article (which was originally a talk) that I realised this.
 
-Of course I'm not the first person to recognise this...</p>
+Of course I'm not the first person to recognise this...
 
 <blockquote>
   I’d argue that the cognitive shift in going from an audience of zero (talking to yourself) to an audience of 10 (a few friends or random strangers checking out your online post) is so big that it’s actually huger than going from 10 people to a million. <br>
-  — Clive Thompson (Writer for The New York Time and Wired magazine).
+  — Clive Thompson  
+  (Writer for The New York Time and Wired magazine).
 </blockquote>
 
-<p><strong>Writing creates an amazing feedback loop which enhances everything you do.</strong>
+<br>
 
-So I’m going to wrap things up with this drawing by the great Saul Steinberg, who described himself a writer who draws.
+<strong>Writing creates an amazing feedback loop which enhances everything you do.</strong>  
 
-<img src="/media/SaulSteinberg.png" alt="" width="640" height="626" class="alignnone size-full wp-image-1876" />
+So I’m going to wrap things up with this drawing by the great Saul Steinberg, who described himself a writer who draws.  
 
-For me, his image represents the multiplying writing can bring to your life, if you’re willing to push past the excuses.
+<img src="/media/SaulSteinberg.png" alt="" width="640" height="626" class="alignnone size-full wp-image-1876" /><br>
 
-If you want people to hear about your business, you should write.
+For me, his image represents the multiplying writing can bring to your life, if you’re willing to push past the excuses.<br>
+
+<p>If you want people to hear about your business, you should write.</p>
 
 If you care about sharing and improving ideas, you should write.
 
