@@ -10,7 +10,7 @@ subtitle:
 start_page_with_subtitle:
   - 'No'
 ---
-Hi! My name is James Greig, and you’re probably reading this because you saw my Dot All 2018 talk about migrating content to Craft CMS.
+Hi! My name is James Greig, and you’re probably reading this because you saw my Dot All talk about migrating content to Craft CMS.
 
 [Here are the slides in PDF format](https://speakerdeck.com/jamesgreig/how-to-migrate-legacy-content-to-craft-without-losing-your-sanity)
 
