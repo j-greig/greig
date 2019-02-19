@@ -17,7 +17,7 @@ What kind of world is this, if productivity is so prevalent, it’s even in our 
 
 Well. Remember all those “The accountability hacks I used to blog 30,000 words in 30 days.” articles that were rampant on the internet a few years ago? (I should know because [I wrote](https://www.greig.cc/writing-1000-words-daily-accountability-hack/) some of them).
 
-The ones that urged you to do {{ridiculous thing}} so that you could achieve {{unachievable thing}}?
+The ones that urged you to do \{\{ridiculous thing\}\} so that you could achieve \{\{unachievable thing\}\}?
 
 One of the reasons I stopped writing last year was that I felt self-improvement blogging had somehow gone above and beyond parody, to the point where I completely lost the desire to talk about this stuff.
 
