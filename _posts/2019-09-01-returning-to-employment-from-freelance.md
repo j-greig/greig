@@ -15,7 +15,7 @@ Between 2012 and 2017 I freelanced all over London, for spells of varying length
 
 When it comes to going freelance, the metaphor most commonly used seems to be "making the leap". Understandably so, because you're giving up the (perceived) security of a fulltime job and a regular paycheck, for something alltogether less predictable. I've put "perceived" in brackets there, because it's arguable that freelancing is actually _less_ risky overall, because your income is coming from multiple sources, rather than an employer who could go bust and dissappear in a puff of smoke. (And yes, I know graphic designers who this has happened to).
 
-Here's where my story takes another twist. At the start of 2017 I moved from London back north to Glasgow, the city where I'd studied graphic design and then worked in my twenties. Initially I carried on working for myself, but by the summer of 2017 I'd had another spell of depression, partialy triggered by a  freelancing gig that went very sour (and partially triggered by living and working alone, I think...)
+Here's where my story takes another twist. At the start of 2017 I moved from London back north to Glasgow, the city where I'd studied graphic design and then worked in my twenties. Initially I carried on working for myself, but by the summer of 2017 I'd had another spell of depression, partially triggered by a  freelancing gig that went very sour (and partially triggered by living and working alone, I think...)
 
 By this point I'd realised that:
 1. Freelancing in Glasgow was harder than in London because there was much less of it to go around.
@@ -53,6 +53,8 @@ This is something I didn't realise I was missing as a freelancer, until I experi
 
  Would you ever consider going back to employment from your freelance job? (Or equally, are you on the other side of the fence/gap/cliff, eying up that leap?)
 
- PS. You can still get the PDF version of my free "7 Things You Should Do Before Going Freelance" guide [here](
+ PS. [You can discuss this post on Twitter](https://twitter.com/j_greig/status/1168112396612902912), or shoot me an email.
+
+ PPS. You can still get the PDF version of my free "7 Things You Should Do Before Going Freelance" course [here](
   https://www.dropbox.com/s/swpo1h6jp6gf66v/7%20Things%20You%20Should%20Do%20Before%20Going%20Freelance.pdf?dl=0
 ).
