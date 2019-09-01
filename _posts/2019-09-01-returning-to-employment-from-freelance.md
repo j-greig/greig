@@ -31,7 +31,7 @@ Read on and I'll try to spill the beans...
 ----
 
 ## Things I'm loving about being back in fulltime employment
-Quick disclaimer before I start — some of these things have changed because my job title has changed, and I'm now overseeing work instead of executing it. (My email signature says "Head of DIgital" at the bottom of it now.) But equally this change is only possible because I've stopped freelancing, so be that what it may.
+Quick disclaimer before I start — some of these things have changed because my job title has changed, and I'm now overseeing work instead of executing it. (My email signature says "Head of Digital" at the bottom of it now.) But equally this change is only possible because I've stopped freelancing, so be that what it may.
 
 **Being around other people**<br>
 Everyone who's freelanced knows it can be tough working solo, especially if you work from home. Even if you're based in a co-working space with other people , it's not quite the same as being part of a company, because everyone is doing their own thing a lot of the time. It's funny because I'm definitely on the introverted side — and often get annoyed by loud conversations and meetings and all that stuff — but there's still something really nice about working with other people. It's a basic human thing, I guess.
