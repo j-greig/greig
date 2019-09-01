@@ -28,6 +28,8 @@ So what's it like being employed again instead of being freelance? Do I enjoy it
 
 Read on and I'll try to spill the beans...
 
+----
+
 ## Things I'm loving about being back in fulltime employment
 Quick disclaimer before I start — some of these things have changed because my job title has changed, and I'm now overseeing work instead of executing it. (My email signature says "Head of DIgital" at the bottom of it now.) But equally this change is only possible because I've stopped freelancing, so be that what it may.
 
@@ -43,6 +45,14 @@ This is something I didn't realise I was missing as a freelancer, until I experi
 **Not having to worry about money**
  Yup, probably the most obvious perks of returning to fulltime employment. After years of variable income, with periods of drought where no money came in at all, and some short periods where I earnt more than I do now, there is something magically about checking my bank account at the end of each month and seeing a big wad of cash sitting there. And because I've now gotten serious about pensions and my future finances (thanks to Mr Money Mustache and others) I'm relishing putting a large chunk of this into my SIPP and ISA accounts for old James to enjoy somewhere down the line.
 
+ ----
+
  So... I've now worked full-time, part-time, flexi-time, freelance and permalance as a graphic designer. And probably some other variations that don't have a name. Each approach has its pros and cons, and I've realised that any job can be character-building or health-destroying (if you're not careful).
 
  Looking back I've perhaps been a bit bullish on freelancing... when really it's about finding the style of work that suits your particular stage in life.
+
+ Would you ever consider going back to employment from your freelance job? (Or are you still on the other side of the fence/gap/cliff, eying up that leap?)
+
+ PS. You can still get the PDF version of my free "7 Things You Should Do Before Going Freelance" guide [here](
+  https://www.dropbox.com/s/swpo1h6jp6gf66v/7%20Things%20You%20Should%20Do%20Before%20Going%20Freelance.pdf?dl=0
+).
