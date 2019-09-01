@@ -33,16 +33,16 @@ Read on and I'll try to spill the beans...
 ## Things I'm loving about being back in fulltime employment
 Quick disclaimer before I start — some of these things have changed because my job title has changed, and I'm now overseeing work instead of executing it. (My email signature says "Head of DIgital" at the bottom of it now.) But equally this change is only possible because I've stopped freelancing, so be that what it may.
 
-**Being around other people**
+**Being around other people**<br>
 Everyone who's freelanced knows it can be tough working solo, especially if you work from home. Even if you're based in a co-working space with other people , it's not quite the same as being part of a company, because everyone is doing their own thing a lot of the time. It's funny because I'm definitely on the introverted side — and often get annoyed by loud conversations and meetings and all that stuff — but there's still something really nice about working with other people. It's a basic human thing, I guess.
 
-**Having a say in how things happen at work**
+**Having a say in how things happen at work**<br>
 When you're freelancing at a studio, you're usally there for a specific job and a limited amount of time. As a result you don't have much say in anything beyond that. This makes sense of course... but sometimes you end up freelancing for a longer period of time, and starting to have ideas about various things, and usually finding that you're on the periphery of things. (This was my experience when permalancing in London). I'm now lucky enough to be part of a very democratic studio setup, where anyone in the company can input on how things happen, and everything right down to the financials on each project is common knowledge. (As a junior designer I usually had little idea of overall budgets or how much money the studio was making on a monthly basis.)
 
-**Helping other people to learn**
+**Helping other people to learn**<br>
 This is something I didn't realise I was missing as a freelancer, until I experienced the satisfaction that comes from mentoring other designers. At Graphical House a big part of my job intially was to bring the studio up to speed on digital design tools, thinking and workflows. Which mean helping them to transfriom from InDesign to Sketch, teaching the design team about things like information architecture and user-centric thinking, and being on hand to explain all the needlessly cryptic acronyms which can make digital design a bit of a PITA to understand for the uninitiated. Granted, there are ways you can teach other people when you're freelancing, but it's not baked into the job in the same way. Overall, the mentoring aspect of my job has become one of the most enjoyable, and not something I'd expected.
 
-**Not having to worry about money so much**
+**Not having to worry about money so much**  <br>
  Yup, probably the most obvious perks of returning to fulltime employment. After years of variable income, with periods of drought where no money came in at all, and some short periods where I earnt more than I do now, there is something magically about checking my bank account at the end of each month and seeing a big wad of cash sitting there. And because I've now gotten serious about pensions and my future finances (thanks to Mr Money Mustache and others) I'm relishing putting a large chunk of this into my SIPP and ISA accounts for old James to enjoy somewhere down the line.
 
  ----
