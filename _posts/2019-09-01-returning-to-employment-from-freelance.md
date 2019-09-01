@@ -42,7 +42,7 @@ When you're freelancing at a studio, you're usally there for a specific job and 
 **Helping other people to learn**
 This is something I didn't realise I was missing as a freelancer, until I experienced the satisfaction that comes from mentoring other designers. At Graphical House a big part of my job intially was to bring the studio up to speed on digital design tools, thinking and workflows. Which mean helping them to transfriom from InDesign to Sketch, teaching the design team about things like information architecture and user-centric thinking, and being on hand to explain all the needlessly cryptic acronyms which can make digital design a bit of a PITA to understand for the uninitiated. Granted, there are ways you can teach other people when you're freelancing, but it's not baked into the job in the same way. Overall, the mentoring aspect of my job has become one of the most enjoyable, and not something I'd expected.
 
-**Not having to worry about money**
+**Not having to worry about money so much**
  Yup, probably the most obvious perks of returning to fulltime employment. After years of variable income, with periods of drought where no money came in at all, and some short periods where I earnt more than I do now, there is something magically about checking my bank account at the end of each month and seeing a big wad of cash sitting there. And because I've now gotten serious about pensions and my future finances (thanks to Mr Money Mustache and others) I'm relishing putting a large chunk of this into my SIPP and ISA accounts for old James to enjoy somewhere down the line.
 
  ----
@@ -51,7 +51,7 @@ This is something I didn't realise I was missing as a freelancer, until I experi
 
  Looking back I've perhaps been a bit bullish on freelancing... when really it's about finding the style of work that suits your particular stage in life.
 
- Would you ever consider going back to employment from your freelance job? (Or are you still on the other side of the fence/gap/cliff, eying up that leap?)
+ Would you ever consider going back to employment from your freelance job? (Or equally, are you on the other side of the fence/gap/cliff, eying up that leap?)
 
  PS. You can still get the PDF version of my free "7 Things You Should Do Before Going Freelance" guide [here](
   https://www.dropbox.com/s/swpo1h6jp6gf66v/7%20Things%20You%20Should%20Do%20Before%20Going%20Freelance.pdf?dl=0
