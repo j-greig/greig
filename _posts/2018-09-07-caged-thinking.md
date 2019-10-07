@@ -7,7 +7,7 @@ categories:
   - life
 ---
 
-<img src="/media/caged-thinking.png"
+<img src="/media/caged-thinking.png">
 
 I’m sitting in a box, looking at a box, typing into a box.
 
@@ -29,13 +29,14 @@ Which is funny because I then went shopping with said friend, and proceeded to t
 
 Anyway, so as not to put end your Sunday on a dystopian downer*, here are some ideas for escaping caged thinking…
 
-Leave your phone at home and go for a walk with no set destination. A wee wander, if you will.
-Do the same as above, but on a bike. One thing I love about cycling is that no right angles are involved — you’re either attempting a straight line (but actually wobbling imperceptibly) or carving curves.
-Close your eyes and draw/write on a piece of paper until you think it’s full. You might be surprised at what comes out.
+* Leave your phone at home and go for a walk with no set destination. A wee wander, if you will.
+* Do the same as above, but on a bike. One thing I love about cycling is that no right angles are involved — you’re either attempting a straight line (but actually wobbling imperceptibly) or carving curves.
+* Close your eyes and draw/write on a piece of paper until you think it’s full. You might be surprised at what comes out.
+
 However you do it, here's to escaping your thought cage.
 
 — James
 
 PS. Speaking of dystopian downers, have you watched Dark on Netflix? It’s a German sci-fi series and it’s probably the best television I’ve seen for years. I keep waking up in the middle of the night trying to figure out certain aspects of the show's plot, and there's an amazing soundtrack by Ben Frost too.
 
-PPS. The drawing above is by one of my heroes — Saul Steinberg. Find out why at the end of my "Why you should write" article from a while back.
+PPS. The drawing above is by one of my heroes — Saul Steinberg. Find out why at the end of my "<a href="/why-you-should-write/">Why you should write</y>" article from a while back.
