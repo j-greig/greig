@@ -39,4 +39,4 @@ However you do it, here's to escaping your thought cage.
 
 PS. Speaking of dystopian downers, have you watched Dark on Netflix? It’s a German sci-fi series and it’s probably the best television I’ve seen for years. I keep waking up in the middle of the night trying to figure out certain aspects of the show's plot, and there's an amazing soundtrack by Ben Frost too.
 
-PPS. The drawing above is by one of my heroes — Saul Steinberg. Find out why at the end of my "<a href="/why-you-should-write/">Why you should write</y>" article from a while back.
+PPS. The drawing above is by one of my heroes — Saul Steinberg. Find out why at the end of my "<a href="/why-you-should-write/">Why you should write</a>" article from a while back.
