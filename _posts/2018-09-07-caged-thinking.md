@@ -7,9 +7,7 @@ categories:
   - life
 ---
 
-<img src="/media/caged-thinking.png">
-
-I’m sitting in a box, looking at a box, typing into a box.
+# I’m sitting in a box, looking at a box, typing into a box.
 
 Tomorrow, when I arrive at my work box, I’ll sit down to look at another box, where I’ll type more letters and numbers into more boxes, and send some of those boxes to other people’s boxes.
 
@@ -36,6 +34,8 @@ Anyway, so as not to put end your Sunday on a dystopian downer*, here are some i
 However you do it, here's to escaping your thought cage.
 
 — James
+
+<img src="/media/caged-thinking.png">
 
 PS. Speaking of dystopian downers, have you watched Dark on Netflix? It’s a German sci-fi series and it’s probably the best television I’ve seen for years. I keep waking up in the middle of the night trying to figure out certain aspects of the show's plot, and there's an amazing soundtrack by Ben Frost too.
 
