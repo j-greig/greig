@@ -1,6 +1,6 @@
 ---
 title: 'Caged Thinking'
-date: 2018-07-29T10:01:07+00:00
+date: 2019-07-29T10:01:07+00:00
 layout: post
 permalink: /caged-thinking/
 categories:
