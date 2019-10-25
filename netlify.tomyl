@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/journal/:year/:month/*"
+to = "/journal/:splat"
+status = 301
+force = false
