@@ -1,6 +1,6 @@
 ---
 title: 'Coronavirus Lockdown Diary'
-date: 2020-03-016T05:00:00+00:00
+date: 2020-03-16T05:00:00+00:00
 layout: post
 permalink: /coronavirus-lockdown-diary/
 categories:
