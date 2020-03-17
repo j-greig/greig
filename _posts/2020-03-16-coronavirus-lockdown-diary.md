@@ -7,8 +7,9 @@ categories:
   - life
 ---
 
-# Coronavirus Lockdown Diary
-If I come out of this with only one thing, it's going to be that I got my writing habit back.
+# If I come out of this with only one thing, it's going to be that I got my writing habit back.
+
+----
 
 ## Day 1 — 16th March 2020
 
