@@ -11,6 +11,20 @@ categories:
 
 ----
 
+## Day 2 — 17th March 2020
+
+Went for a run at 7am even though I’m not feeling 100% at the moment.  Followed by a hot then cold shower. Ooooooft. I can stay in the cold water for at least a minute longer than when I started doing it. Can’t work out if I’m feeling  a bit off-colour, or just nauseous from watching and checking the news constantly.
+
+It struck me that our country is run by someone pretending to be a blond idiot when it suits him, rather than an actual blond idiot, so that’s something.
+
+Anyway, this is going to be a short entry because it’s been a long day (see start of yesterday’s update). Working from home was fine, although I instantly regretted having a visible mess in the background for video calls.  Not that I’ve tidied it up yet.
+
+I’m glad I have job that hasn’t been instantly shut down. I’m glad I have a wee cat to keep me company. I’m glad I’m in a flat of my own with pretty much everything I could need.
+
+Stay safe everyone.
+
+----
+
 ## Day 1 — 16th March 2020
 
 It’s 5am the morning after the UK government announced people should drastically reduce social contact because of Coronavirus Covid-19, and I have woken with a clear thought after a day of confusion: it is time to start writing again. I’m starting now because I don’t want to forget some of the things that happened yesterday.
