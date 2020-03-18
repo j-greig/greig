@@ -11,6 +11,18 @@ categories:
 
 ----
 
+## Day 3 — 18th March 2020
+
+Spoke to my brother in London this evening, and he told me about the friend of a friend who was 39 with no underlying health symptoms... who has just died from coronavirus. His girlfriend's flatmate also has fever/cough symptoms. This has suddenly gotten much closer to home.
+
+Bigger picture: UK schools are closing from Friday, but we still have a voluntary code of conduct in place in terms of freedom of movement. Don't think this can/should last much longer, and it sounds like any lockdown might start in London first.
+
+Went to a local shop at lunchtime, a few types of foodstuffs all gone (pasta of course), people seemed fairly calm on the surface but there was a hint of something else under the surface as people found they couldn't buy all the things they usually did.
+
+Time for a night walk now.
+
+----
+
 ## Day 2 — 17th March 2020
 
 Went for a run at 7am even though I’m not feeling 100% at the moment.  Followed by a hot then cold shower. Ooooooft. I can stay in the cold water for at least a minute longer than when I started doing it. Can’t work out if I’m feeling  a bit off-colour, or just nauseous from watching and checking the news constantly.
@@ -39,6 +51,6 @@ Yesterday at work the company plan was announced — “we don’t want you to w
 
 The new government advice was announced right at the end of the working day, and I’ve not heard any updates from work since, but I’m assuming we’ll all be working from home now.  In any case, I made an early morning trip to Ikea on Sunday to buy a huge desk, as I had a feeling I’d need it sooner rather than later. So at least my home office setup is fairly decent, apart from the lack of a proper chair.
 
-What else to say just now?
+What else to say?
 
-It looks like it’s going to be just me and the cat for a while. (I’m not too worried about being isolated just yet, as I’ve gotten pretty good at that living alone the past few years). I’ll tell you about our routine another day, but for now let’s just say it starts with me getting a lick and my paws chewed.
+It looks like it’s going to be me and the cat for a while. (I’m not too worried about being isolated just yet, as I’ve gotten pretty good at that living alone the past few years). I’ll tell you about our routine another day, but for now let’s just say it starts with me getting a lick and my paws chewed.
