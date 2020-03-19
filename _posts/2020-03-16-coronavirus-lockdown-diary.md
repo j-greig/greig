@@ -17,11 +17,11 @@ As  I write this, Question Time is playing in the background — but there's no 
 
 Still feeling tense. Heart has been going like crazy all day. Right hand is red raw from all the washing.
 
-But, it was good to speak to people (on the phone obviously) today, much more than I usually would.
+But, it was good to speak to people (on the phone obviously) today, much more than I usually would. Plans are afoot for online beers tomorrow night, and online tea and cake on Sunday.
 
 There are rumours of the army being deployed to the streets of London, and I'm glad to be up north, although I think Glasgow is in trouble too. We all are.
 
-On Question Time the goverment is under fire for not acting to protect the most vunerable in society first. What did we expect though? It's the Tories after all. They might have been claiming to get the job done on Brexit, but who would trust them with a pandemic that hits hardest on the very services they have stripped back over the past decade. 
+On Question Time the goverment is under fire for not acting to protect the most vunerable in society first. What did we expect though? It's the Tories after all. They might have been claiming to get the job done on Brexit, but who would trust them with a pandemic that hits hardest on the very services they have stripped back over the past decade.
 
 ----
 
