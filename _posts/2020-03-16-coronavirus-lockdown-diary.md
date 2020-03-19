@@ -11,6 +11,20 @@ categories:
 
 ----
 
+## Day 4 — 19th March 2020
+
+As  I write this, Question Time is playing in the background — but there's no audience, and the panelists are sitting twice the distance apart as usual. They are also answering questions properly for once too.
+
+Still feeling tense. Heart has been going like crazy all day. Right hand is red raw from all the washing.
+
+But, it was good to speak to people (on the phone obviously) today, much more than I usually would.
+
+There are rumours of the army being deployed to the streets of London, and I'm glad to be up north, although I think Glasgow is in trouble too. We all are.
+
+On Question Time the goverment is under fire for not acting to protect the most vunerable in society first. What did we expect though? It's the Tories after all. They might have been claiming to get the job done on Brexit, but who would trust them with a pandemic that hits hardest on the very services they have stripped back over the past decade. 
+
+----
+
 ## Day 3 — 18th March 2020
 
 Spoke to my brother in London this evening, and he told me about the friend of a friend who was 39 with no underlying health symptoms... who has just died from coronavirus. His girlfriend's flatmate also has fever/cough symptoms. This has suddenly gotten much closer to home.
