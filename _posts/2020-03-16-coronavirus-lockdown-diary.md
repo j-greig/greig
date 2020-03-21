@@ -11,6 +11,16 @@ categories:
 
 ----
 
+## Day 5 — 20th March 2020
+
+Today I removed the studio address and telephone number from my email signature and replaced it with just my mobile number. UK pubs, restaurants and clubs are closing for an unspecified amount of time as of tonight, and schools are now closed too. The goverment made an announcement behind lecterns with the slogan "STAY AT HOME" in capital letters. No-one can quite believe this is happening.
+
+Earlier I saw a chilling graph which puts the UK  on a steeper mortality curve than even Italy had at this point in the outbreak. I am worried we are going to be as badly hit as the Italians, or worse.
+
+Googling face masks before bed is probably not a good idea but that's where my head is at right now.
+
+----
+
 ## Day 4 — 19th March 2020
 
 As  I write this, Question Time is playing in the background — but there's no audience, and the panelists are sitting twice the distance apart as usual. They are also answering questions properly for once too.
