@@ -11,9 +11,25 @@ categories:
 
 ----
 
+## Day 6 — 21st March 2020
+
+I got up early and walked along the river into town to collect essentials from the studio: my glasses, notebook, some coffee, and a few beers (bonus!). And then I cycled back on one of the two bikes I've been storing in the cellar to make space in my flat for renovations earlier in the year. Planning a bike ride out of Glasgow tomorrow.
+
+People aren't taking this seriously enough yet. I messaged my family to urge them to visit the shops as little as possible. One positive from all this is that I've been in daily contact with them, and even heard from a cousin who I've not really spoken to properly for a decade or so.
+
+Tested a door-handle-hack so that people can open the main door to our block without using their hands. The thought of eight flat's worth of people all using the same metal door knob seems like something we should avoid. Basically the hack is one of the u-shaped metal legs from my laptop stand with the fittings stripped off. Tomorrow I'm going to screw it onto the door... and put a note through my neighbour's door to say hi... it's weird that I've lived here three years and not found out their names.
+
+From tomorrow I'm planning to wear a face mask when leaving the house — because even if I'm keeping a safe distance from people, I realised I can't count on them to return the favour. Wondering how long it will be until face masks are normalised here. Only the Chinese students in Partick have been wearing them up until now.
+
+Lack of sleep caught up with me today, and a long afternoon snooze turned out to be a highlight of the week.
+
+Stay home, stay safe Xx.
+
+----
+
 ## Day 5 — 20th March 2020
 
-Today I removed the studio address and telephone number from my email signature and replaced it with just my mobile number. UK pubs, restaurants and clubs are closing for an unspecified amount of time as of tonight, and schools are now closed too. The goverment made an announcement behind lecterns with the slogan "STAY AT HOME" in capital letters. No-one can quite believe this is happening.
+Today I removed the studio address and telephone number from my email signature and replaced it with just my mobile number. UK pubs, restaurants and clubs are closing for an unspecified amount of time as of tonight, and schools are now closed too. The government made an announcement behind lecterns with the slogan "STAY AT HOME" in capital letters. No-one can quite believe this is happening.
 
 Earlier I saw a chilling graph which puts the UK  on a steeper mortality curve than even Italy had at this point in the outbreak. I am worried we are going to be as badly hit as the Italians, or worse.
 
@@ -31,7 +47,7 @@ But, it was good to speak to people (on the phone obviously) today, much more th
 
 There are rumours of the army being deployed to the streets of London, and I'm glad to be up north, although I think Glasgow is in trouble too. We all are.
 
-On Question Time the goverment is under fire for not acting to protect the most vunerable in society first. What did we expect though? It's the Tories after all. They might have been claiming to get the job done on Brexit, but who would trust them with a pandemic that hits hardest on the very services they have stripped back over the past decade.
+On Question Time the government is under fire for not acting to protect the most vunerable in society first. What did we expect though? It's the Tories after all. They might have been claiming to get the job done on Brexit, but who would trust them with a pandemic that hits hardest on the very services they have stripped back over the past decade.
 
 ----
 
