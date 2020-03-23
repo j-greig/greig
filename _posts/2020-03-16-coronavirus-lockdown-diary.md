@@ -14,6 +14,26 @@ Feeling isolated? Want to chat with someone? [Say hello and introduce yoursef at
 
 ----
 
+## Day 8 — 23rd March 2020
+
+Start of lockdown week two, although already it feels like much much longer. I think the goverment is about to announce much stricter measues.
+
+We had our first online Monday morning meeting at work today. It's starting to feel normal, and my living room is now as much an extension of work as it is my home.
+
+Lunchtime bike ride, trying to keep 2m from other people at all times. But there were a whole load of kids hanging out in the skate park, people casually chatting right next to each other, shoppers casually strolling along Dumbarton Road. Contrast that with the video footage coming in from Spain of people lying gasping for breath in the corridors of hospitals - what the hell is everyone in the UK thinking?
+
+Long video chat with my brother in London. He's in a much smaller flat than me... and is also an exercise fanatic. We chatted about his options... could he travel to my parents house and use their garden via the side entrance? Maybe, but even that has its risks.
+
+Positive thoughts for the day. Maybe our planet will get a breather from the shutdown, and maybe we'll start to realise how fragile our environment is. Maybe Brexit will get cancelled. Maybe humanity will come out of this with a little of our humanity restored.
+
+Thinking about a new mantra.
+
+Pragmatic realism, audacious hope.
+
+We need both combinations to get through this.
+
+----
+
 ## Day 7 — 22nd March 2020
 
 Woke up early and decided to clean my fridge. Don't tell anyone but it REALLY needed it. I can recommend cotton buds if you find yourself in a similar position and needing to do a proper deep clean.
