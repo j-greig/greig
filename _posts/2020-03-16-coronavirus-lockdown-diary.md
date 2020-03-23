@@ -9,6 +9,25 @@ categories:
 
 # If I come out of this with only one thing, it's going to be that I got my writing habit back.
 
+**NEW**
+Feeling isolated? Want to chat with someone? [Say hello and introduce yoursef at the Undesign chatroom on Discord](https://discord.gg/Wxa622s)
+
+----
+
+## Day 7 — 22nd March 2020
+
+Woke up early and decided to clean my fridge. Don't tell anyone but it REALLY needed it. I can recommend cotton buds if you find yourself in a similar position and needing to do a proper deep clean.
+
+After that I restarted my weekly Sunday newsletter. It was hard to find the right tone, and I was more aware than usual that a lot of people were going to read my thoughts. My new mantra is something along the lines of "Pragmatic realism, audacious hope".
+
+By this point it was still well before noon, amazing! I'd arranged to go for a bike ride with a friend, after chatting through the risks and agreeing we'd stay a bike length apart. When I got out on the roads I realised this would have to be my last long ride for a while... although the chance of an accident is tiny, the thought of falling off or breaking bones and ending up in hospital is even less appealing than usual. So no more bike rides on busy roads from now.
+
+I made it home just in time for a scheduled video tea & cake session with my family for mother's day. We got there in the end with the technical stuff, although my parents ended up balancing an iPad on the table instead of a laptop for the entire call. It was so good to see eveyone's faces, including my wee nephew Eddison who turns 1 next week.
+
+When I have time I'm planning to start adding photos to this blog post. Just the odd snap of things that are happening to help bring the situation to life.
+
+Stay home, stay safe, stay together x.
+
 ----
 
 ## Day 6 — 21st March 2020
