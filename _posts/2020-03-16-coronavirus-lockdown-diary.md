@@ -12,6 +12,20 @@ categories:
 **NEW**
 Feeling isolated? Want to chat with someone? [Say hello and introduce yoursef at the Undesign chatroom on Discord](https://discord.gg/Wxa622s)
 
+These posts are in reverse order — so scroll to the bottom of the page if you're new here.
+
+----
+
+## Day 9 — 24th March 2020
+
+Another busy day at work. Clients are starting to react to what's happened, change plans, update their websites.
+
+Outside is quiet though, I went running at 6am and only saw a handful of people. The joggers have already started running on the street instead of the pavement. Exchange wisecracks with a woman who was smoking on her doorstep several metres away as I ran past, which is a first.
+
+Last night I didn't get much sleep, so I had to catch up on my zzzzzzs by taking an afternoon nap. As I was defuzzing my head afterwards, I discovered a message on my phone from the UK government:
+
+> GOV.UK CORONAVIRUS ALERT New rules in force now: you must stay at home. More info & exemptions at gov.uk/coronavirus Stay at home. Protect the NHS. Save lives.
+
 ----
 
 ## Day 8 — 23rd March 2020
