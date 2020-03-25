@@ -16,6 +16,26 @@ These posts are in reverse order — so scroll to the bottom of the page if you'
 
 ----
 
+## Day 10 — 25th March 2020
+
+Woke up at 5am and couldn't get back to sleep, so another early start today. Went for a bike ride along the river and into town, then left my bike in the studio and got a taxi back with a proper office chair.
+
+Afternoon nap.
+
+Worked late on some tweaks to [Forward Journal](https://www.graphicalhouse.com/forward) which relaunches as a dedicated website tomorrow.
+
+Have watched less news today, and have done less doomscrolling too.
+
+Two thoughts from earlier this morning...
+
+(1) Not sure how many weeks/months it'll be before I can safely get a hug from someone :-(
+
+But also...
+
+(2) When that hug does happen, I know it's gonna be the best damn hug of my life :-)
+
+----
+
 ## Day 9 — 24th March 2020
 
 Another busy day at work. Clients are starting to react to what's happened, change plans, update their websites.
