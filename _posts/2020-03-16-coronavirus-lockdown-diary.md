@@ -16,6 +16,18 @@ These posts are in reverse order — so scroll to the bottom of the page if you'
 
 ----
 
+## Day 11 — 26th March 2020
+
+Another busy day at work. I don't know what I'd be doing if I wasn't working. Working works for now.
+
+The supermarkets are enforcing 2m gaps in the queue now, and there's a one in, one out policy, which means people are lining up outside to get in. Not planning another big shop until Sunday morning though. Wish I had more snacks to eat.
+
+Situation in the US looking very bleak. And the new field hospital at the Excel convention centre in London is like something out of a disaster movie — 4,000 beds.
+
+Not sleeping well still.
+
+----
+
 ## Day 10 — 25th March 2020
 
 Woke up at 5am and couldn't get back to sleep, so another early start today. Went for a bike ride along the river and into town, then left my bike in the studio and got a taxi back with a proper office chair.
