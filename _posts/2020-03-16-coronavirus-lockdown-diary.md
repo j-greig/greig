@@ -16,6 +16,34 @@ These posts are in reverse order — so scroll to the bottom of the page if you'
 
 ----
 
+## Day 14 — 29th March 2020
+
+Lingered outside my flat after my run this morning, enjoying the sunshine and the empty street.
+
+Consider making a cake but then realise I don't have any eggs. Make soup instead.
+
+----
+
+## Day 13 — 28th March 2020
+
+My nephew has his first birthday party on Zoom. Watching other people eat cake on video chat is a new form of torture. Another Houseparty drinking session in the evening.
+
+First day that cabin fever has set in. Find myself gravitating towards the windows and staring outside, hoping to catch the eye of someone else doing likewise, and maybe get a wave. Nothing.
+
+----
+
+## Day 12 — 27th March 2020
+
+Social distancing.
+Furloughing.
+PPE (personal protective equipment).
+Houseparty.
+Zoom.
+
+The new vocabulary.
+
+----
+
 ## Day 11 — 26th March 2020
 
 Another busy day at work. I don't know what I'd be doing if I wasn't working. Working works for now.
