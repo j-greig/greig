@@ -7,7 +7,7 @@ categories:
   - life
 ---
 
-# 60 days and counting — riding the ups and downs of the coronacoaster
+# 60 days and counting — some thoughts on riding the coronacoaster
 
 It’s two months since I started [my lockdown diary](https://www.greig.cc/coronavirus-lockdown-diary/), but it could be two years for all I know. Everything about my old life has faded to a memory. Each week a different fantasy takes hold — the thought of a night out in the pub with friends, or going dancing in a sweaty basement club, but most of all a hug, a touch, any form of contact with someone I love.
 
