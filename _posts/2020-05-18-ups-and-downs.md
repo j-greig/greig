@@ -7,6 +7,8 @@ categories:
   - life
 ---
 
+# 60 days and counting — riding the ups and downs of the coronacoaster
+
 It’s two months since I started [my lockdown diary](https://www.greig.cc/coronavirus-lockdown-diary/), but it could be two years for all I know. Everything about my old life has faded to a memory. Each week a different fantasy takes hold — the thought of a night out in the pub with friends, or going dancing in a sweaty basement club, but most of all a hug, a touch, any form of contact with someone I love.
 
 The first month or so of lockdown wasn’t too bad.
@@ -39,4 +41,4 @@ If you’re in lockdown on your own like me, you’re no doubt bored of eating o
 I’m lucky to have an enforced morning routine, thanks to my cat. Even if he hasn't given me a wee yowl by 8pm, just knowing he's sitting outside my bedroom door is enough to get me out of bed like clockwork. Cats like routines, and I like cats, so… think like a cat and figure out a routine. But don't be too hard on yourself if you don't always stick to it. Everyone is entitled to have off-days at the moment. (I'm finding afternoon naps helpful too :)
 
 ## Dance like a maniac
-This one is crazily effective. You just stick some music on and dance around for a bit. I don’t need to say anything else really. I usually go for my kitchen (because kitchens are best at parties, right?) and try to forget that all the flats opposite me can see my every move. 
+This one is crazily effective. You just stick some music on and dance around for a bit. I don’t need to say anything else really. I usually go for my kitchen (because kitchens are best at parties, right?) and try to forget that all the flats opposite me can see my every move.
