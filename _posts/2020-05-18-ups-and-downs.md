@@ -20,8 +20,11 @@ The last few weeks have been much tougher though, and I slipped into a dark patc
 _Been in a low-grade depressive funk the past week. Yesterday my brain snapped back together, and I realised there's no shortcuts from 1 to 4._
 
 _1) Feel crap (denial)_
+
 _2) Admit you are feeling crap, but that this ok_
+
 _3) Restart routines/exercise (wait for it...)_
+
 _4) Feel good again!_
 
 I’m [no stranger to depression](https://www.greig.cc/the-unspoken-d-word-depression/), but that doesn’t mean it ever gets any easier to deal with. This time I had an incredible moment of mental clarity as I emerged from phase 3 into phase 4 — like the flick of a switch that illuminated my whole brain. (A feeling that was undoubtably enhanced by being on a bike ride at the time).
