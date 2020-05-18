@@ -14,7 +14,7 @@ As you hurtle around the track of a rollercoaster, your body is thrown all over 
 
 And beyond a certain point, it gets hard to breathe too.
 
-Your body instinctively tenses up to prevent too much blood leaving your brain. </p>
+Your body instinctively tenses up to prevent too much blood leaving your brain.
 
 <hr />
 

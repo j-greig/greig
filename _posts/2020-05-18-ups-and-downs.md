@@ -45,3 +45,17 @@ I’m lucky to have an enforced morning routine, thanks to my cat. Even if he ha
 
 ## Dance like a maniac
 This one is crazily effective. You just stick some music on and dance around for a bit. I don’t need to say anything else really. I usually go for my kitchen (because kitchens are best at parties, right?) and try to forget that all the flats opposite me can see my every move.
+
+----
+
+I've just remembered that I wrote another piece on [riding the creative rollercoaster](https://www.greig.cc/creative-rollercoaster/) a few years back:
+
+<ul>
+<li>This is tricky</li>
+<li>This is shit</li>
+<li>I am shit</li>
+<li>This might be ok</li>
+<li>Oh wait…</li>
+</ul>
+
+Of course, it's a different process because you enter into by choice... but there are still some interesting similarities. And whether you're currently on an up or a down, I hope you're doing ok overall.  I'm trying to remember that all rides come to a stop eventually.
