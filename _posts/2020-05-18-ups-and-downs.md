@@ -58,4 +58,4 @@ I've just remembered that I wrote another piece on [riding the creative rollerco
 <li>Oh wait…</li>
 </ul>
 
-Of course, it's a different process because you enter into by choice... but there are still some interesting similarities. And whether you're currently on an up or a down, I hope you're doing ok overall.  I'm trying to remember that all rides come to a stop eventually.
+Of course, it's a different process because you enter into by choice... but there are still some interesting similarities. And whether you're currently on an up or a down, I hope you're doing ok overall.  I'm just trying to hang onto the thought that all rides come to a stop eventually.
