@@ -1,5 +1,5 @@
 ---
-title: 'The Beginner's City Cycling Guide'
+title: 'The Beginners City Cycling Guide'
 date: 2020-05-24T05:00:00+00:00
 layout: post
 permalink: /city-cycling-guide/
@@ -7,7 +7,7 @@ categories:
   - life
 ---
 
-# Want to start cycling? Some tips on choosing your first bike, staying safe on the road, and other things you might need.
+# Want to start cycling? Here's how to choose your first bike, stay safe on the road, and choose the right accessories.
 
 Bicycles are having a bit of a moment right now. I’m not going to explain why, but hopefully one day, many years from now when this is all over, someone will  scroll down to check the date on this article and go “Ahhhhh, I see!”.
 
