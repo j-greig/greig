@@ -58,30 +58,30 @@ Of course when you’re riding for fun, you don’t always need to know where yo
 ## Staying safe on the road
 Sadly, here in the UK there isn’t much a huge amount of goodwill towards cyclists, which means you have to keep your wits about you at all times.
 
-1. Expect the unexpected, and cycle like no-one can see you.
-2. Indicate when you’re turning, and do this well in advance so that cars behind you have time to react. And if you’re turning across the road rather than off it, look behind you first. (see 1.)
-3. Use decent lights at night time, front and back (see 1.)
-4. Don’t hug the kerb - you’re more likely to get punctures from glass/debris that collects at the the side of the road, and it puts you at risk of getting hit by someone opening a car door without looking (see 1.)
-5. Make eye contact with drivers. Eg if you’re cycling past a car that’s waiting to turn onto the road, look at the driver to make sure they’ve seen you. (see 1.)
-6. If you have to cycle on the pavement, go slowly, and be courteous. Most of the time you should be on the road of course, but if you do end up on a pavement, be respectful of the people who are meant to be there, and ideally just get off your bike and push for a bit. (see 1.)
+1. **Expect the unexpected**.  Cycle like no-one can see you, and you'll be ready for anything that might happen.
+2. **Indicate when you’re turning** and do so well in advance so that cars behind you have time to react. And if you’re turning across the road rather than off it, look behind you first. (see 1.)
+3. **Use decent lights at night time** front and back (see 1.)
+4. **Don’t hug the kerb**  You’re more likely to get punctures from glass/debris that collects at the the side of the road, and it puts you at risk of getting hit by someone opening a car door without looking (see 1.)
+5. **Make eye contact with drivers.** Eg if you’re cycling past a car that’s waiting to turn onto the road, look at the driver to make sure they’ve seen you. (see 1.)
+6. **If you must cycle on the pavement, go slowly, and be courteous**. Most of the time you should be on the road of course, but if you should end up on a pavement, be respectful of the people who are meant to be there, and ideally just get off your bike and push for a bit. (see 1.)
 
 ## Looking after your bike
-If you buy a bike from an actual shop, you’ll get the benefit of being able to pop back in to get it serviced. And probably a free service after the first year. Getting your bike serviced once a year will probably save money compared to riding it into the ground and then racking up a huge repair bill. (Been there, done that, ouch). Love your bike and it will love you back.
+If you buy a bike from an actual shop, you’ll get the benefit of being able to pop back in to get it serviced. And probably a free service after the first year. Getting your bike serviced once a year will also save money compared to riding it into the ground and then racking up a huge repair bill. (Been there, done that, ouch). Love your bike and it will love you back.
 
-There’s one thing you really should learn to do, and that’s fix a puncture. See “Getting a puncture” in the FAQs section further down for more on this.
+There’s one thing you really should learn to do, and that’s fix a puncture. See _Getting a puncture_ in the FAQs section further down.
 
-In general, maintenance tasks are easier to learn these days thanks to YouTube, and whatever you do, please please please keep your chain lubricated with oil so it doesn’t squeak. For everyone else’s sake, if not your own  :)
+In general, maintenance tasks are easier to learn these days thanks to YouTube, and whatever you do, please please please keep your chain lubricated with oil so it doesn’t squeak. For everyone else’s sake, if not your own :)
 
 Keeping your bike clean is easy to do, especially if done regularly, and will help reduce wear and tear on components like your chain and gears. I’ll also confess that I’m rubbish at this, and that my day-to-bike usually has a “well-loved” look which I’m going to try and blame on Glasgow crappy weather rather than my own laziness.
 
 ##  The cycling accessories I wish I’d bought sooner
 There are three things I’ve recently added to my bike that I wish I’d invested in years ago. In no particular order, there are…
 
-* **A bell.** So you can let people know you’re coming. Especially handy if your cycling on shared-use paths, or through parks, or anywhere there are lots of people around. (Eg anywhere in a city).
+* **A bell.** So you can let people know you’re coming. Especially handy if your cycling on shared-use paths, or through parks, or anywhere there are lots of people around. (Eg pretty much anywhere in a city).
 * **Proper mudguards.** I started off with one of those mudguards that attaches under your saddle and keeps the worst of the spray from your back wheel off your back. But the real deal is a full set of mudguards on both wheels, because the one on the front stops all the spray from the road soaking your feet when it rains, and the one on the back also protects people behind you from getting sprayed.
 * **A permanently-attached bag.** You can either get a saddle bag that sits behind you, or a handlebar bag that nestles between/under your handlebars (making sure you check the sizing carefully, especially if you have a road bike with drop handlebars). You can also get smaller top-tub bags that sit just in front of you, and are a handy place to store some snacks or your spare tube and tools.
 
-## But what about… (insert frequently asked question here)?
+## But what about… (insert FAQ here)
 
 **Wearing a helmet?**
 Whilst this is a legal requirement in some countries (e.g. Australia), in most places this still comes down to personal choice. Will a helmet protect you from minor scrapes? Yes. Will a helmet protect you from being crushed by a lorry? No. And in-between there’s a grey area (which [this](https://www.cyclehelmets.org/) blog covers in great detail). In short, cycling helmets are not tested to very high standards, and there’s mixed scientific evidence as to their effectives. I’m not saying don’t wear one, just that you can’t treat a helmet as a silver bullet. There’s lots more choice when it comes to helmets these days. (And I do wear one for longer road rides).
@@ -94,10 +94,10 @@ Again, it’s going to happen, so be prepared. If you only learn one bit of bike
 
 On the prevention side of things, you can also get thicker, more puncture-resistant tyres like the Schwalbe Marathon Plus. These are a bit slower and heavier than normal tyres, but give you extra peace of mind. In fact I’ve been riding with Marathron Plus tyres for almost two years now and haven’t had a single puncture so far. Touch wood.  Probably shouldn’t have written that down at all. But yeah, they have worked remarkably well so far.
 
-**Getting sweaty on my way to work?**.
+**Getting sweaty on my way to work?**
 This is more of a summer problem because in winter, if you get your clothing right you won’t sweat (Hint: you should be cold for the first 5 minutes of your ride). In summer you want to avoid having anything on your back because it’ll get quickly get sweaty. So if you do need to take stuff to work, use panniers or a handlebar/saddle bag to hold your bits and pieces. It sounds obivous but leaving earlier and cycling slower can help you avoid getting sweaty too. If you don’t have a shower at work then a change of clothes, especially for your top half, is helpful. I spent 7 years cycling to work in London and never once had the option of a shower when I got there, and it was always fine, even for commutes as long as 50 minutes.
 
- **Storing my bike at work?**.
+ **Storing my bike at work?**
 Wherever possible, park your bike inside somewhere. If you do have to lock it outside, use the biggest, strongest lock possible. Possibly with another cable lock around your wheels to keep them safe. You can leave this bigger lock permanently attached outside your work too, so you don’t have to lug it home each day. If lots of people are cycling to your workplace, you might be able to get some kind of dedicated bike storage arranged.
 
 **Gears - how many do I need?**
@@ -114,12 +114,19 @@ Ride your bike.
 Ride any bike.
 Ride alone.
 Ride with friends.
+
 Ride for fun.
+
 Ride to work.
+
 Ride in the sun.
+
 Ride in the rain.
+
 Ride in the dark.
+
 Ride up hills and down hills.
-Just ride.  
+
+Just ride.
 
 PS. For further reading and nerding-out on all things bicycle, [Sheldon Brown’s website](https://www.sheldonbrown.com/) remains *the* ultimate resource and cyclopedia. God bless his soul.
