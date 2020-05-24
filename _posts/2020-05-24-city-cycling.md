@@ -11,7 +11,7 @@ categories:
 
 Bicycles are having a bit of a moment right now. I’m not going to explain why, but hopefully one day, many years from now when this is all over, someone will  scroll down to check the date on this article and go “Ahhhhh, I see!”.
 
-<img src="/media/city-cycling-beginners.jpg" alt="City cyling for smiles and smiles" class="w5" />
+<img src="/media/city-cycling-beginners.jpg" alt="City cyling for smiles and smiles" class="w7" />
 
 For now, let’s just say that the trope about bicycles being the most glaring omission from post-apocalyptic movies has been firmly vindicated. (And you know what, one day I might try to fix this by combining two of my favourite things: cycling and zombie movies.).
 
@@ -24,7 +24,7 @@ The first week or so was tough going, but I loved the freedom that cycling gave 
 ## What’s so great about cycling?
 I started cycling out of practicality — it was the fastest and cheapest way for me to get to work. Instead of checking times for trains or buses, I could leave exactly when I wanted, and get there on time 99% of the time too.  But I soon realised that cycling was the most enjoyable option too. And you can get fit on a bike without really trying.
 
-<img src="/media/bike_secondhand_raleigh.jpg" alt="The second-hand bike that saved my life" class="w5" />
+<img src="/media/bike_secondhand_raleigh.jpg" alt="The second-hand bike that saved my life" class="w7" />
 <small>This was the third second-hand bike that I got in London, and the bike I still ride to work most days even now. An early 90's Raleigh. Steel is real.</small>
 
 ## Choosing your first bike
@@ -34,7 +34,7 @@ One way to sidestep it completely is by starting with a basic and/or second-hand
 
 If you’re thinking of buying a new bike, I would avoid the very cheapest models, which often come with basic components and can therefore a false economy in the long run.
 
-<img src="/media/cyclelove-bike-icons.png" alt="What kind of bikes?" class="w5" />
+<img src="/media/cyclelove-bike-icons.png" alt="What kind of bikes?" class="w7" />
 
 So what kind of bike do you want?
 
