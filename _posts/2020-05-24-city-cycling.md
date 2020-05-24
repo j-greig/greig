@@ -4,7 +4,7 @@ date: 2020-05-24T05:00:00+00:00
 layout: post
 permalink: /city-cycling-guide/
 categories:
-  - cycling
+  - life
 ---
 
 # Want to start cycling? Some tips on choosing your first bike, staying safe on the road, and other things you might need.
