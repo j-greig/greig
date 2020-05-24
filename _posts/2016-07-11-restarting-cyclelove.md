@@ -4,7 +4,7 @@ date: 2016-07-11T15:41:09+00:00
 layout: post
 permalink: /restarting-cyclelove/
 categories:
-  - CycleLove
+  - cycling
 ---
 <img src="/media/saul-steinberg-man-drawing-himself.jpg" alt="Saul Steinberg" class="w5" />
 
@@ -38,11 +38,11 @@ It doesn't matter if someone else set sail first. And you don't have to be first
 
 <h2 id="whateveryoureworkingstowardsbepatient">Whatever you're workings towards, be patient</h2>
 
-I thought I'd missed the boat with my cycling blog CycleLove. After three years of hard labour, I still couldn't work out a way to turn it into a business. So I put it on hold. 
+I thought I'd missed the boat with my cycling blog CycleLove. After three years of hard labour, I still couldn't work out a way to turn it into a business. So I put it on hold.
 
 (Looks like this email is going to be more about boats than trains...)
 
-This was back in November 2015. For the past 18 months I've been pondering my options, sometimes wishing I had kept CycleLove going, and other times thinking that it was time to mothball the project and be done with it. 
+This was back in November 2015. For the past 18 months I've been pondering my options, sometimes wishing I had kept CycleLove going, and other times thinking that it was time to mothball the project and be done with it.
 
 If you miss reading CycleLove, I have some good news: it's coming back!
 
@@ -56,7 +56,7 @@ Last month I was cycling in Victoria Park—on one of those lazy weekend days wh
 
 This put me in a frame of mind to explore my options...
 
-And guess what. This month, I've been in talks with a cycling brand to discuss ways that they can buddy up with CycleLove as a sponsor. 
+And guess what. This month, I've been in talks with a cycling brand to discuss ways that they can buddy up with CycleLove as a sponsor.
 
 Which means that next month, I'll be writing about bike culture again on CycleLove. When I started the blog, I had no idea about writing or marketing. So I'm excited to apply everything I've learnt in the past 4 years and see what happens.
 

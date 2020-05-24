@@ -1,5 +1,5 @@
 ---
-title: 'The Beginners City Cycling Guide'
+title: The City Cycling Guide
 date: 2020-05-24T05:00:00+00:00
 layout: post
 permalink: /city-cycling-guide/
@@ -8,7 +8,7 @@ categories:
   - cycling
 ---
 
-# Want to start cycling? Here's how to choose your first bike, stay safe on the road, and choose the right accessories.
+# Want to start cycling? Here's how to choose your first bike, stay safe on the road, pick the right accessories, and most importantly, how to enjoy riding your bike :)
 
 Bicycles are having a bit of a moment right now. I’m not going to explain why, but hopefully one day, many years from now when this is all over, someone will  scroll down to check the date on this article and go “Ahhhhh, I see!”.
 
@@ -95,13 +95,13 @@ Again, it’s going to happen, so be prepared. If you only learn one bit of bike
 On the prevention side of things, you can also get thicker, more puncture-resistant tyres like the Schwalbe Marathon Plus. These are a bit slower and heavier than normal tyres, but give you extra peace of mind. In fact I’ve been riding with Marathron Plus tyres for almost two years now and haven’t had a single puncture so far. Touch wood.  Probably shouldn’t have written that down at all. But yeah, they have worked remarkably well so far.
 
 **Getting sweaty on my way to work?**.
-This is more of a summer problem because in winter, if you get your clothing right you won’t sweat t (hHint: you should be cold for the first 5 minutes of your ride) . In summer you want to avoid having anything on your back because it’ll get quickly get sweaty. So if you do need to take stuff to work, use panniers or a handlebar/saddle bag to hold your bits and pieces. It sounds obivous but leaving earlier and cycling slower can help you avoid getting sweaty too. If you don’t have a shower at work then a change of clothes, especially for your top half, is helpful. I spent 7 years cycling to work in London and never once had the option of a shower when I got there, and it was fine even for longer commutes.
+This is more of a summer problem because in winter, if you get your clothing right you won’t sweat (Hint: you should be cold for the first 5 minutes of your ride). In summer you want to avoid having anything on your back because it’ll get quickly get sweaty. So if you do need to take stuff to work, use panniers or a handlebar/saddle bag to hold your bits and pieces. It sounds obivous but leaving earlier and cycling slower can help you avoid getting sweaty too. If you don’t have a shower at work then a change of clothes, especially for your top half, is helpful. I spent 7 years cycling to work in London and never once had the option of a shower when I got there, and it was always fine, even for commutes as long as 50 minutes.
 
  **Storing my bike at work?**.
 Wherever possible, park your bike inside somewhere. If you do have to lock it outside, use the biggest, strongest lock possible. Possibly with another cable lock around your wheels to keep them safe. You can leave this bigger lock permanently attached outside your work too, so you don’t have to lug it home each day. If lots of people are cycling to your workplace, you might be able to get some kind of dedicated bike storage arranged.
 
 **Gears - how many do I need?**
-If you live somewhere relatively flat, you might not need any at all. A single-speed bike also has the bonus of reduced maintenance, as you don’t have any gears to look after. You don’t need a ton of gears either, just enough to get you up hills, and let you go fast on the flat. This is one of those things that’s easier to get your head round once you start riding, so probably not something you need to worry hugely about to start with.
+If you live somewhere relatively flat, you might not need any at all. A single-speed bike also has the bonus of reduced maintenance, as you don’t have any gears to look after. You don’t need a ton of gears either, just enough to get you up hills, and let you go fast on the flat. This is one of those things that’s easier to get your head round once you start riding, so probably not something you need to worry hugely about to start with, as long as you have some.
 
 
 
