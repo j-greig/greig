@@ -6,11 +6,9 @@ permalink: /restarting-cyclelove/
 categories:
   - cycling
 ---
-<img src="/media/saul-steinberg-man-drawing-himself.jpg" alt="Saul Steinberg" class="w5" />
+<img src="/media/saul-steinberg-man-drawing-himself.jpg" alt="Saul Steinberg" class="w6" />
 
-I wrote this earlier in the week on the train up to Glasgow.</p>
-
-For once I was packed 12 hours before I had to leave the house. (As much as I like planning, I'm not always so good at packing!)
+I wrote this earlier in the week on the train up to Glasgow. For once I was packed 12 hours before I had to leave the house. (As much as I like planning, I'm not always so good at packing!)
 
 But I still had that nagging feeling that I might miss the train, and woke an hour early at 5am...
 
