@@ -44,10 +44,8 @@ Use `bundle env` to check your local environment
 ----
 
 ## Basic usage
-Start Jekyll and watch for changes
-`jekyll serve --watch`
-
-**BETTER**
+Start Jekyll and watch for changes (`jekyll serve --watch`)
+**LIKE THIS**
 `bundle exec jekyll serve`
 
 Open http://localhost:4000/ in your browser
