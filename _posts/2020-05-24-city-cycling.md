@@ -22,8 +22,10 @@ So one Sunday I borrowed a bike, and my flatmates took me on a test ride along t
 
 The first week or so was tough going, but I loved the freedom that cycling gave me. And from that point on there was no looking back. A year later I’d upgraded my crappy second-hand hybrid bike to a decent single-speed, and was about to buy a road bike for longer rides. And the year after that… well, oh boy, [this talk](https://www.greig.cc/a-second-hand-bicycle-saved-my-life/) explains the rest of that particular cycling story.
 
+----
+
 ## What’s so great about cycling?
-I started cycling out of practicality — it was the fastest and cheapest way for me to get to work. Instead of checking times for trains or buses, I could leave exactly when I wanted, and get there on time 99% of the time too.  But I soon realised that cycling was the most enjoyable option too. And you can get fit on a bike without really trying.
+I started cycling out of practicality — it was the fastest and cheapest way for me to get to work. Instead of checking times for trains or buses, I could leave exactly when I wanted, and get there on time 99% of the time too.  But I soon realised that cycling was the most enjoyable option too. And you can get fit on a bike without really trying. Cycling on a regular basis completely changed my life, and once I started again, I couldn't understand how I'd gone through almost my entire 20s without owning a bike.
 
 <img src="/media/bike_secondhand_raleigh.jpg" alt="The second-hand bike that saved my life" class="w7" />
 <small>This was the third second-hand bike that I got in London, and the bike I still ride to work most days even now. An early 90's Raleigh. Steel is real.</small>
@@ -103,7 +105,7 @@ Wherever possible, park your bike inside somewhere. If you do have to lock it ou
 **Gears - how many do I need?**
 If you live somewhere relatively flat, you might not need any at all. A single-speed bike also has the bonus of reduced maintenance, as you don’t have any gears to look after. You don’t need a ton of gears either, just enough to get you up hills, and let you go fast on the flat. This is one of those things that’s easier to get your head round once you start riding, so probably not something you need to worry hugely about to start with, as long as you have some.
 
-
+----
 
 ## Ready for a spin?
 I can’t imagine life without cycling. For me it’s far more than just a form of transport. Cycling is a meditation, a form of freedom, and a way to magically shrink a city to human scale. A bicycle is the best way to get anywhere you want to go.
@@ -111,8 +113,11 @@ I can’t imagine life without cycling. For me it’s far more than just a form 
 So here’s to your cycling journey. And a few closing words [from a poster I once designed](https://www.underconsideration.com/fpo/archives/2013/03/just-ride-limited-edition-cyclelove-poster.php#disqus_thread)…
 
 Ride your bike.
+
 Ride any bike.
+
 Ride alone.
+
 Ride with friends.
 
 Ride for fun.
