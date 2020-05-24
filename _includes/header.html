@@ -1,3 +1,4 @@
+{% include style_snippets.html %}
 <head>
   <meta charset="{{site.charset}}" />
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -15,7 +16,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.name }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.content | strip_html | truncatewords: 50 }}{% endif %}">
-  <meta name="twitter:image" content="http://www.dropbox.com/s/85575ul9aq3milr/james_greig_photo_grad.png?raw=1" />
+  <meta name="twitter:image" content="{{ page.sharingimage ?? sharing_image }}" />
   <meta name="twitter:site" content="@j_greig" />
   <meta name="twitter:creator" content="@j_greig">
   <meta name="twitter:card" content="summary">
@@ -24,7 +25,7 @@
   <meta property="og:type" content="article">
   <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
+  <meta property="og:image" content="{{ page.sharingimage ?? sharing_image }}" />
   <meta property="og:site_name" content="James Greig">
   <meta property="article:publisher" content="https://www.facebook.com/james.d.r.greig" />
   <meta property="article:author" content="https://www.facebook.com/james.d.r.greig" />

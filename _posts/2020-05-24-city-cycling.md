@@ -6,6 +6,7 @@ permalink: /city-cycling-guide/
 categories:
   - life
   - cycling
+sharingimage: https://greig.cc/media/city-cycling-beginners.jpg
 ---
 
 # Want to start cycling? Here's how to choose your first bike, stay safe on the road, pick the right accessories, and most importantly, how to enjoy riding your bike :)
