@@ -5,6 +5,7 @@ layout: post
 permalink: /city-cycling-guide/
 categories:
   - life
+  - cycling
 ---
 
 # Want to start cycling? Here's how to choose your first bike, stay safe on the road, and choose the right accessories.
@@ -109,7 +110,7 @@ I can’t imagine life without cycling. For me it’s far more than just a form 
 
 So here’s to your cycling journey. And a few closing words [from a poster I once designed](https://www.underconsideration.com/fpo/archives/2013/03/just-ride-limited-edition-cyclelove-poster.php#disqus_thread)…
 
-Ride your bike .
+Ride your bike.
 Ride any bike.
 Ride alone.
 Ride with friends.
@@ -119,6 +120,6 @@ Ride in the sun.
 Ride in the rain.
 Ride in the dark.
 Ride up hills and down hills.
-Just ride.
+Just ride.  
 
 PS. For further reading and nerding-out on all things bicycle, [Sheldon Brown’s website](https://www.sheldonbrown.com/) remains *the* ultimate resource and cyclopedia. God bless his soul.
