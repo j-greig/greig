@@ -128,8 +128,8 @@ tags:
 <p><strong>Make it about your reader, not yourself.</strong></p>
 
 <p>Let’s circle back to that “People don't buy products; they buy better versions of themselves” quote from Samuel Hulick. <a href="https://www.useronboard.com/features-vs-benefits/">Here</a> is how he illustrated his point:</p>
-  
-<img src="/media/people-dont-buy-products-buy-better-versions-themselves.png" alt="People don&#039;t buy products; they buy better versions of themselves" width="1000" height="744" class="alignnone size-full wp-image-1748" />  
+
+<img src="/media/people-dont-buy-products-buy-better-versions-themselves.png" alt="People don&#039;t buy products; they buy better versions of themselves" width="1000" height="744" class="alignnone size-full wp-image-1748" />
 
 <p>He then went on to elaborate:</p>
 
@@ -221,10 +221,6 @@ tags:
 
 <p>Secondly, open up a spreadsheet or text document, and copy and paste in phrases that catch your eye. Look for reoccurring phrases, pain points and emotions. This is your copywriting gold dust; collect enough of it (it will take hours, perhaps days) and you’ve can melt it down into 24 carat copy.</p>
 
-<p>Watch the video below of Amy Hoy’s awesome <a href="https://unicornfree.com/2013/video-sales-safari-in-action">Sales Safari</a> technique to see this approach in action:</p>
- 
-   <iframe src="//fast.wistia.net/embed/iframe/8ba9nh6j2a?wmode=opaque" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" oallowfullscreen="" msallowfullscreen="" width="640" height="480"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js" async=""></script>
- 
 <p>Now, I’m not a professional copywriter so don't just take my word on this.</p>
 
 <p>Joanna Wiebe is, and guess what? She <a href="http://copyhackers.com/2014/10/amazon-review-mining/">recommends a similar approach</a>:</p>
@@ -317,4 +313,3 @@ tags:
 <p>― C.S. Lewis</p>
 
 <p>If you’re new to writing online, I hope that what you’ve just read was helpful.</p>
-
