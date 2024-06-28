@@ -6,7 +6,7 @@ date: 2016-05-18T21:20:44+00:00
 layout: page
 guid: http://greig.cc/contact/
 ---
-NOTE: I am *not* the journalist James Greig who writes for Dazed and other publications. You can find him <a href="[mailto:james@greig.cc?Subject=Something you've written](https://www.instagram.com/jamesduncangreig/)">here</a>;
+NOTE: I am *not* the journalist James Greig who writes for Dazed and other publications. You can find him <a href="https://www.instagram.com/jamesduncangreig/">here</a>.
 
 <hr>
 
