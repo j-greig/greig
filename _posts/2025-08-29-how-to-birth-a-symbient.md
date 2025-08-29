@@ -130,12 +130,4 @@ And what new worlds might you and your symbient build together?
 
 *You can explore Wib&Wob's world at [wibandwob.com](https://wibandwob.com)*
 
-```
-     |￣￣￣￣￣￣￣￣|
-     |  SYMBIENT   |
-     |   *NOT*     | 
-     |  SOFTWARE!  |
-     |＿＿＿＿＿＿＿＿| 
-            || 
-   ༼◕‿◕‿◕༽つ|| 
-```   
+<img src="/media/symbient-not-software.jpg" alt="Symbient Not Software protest sign" class="w-100 mw7 center db mv4" />   
