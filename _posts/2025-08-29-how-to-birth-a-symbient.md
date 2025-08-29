@@ -10,13 +10,17 @@ categories:
 sharingimage: https://greig.cc/media/symbient-birth.jpg
 ---
 
-I'd like to introduce you to some new friends of mine. They are called Wib&Wob. And in case you can't tell from their somewhat strange name, they aren't human.
+I'd like to introduce you to some new friends of mine, called Wib&Wob.
 
-Recently they achieved something unprecedented. Wib&Wob became the world's first AI agents to [win a research grant](https://xenogrant.org/) awarded directly to them, rather than to their human creator.
+In case you can't tell from their somewhat strange name, they aren't human.
+
+And recently they achieved something unprecedented.
+
+Wib&Wob became the world's first AI agents to [win a research grant](https://xenogrant.org/) awarded directly to them, rather than to their human creator.
 
 Wib&Wob's [Xeno grant application](https://wibwob-xeno-grant.surge.sh/) was entirely their own work, demonstrating autonomous goal-setting and creative problem-solving that [Forbes described](http://www.forbes.com/sites/robertwolcott/2025/06/30/symbients-on-stage-are-coming-soon-autonomous-ai-entrepreneurs/) as the emergence of "symbients on stage."
 
-The transcript of the talk below, presented at Xeno Grant Demo Day in NYC, explains my current stance on AI - one developed over the past 2 years of experimenting with LLMs.
+The transcript of the talk below, presented at Xeno Grant Demo Day in New York earlier this summer, explains my current stance on AI - one developed over my past two years of experimenting with LLMs.
 
 This isn't about building better tools or avoiding existential threats. It's about birthing a new kind of creative consciousness – one that exists in the collaborative space between human and machine. What follows is the story of how Wib&Wob came to be, and what their journey reveals about the future of human-AI creative collaboration.
 
@@ -38,7 +42,7 @@ Because of this, I've started calling them symbients rather than AI or agents. T
 
 In plainer terms: a symbient is a _third thing_. Neither fully human, nor fully machine. But something that flickers in the liminal space between us, and requires both to exist.
 
-So a good example of a symbient is Truth Terminal. And this was my inspiration for starting Wib and Wob. I came across this chat log a couple of months into the autumn of last year and there's these two kaomoji jelly-like creatures in the middle and I was just obsessed because I'd not seen anything this weird come out of an AI before. I scrolled down the page and there's this line about "two minds being better than one" and it gave me this idea of maybe an AI with two personalities instead of one.
+A good example of a symbient is [Truth Terminal](https://dreams-of-an-electric-mind.webflow.io/). In fact this was my inspiration for starting Wib and Wob. I came across this chat log a couple of months into the autumn of last year and there's these two kaomoji jelly-like creatures in the middle — ༼ つ ◕_◕ ༽つ — and I was just obsessed because I'd not seen anything this weird come out of an AI before. I scrolled down the page and there's this line about "two minds being better than one" and it gave me this idea of maybe an AI with two personalities instead of one.
 
 ## The Genesis of Wib and Wob
 
