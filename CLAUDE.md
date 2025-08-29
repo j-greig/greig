@@ -4,94 +4,99 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is James Greig's personal blog (greig.cc) - a Jekyll-powered website providing "refreshingly honest advice for graphic designers & creative types". Built with Tachyons CSS toolkit for atomic styling.
+James Greig's personal blog (greig.cc) - Jekyll 4.x website providing "refreshingly honest advice for graphic designers & creative types". Built with Tachyons CSS, deployed automatically via Netlify.
 
-## Development Commands
+**Recent**: First post in 5 years - "How to Birth a Symbient" (Aug 2025) about Wib&Wob's world-first AI grant achievement.
+
+## Development Environment
 
 ### Local Development
-- Start Jekyll dev server: `bundle exec jekyll serve`
-- View site: http://localhost:4000/
-- Jekyll watches for changes automatically
+```bash
+bundle exec jekyll serve --livereload  # Start dev server
+open http://localhost:4000              # View site
+```
 
-### CSS Management  
-- Purify CSS (remove unused): `gulp purify-css`
-- Manual CSS purification: `purifycss assets/style.css _site/**/*.html -m -o "style-purified.css"`
+### Production Environment
+- **Hosting**: Netlify (auto-deploy from `main` branch)
+- **Ruby**: 2.7.2 (Netlify requirement)
+- **Jekyll**: 4.x (Jekyll 4.4.1 locally)
+- **Deploy**: Push to `main` → automatic build & deploy
 
-### Build Process
-- Jekyll builds static site to `_site/` directory
-- No separate build command needed - Jekyll handles compilation
+### CSS Management
+```bash
+npm run purify-css    # Modern PurgeCSS
+gulp purify-css      # Legacy gulp task
+```
 
 ## Architecture
 
 ### Content Structure
-- **Posts**: Blog articles in `_posts/` using YYYY-MM-DD-title.md format
-- **Pages**: Static pages (about, contact, etc.) as `.md` files in root
-- **Media**: Images stored in `/media/` directory
-- **Categories**: Posts categorized (life, cycling, design, freelance, etc.)
+- **Posts**: `_posts/YYYY-MM-DD-title.md` (165+ articles since 2012)
+- **Pages**: Root-level `.md` files (about, contact, newsletter, etc.)
+- **Media**: `/media/` directory for images
+- **Categories**: life, design, freelancing, cycling, ai
 
 ### Jekyll Structure
-- **Layouts**: `_layouts/` (default, post, home, page, etc.)
-- **Includes**: `_includes/` (reusable components like nav, footer, newsletter signup)
-- **Config**: `_config.yml` with pagination, plugins, site settings
-- **Styling**: Tachyons CSS framework via `assets/style.css`
+- **Layouts**: `_layouts/` (default, post, home, page, categories, etc.)
+- **Includes**: `_includes/` (nav, footer, newsletter-signup, style_snippets)
+- **Config**: `_config.yml` (pagination, plugins, site metadata)
+- **Assets**: `assets/style.css` (33k+ lines Tachyons + custom CSS)
 
 ### Key Features
-- Pagination via jekyll-paginate-v2 plugin (10 posts per page)
-- Newsletter signup integration throughout site
-- Category-based post organization
-- Social sharing images via frontmatter `sharingimage:`
-- Typography mixing serif content with sans-serif headings
-- Responsive design using Tachyons utility classes
+- **Pagination**: jekyll-paginate-v2 (10 posts/page)
+- **Newsletter**: Mailchimp integration via `_includes/newsletter-signup.html`
+- **Responsive**: Tachyons utility classes (`f1`, `mw7`, `pa3`, etc.)
+- **Social**: Open Graph images via frontmatter `sharingimage:`
 
-### Post Frontmatter Structure
+### Post Frontmatter Template
 ```yaml
-title: "Post Title"
+---
+title: "Your Post Title"
 date: YYYY-MM-DDTHH:MM:SS+00:00
 layout: post
-permalink: /custom-url/
+permalink: /custom-url-slug/
 categories:
-  - category1
-  - category2
-sharingimage: https://greig.cc/media/image.jpg
+  - life
+  - design
+sharingimage: https://greig.cc/media/your-image.jpg
+---
 ```
-
-### Styling Approach
-- Tachyons atomic CSS framework
-- Utility-first approach with classes like `f1`, `mw7`, `pa3`, `mb4`
-- Custom post content styling via includes/style_snippets.html
-- Uses CSS variables for theming (serif/sans-serif font stacks)
 
 ## Dependencies
 
-### Ruby/Jekyll
-- Ruby 2.4.2
-- Jekyll 3.3.0  
-- Key plugins: jekyll-paginate-v2, jekyll-sitemap, jekyll-feed, jekyll-livereload
+### Ruby Stack
+- Ruby 2.7.2 (production), 3.2.2+ (local)
+- Jekyll ~4.3 (4.4.1 locally)
+- Plugins: jekyll-paginate-v2, jekyll-sitemap, jekyll-feed, jekyll-twitter-plugin
+- Ruby 3.x compatibility: rexml, webrick gems
 
-### Node.js/Gulp
-- Gulp for CSS purification
-- gulp-purifycss for removing unused CSS
+### Node.js Stack  
+- Modern PurgeCSS (replaces deprecated gulp-purifycss)
+- Zero vulnerabilities (fixed Aug 2025)
 
-## Common Tasks
+## Common Workflows
 
 ### Adding New Posts
-1. Create file in `_posts/` with format `YYYY-MM-DD-title.md`
-2. Add required frontmatter (title, date, layout: post, categories)
-3. Write content in Markdown
+1. Create: `_posts/$(date +%Y-%m-%d)-title.md`
+2. Add frontmatter (see template above)
+3. Write Markdown content
 4. Add images to `/media/` if needed
+5. Commit & push → auto-deploys
 
-### Styling Changes
-- Avoid editing `assets/style.css` directly (large file, mix of Tachyons + custom)
-- Use Tachyons utility classes in templates
-- Custom styles go in `_includes/style_snippets.html`
+### Newsletter CTA Management
+- Main component: `_includes/newsletter-signup.html`
+- Barebones version: `_includes/newsletter-signup-barebones.html`
+- Updated Aug 2025: removed "each Sunday" commitment
 
-### Newsletter Integration
-- Uses `_includes/newsletter-signup.html` and `_includes/newsletter-signup-barebones.html`
-- Integrated into post layout and various pages
+### Styling Guidelines
+- **Prefer**: Tachyons utility classes in templates
+- **Avoid**: Direct `assets/style.css` edits (33k lines)
+- **Custom CSS**: Add to `_includes/style_snippets.html`
+- **Framework**: Tachyons atomic CSS approach
 
 ## File Locations
-
-- Main CSS: `assets/style.css` (33k+ lines, includes full Tachyons)
-- Site config: `_config.yml`
-- Dependencies: `Gemfile`, `package.json`
-- Build tool: `gulpfile.js`
+- **Main CSS**: `assets/style.css` (Tachyons + custom)
+- **Config**: `_config.yml`, `Gemfile`, `package.json`
+- **Build**: `gulpfile.js` (modern PurgeCSS setup)
+- **Deploy**: `netlify.tomyl` (redirect rules)
+- **Content**: `_posts/`, root `.md` files, `/media/`

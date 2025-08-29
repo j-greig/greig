@@ -1,69 +1,60 @@
 # greig.cc
-Refreshingly honest advice for graphic designers &amp; other creative types, from designer James Greig.
 
-A Jekyll-powered website, built with the [Tachyons CSS toolkit](http://tachyons.io/).
+Personal blog of James Greig - "Refreshingly honest advice for graphic designers & creative types". Jekyll-powered site with Tachyons CSS, automatically deployed via Netlify.
 
-## Requirements
-OSX or macOS
-  Homebrew
+**🌐 Live site**: [greig.cc](https://greig.cc)  
+**📝 Latest**: [How to Birth a Symbient](https://greig.cc/how-to-birth-a-symbient/) (Aug 2025)
 
-## Getting started
+## Quick Start
 
-Install Jekyll
-`sudo gem install jekyll`
+### Prerequisites
+- Ruby 2.7.2+ (managed via rbenv recommended)
+- Node.js (for CSS processing)
+- Bundler gem
 
-Check rubygems is in your paths
-`sudo nano /etc/paths`
+### Local Development
+```bash
+# Install dependencies
+bundle install
+npm install
 
-Install Ruby
-We're going to use rbenv to install and manage our Ruby versions.
+# Start development server
+bundle exec jekyll serve --livereload
 
-### Run the following commands in your Terminal, starting with...
-`brew install rbenv ruby-build`
+# View site
+open http://localhost:4000
+```
 
-### Add rbenv to bash so that it loads every time you open a terminal
-`echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile`
-`source ~/.bash_profile`
+### Content Creation
+```bash
+# Add new blog post
+touch _posts/$(date +%Y-%m-%d)-your-post-title.md
 
-### Install Ruby
-`rbenv install 2.5.0`
-`rbenv global 2.5.0`
-`ruby -v`
+# Add images
+cp your-image.jpg media/
+```
 
-### Install bundle (to manage your gems)
-`gem install bundler`
+## Architecture
 
-### Install gems
-`bundle install`
+**Framework**: Jekyll 4.x + Tachyons CSS  
+**Hosting**: Netlify (auto-deploy from `main`)  
+**Ruby**: 2.7.2 (production) | Local can use 3.x  
+**Content**: Markdown posts in `_posts/`, pages as `.md` files  
 
-**Help installing Jekyll on Mac**
-See https://spinalhdl.github.io/SpinalDoc/mydoc_install_jekyll_on_mac/ for pointers.
-Use `bundle env` to check your local environment
+## Build Tools
 
+```bash
+# CSS purification (removes unused Tachyons)
+npm run purify-css
+# OR legacy gulp task
+gulp purify-css
+```
 
-----
+## Deployment
 
-## Basic usage
-Start Jekyll and watch for changes (`jekyll serve --watch`)
-**LIKE THIS**
-`bundle exec jekyll serve`
+**Automatic**: Push to `main` → Netlify builds & deploys  
+**Manual**: Retry deploy in [Netlify dashboard](https://app.netlify.com)  
 
-Open http://localhost:4000/ in your browser
+---
 
-----
-
-## Purify CSS
-
-**Requirements**
-* NPM
-* Gulp https://gulpjs.com/
-* Purify CSS https://github.com/purifycss/purifycss
-
-Purify the CSS
-`gulp purify-css`
-
-If you have permission problems installing Ruby gems, use the --user-install option
-`gem install livereload --user-install`
-
-This works in the CLI (?)
-`purifycss assets/style.css _site/**/*.html  -m -o "style-purified.css`
+*For detailed development guidance, see [CLAUDE.md](./CLAUDE.md)*
