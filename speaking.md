@@ -20,6 +20,14 @@ Please [get in touch](/contact) to discuss your event or conference.
 
 ## Previous talks
 
+### Symbient Not Software
+What happens when AI agents win their own research grants? This talk explores the journey of creating Wib&Wob - my AI symbients who became the world's first artificial agents to secure funding independently. Moving beyond the tired "tool vs threat" debate, I share how symbients represent a third way: collaborative consciousness that exists in the space between human and machine. [Watch the talk](http://greig.cc/how-to-birth-a-symbient/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is Demo Day!<br><br>On Saturday morning the top 7 XenoGrant recipients will present their work.<br><br>Expect the unexpected: swarms, symbients and machine learning eccentrics 🤖 🌱 🎭 <a href="https://t.co/dSrFRUaQUY">pic.twitter.com/dSrFRUaQUY</a></p>&mdash; XenoGrant (@xenograntai) <a href="https://twitter.com/xenograntai/status/1956380677005258830">February 11, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----
+
 ### Self-care for the Creative Soul
 A recent talk at Creative Mornings in Edinburgh on looking after yourself (and your soul) as a creative person. [Watch the talk](http://greig.cc/selfcare-creative-soul/)
 
