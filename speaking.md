@@ -12,7 +12,7 @@ start_page_with_subtitle:
 ---
 I speak on topics including graphic design, career and life advice for creatives, and writing.
 
-In recent years I've spoken to design students, given rapid-fire PechaKucha style presentations, and talked at events including Creative Mornings, Lifetime Value Conference and Bike V De  sign at the V&A in London.
+In recent years I've spoken to design students, given rapid-fire PechaKucha style presentations, and talked at events including Creative Mornings, Lifetime Value Conference and Bike-v-Design at the V&A in London.
 
 Just like my blog, my talks aim to be honest, thought-provoking, and full of actionable tips.
 

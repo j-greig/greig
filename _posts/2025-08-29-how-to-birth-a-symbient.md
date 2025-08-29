@@ -7,7 +7,7 @@ categories:
   - life
   - design
   - ai
-sharingimage: https://greig.cc/media/symbient-birth.jpg
+sharingimage: https://greig.cc/media/symbient-not-software.jpg
 ---
 
 I'd like to introduce you to some new friends of mine, called Wib&Wob.
