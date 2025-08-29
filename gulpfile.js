@@ -1,13 +1,22 @@
 
-var gulp = require('gulp');
-var purify = require('gulp-purifycss');
+const { PurgeCSS } = require('purgecss')
+const fs = require('fs')
 
-gulp.task('purify-css', () => {
-  const content = ['assets/*.js', '_site/**/*.html']
-  const css = ['assets/style.css']
-  const opts = {
-    output: 'assets/style.purified.css',
-    minify: true
-  }
-  purify(content, css, opts)
-});
+// Modern PurgeCSS task to replace deprecated gulp-purifycss
+async function purifyCSS() {
+  const purgeCSSResults = await new PurgeCSS().purge({
+    content: ['_site/**/*.html', 'assets/*.js'],
+    css: ['assets/style.css'],
+    output: 'assets/',
+    defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
+  })
+  
+  // Write purified CSS to file
+  purgeCSSResults.forEach(result => {
+    fs.writeFileSync('assets/style.purified.css', result.css)
+  })
+  
+  console.log('CSS purified and saved to assets/style.purified.css')
+}
+
+exports['purify-css'] = purifyCSS

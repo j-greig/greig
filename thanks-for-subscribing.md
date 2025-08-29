@@ -5,7 +5,7 @@ layout: page
 permalink: /thanks-for-subscribing/
 
 ---
-I'll be writing to you every Sunday.
+I'll be writing to you every now and again.
 
 Please check your spam folder if you don't hear from me — and if you're a Gmail user, be sure to drag my email from your <em>Promotions</em> tab to your <em>Primary</em> inbox.
 

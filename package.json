@@ -16,7 +16,7 @@
     "url": "https://github.com/j-greig/greig/issues"
   },
   "homepage": "https://github.com/j-greig/greig#readme",
-  "dependencies": {
-    "gulp-purifycss": "^0.2.0"
+  "devDependencies": {
+    "purgecss": "^7.0.2"
   }
 }

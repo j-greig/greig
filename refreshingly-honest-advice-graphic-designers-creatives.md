@@ -14,7 +14,7 @@ start_page_with_subtitle:
 
 <!-- <h2 class="f4 mh3 mh5-m mh6-l mb2 normal measure-narrow">Get proven tips on getting unstuck, going freelance, rethinking your career, and making writing a habit.</h2> 
 
-<h2 class="f4 mh3 mh5-m mh6-l mb2 normal measure-narrow">Join thousands of people receiving my thoughts on life, design and freelancing each Sunday:</h2>-->
+<h2 class="f4 mh3 mh5-m mh6-l mb2 normal measure-narrow">Join thousands of people receiving my thoughts on life, design and freelancing:</h2>-->
 
 [mc4wp_form id="516" element_class="mh3 mh5-m mh6-l pt2"]
 
