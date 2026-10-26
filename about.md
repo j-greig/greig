@@ -33,8 +33,6 @@ You're in the right place.
 <blockquote>Just started reading <a href="https://gumroad.com/l/reset-your-brain">your book</a> and loving it. I've had a tough few months and know I need to shake it up but there's always a "first I need to do X, Y, Z...what if my decision upsets someone..." getting in the way.
 <cite>— Esther</cite></blockquote>
 
-{% include newsletter-signup.html %}
-
 ## My story
 A few years ago <a href="http://greig.cc/how-to-stop-being-a-graphic-designer">I had a personal meltdown and quit my job</a>, and then spent two months travelling across the USA by train. I was working so hard I didn't have energy for side projects of my own, and the work I was doing didn't feel like it mattered any more.
 
@@ -82,4 +80,3 @@ PS. <a href="http://greig.cc/contact/">What's happening in your life that has b
 	<li><a href="http://greig.cc/gifted-books-2016">Gifted Books</a></li>
 </ul>
 
-{% include newsletter-signup.html %}
