@@ -18,7 +18,7 @@ open http://localhost:4000              # View site
 
 ### Production Environment
 - **Hosting**: Netlify (auto-deploy from `main` branch)
-- **Ruby**: 2.7.2 (Netlify requirement)
+- **Ruby**: 3.3.6 via `.ruby-version` (Netlify installs it with mise; no Gemfile.lock, so gems resolve fresh each build)
 - **Jekyll**: 4.x (Jekyll 4.4.1 locally)
 - **Deploy**: Push to `main` → automatic build & deploy
 
@@ -65,7 +65,7 @@ sharingimage: https://greig.cc/media/your-image.jpg
 ## Dependencies
 
 ### Ruby Stack
-- Ruby 2.7.2 (production), 3.2.2+ (local)
+- Ruby 3.3.6 (production, `.ruby-version`); any 3.x/4.x locally
 - Jekyll ~4.3 (4.4.1 locally)
 - Plugins: jekyll-paginate-v2, jekyll-sitemap, jekyll-feed, jekyll-twitter-plugin
 - Ruby 3.x compatibility: rexml, webrick gems

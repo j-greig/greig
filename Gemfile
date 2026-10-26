@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-ruby "2.7.2"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -29,7 +28,12 @@ group :jekyll_plugins do
    # gem 'jekyll-livereload' # Not compatible with Jekyll 4.x, using built-in --livereload
 end
 
-# Required for Ruby 3.x compatibility
+# Required for Ruby 3.x compatibility (and default gems dropped in 3.4+)
 gem 'rexml'
 gem 'webrick'
+gem 'ostruct'
+gem 'csv'
+gem 'logger'
+gem 'base64'
+gem 'bigdecimal'
 
