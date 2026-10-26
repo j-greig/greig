@@ -7,7 +7,7 @@ description: Refreshingly honest notes on art, design, technology, writing and m
   <h2 class="f6 ttu tracked normal mb3">Latest articles</h2>
   <ul class="list pl0 mt0">
     {% for post in site.posts limit:5 %}
-    <li class="mb3 serif f3 lh-title"><a class="link black dim" href="{{ post.url }}">{{ post.title }}</a> <span class="sans-serif f6 o-60">{{ post.date | date: "%Y" }}</span></li>
+    <li class="mb3 serif f3 lh-title"><a class="link black" href="{{ post.url }}">{{ post.title }}</a> <span class="sans-serif f6 o-60">{{ post.date | date: "%Y" }}</span></li>
     {% endfor %}
   </ul>
   <a class="f6 ttu tracked link black underline" href="/articles/">All articles</a>
