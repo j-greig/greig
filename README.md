@@ -1,6 +1,6 @@
 # greig.cc
 
-Personal blog of James Greig - "Refreshingly honest advice for graphic designers & creative types". Jekyll-powered site with Tachyons CSS, automatically deployed via Netlify.
+Personal blog of James Greig - "Refreshingly honest notes on art, design, technology & writing". Jekyll-powered site with Tachyons CSS, automatically deployed via Netlify.
 
 **🌐 Live site**: [greig.cc](https://greig.cc)  
 **📝 Latest**: [How to Birth a Symbient](https://greig.cc/how-to-birth-a-symbient/) (Aug 2025)

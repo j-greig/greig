@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-James Greig's personal blog (greig.cc) - Jekyll 4.x website providing "refreshingly honest advice for graphic designers & creative types". Built with Tachyons CSS, deployed automatically via Netlify.
+James Greig's personal blog (greig.cc) - Jekyll 4.x website providing "refreshingly honest notes on art, design, technology & writing". Built with Tachyons CSS, deployed automatically via Netlify.
 
 **Recent**: First post in 5 years - "How to Birth a Symbient" (Aug 2025) about Wib&Wob's world-first AI grant achievement.
 
